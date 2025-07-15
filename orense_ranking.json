@@ -1,0 +1,347 @@
+{
+  "torneo": "RANKING 3ª CATEGORÍA OURENSE - CLASIFICATORIO CAMPEONATO GALLEGO",
+  "descripcion": {
+    "cabeza_serie": "Cabeza de serie XXXIII Campeonato Gallego 3ª Categoría",
+    "clasificado": "Clasificado XXXIII Campeonato Gallego 3ª Categoría",
+    "nota_clasificados": "Los jugadores clasificados para el XXXIII Campeonato Gallego (Lalín del 18 al 20 de Julio) deberán confirmar su participación antes del día 9 de Junio a las 12:00 horas",
+    "nota_repesca": "Los jugadores no clasificados que hayan disputado un mínimo de 5 pruebas podrán optar a más plazas en una repesca provincial el día 14 de Junio, para la que deberán confirmar su participación antes del día 9 de Junio a las 12:00 horas"
+  },
+  "jugadores": [
+    {
+      "posicion": 1,
+      "agp": "4932",
+      "nombre": "RAFAEL VARELA SOTO",
+      "pruebas": {
+        "p1": 14,
+        "p2": 10,
+        "p3": 10,
+        "p4": 14,
+        "p5": 14,
+        "p6": 10,
+        "p7": 14,
+        "p8": 0,
+        "p9": 7
+      },
+      "partidas": {
+        "pf": 108,
+        "pc": 67,
+        "dp": 41
+      },
+      "puntos": {
+        "p": 93,
+        "v": 16,
+        "t": 109,
+        "penalizaciones": 0,
+        "pt": 109
+      }
+    },
+    {
+      "posicion": 2,
+      "agp": "14986",
+      "nombre": "JOSE RAMON SOUTO LAMAS",
+      "pruebas": {
+        "p1": 7,
+        "p2": 14,
+        "p3": 14,
+        "p4": 7,
+        "p5": 8,
+        "p6": 8,
+        "p7": 10,
+        "p8": 14,
+        "p9": 8
+      },
+      "partidas": {
+        "pf": 100,
+        "pc": 83,
+        "dp": 17
+      },
+      "puntos": {
+        "p": 90,
+        "v": 18,
+        "t": 108,
+        "penalizaciones": 7,
+        "pt": 101
+      }
+    },
+    {
+      "posicion": 3,
+      "agp": "14551",
+      "nombre": "JORGE JOSE SOUTO PEREZ",
+      "pruebas": {
+        "p1": 14,
+        "p2": 14,
+        "p3": 14,
+        "p4": 7,
+        "p5": 6,
+        "p6": 7,
+        "p7": 8,
+        "p8": 0,
+        "p9": 10
+      },
+      "partidas": {
+        "pf": 81,
+        "pc": 72,
+        "dp": 9
+      },
+      "puntos": {
+        "p": 80,
+        "v": 16,
+        "t": 96,
+        "penalizaciones": 0,
+        "pt": 96
+      }
+    },
+    {
+      "posicion": 4,
+      "agp": "18154",
+      "nombre": "JOSE FIDEL ALVAREZ GALLEGO",
+      "pruebas": {
+        "p1": 10,
+        "p2": 0,
+        "p3": 10,
+        "p4": 10,
+        "p5": 7,
+        "p6": 14,
+        "p7": 7,
+        "p8": 10,
+        "p9": 7
+      },
+      "partidas": {
+        "pf": 82,
+        "pc": 81,
+        "dp": 1
+      },
+      "puntos": {
+        "p": 75,
+        "v": 16,
+        "t": 91,
+        "penalizaciones": 0,
+        "pt": 91
+      }
+    },
+    {
+      "posicion": 5,
+      "agp": "18475",
+      "nombre": "JOSE ANTONIO SIERRALTA VAZQUEZ",
+      "pruebas": {
+        "p1": 8,
+        "p2": 8,
+        "p3": 8,
+        "p4": 8,
+        "p5": 7,
+        "p6": 7,
+        "p7": 8,
+        "p8": 8,
+        "p9": 0
+      },
+      "partidas": {
+        "pf": 78,
+        "pc": 70,
+        "dp": 8
+      },
+      "puntos": {
+        "p": 62,
+        "v": 16,
+        "t": 78,
+        "penalizaciones": 0,
+        "pt": 78
+      }
+    },
+    {
+      "posicion": 6,
+      "agp": "9709",
+      "nombre": "EDUARDO SIERRA DIAZ",
+      "pruebas": {
+        "p1": 0,
+        "p2": 8,
+        "p3": 8,
+        "p4": 6,
+        "p5": 8,
+        "p6": 6,
+        "p7": 6,
+        "p8": 8,
+        "p9": 8
+      },
+      "partidas": {
+        "pf": 47,
+        "pc": 78,
+        "dp": -31
+      },
+      "puntos": {
+        "p": 58,
+        "v": 16,
+        "t": 74,
+        "penalizaciones": 0,
+        "pt": 74
+      }
+    },
+    {
+      "posicion": 7,
+      "agp": "2091",
+      "nombre": "LUCAS RODRIGO FERNANDEZ FERNANDEZ",
+      "pruebas": {
+        "p1": 0,
+        "p2": 0,
+        "p3": 0,
+        "p4": 8,
+        "p5": 10,
+        "p6": 8,
+        "p7": 7,
+        "p8": 7,
+        "p9": 14
+      },
+      "partidas": {
+        "pf": 59,
+        "pc": 49,
+        "dp": 10
+      },
+      "puntos": {
+        "p": 54,
+        "v": 12,
+        "t": 66,
+        "penalizaciones": 0,
+        "pt": 66
+      }
+    },
+    {
+      "posicion": 8,
+      "agp": "18295",
+      "nombre": "SANTIAGO LOPEZ RODRIGUEZ",
+      "pruebas": {
+        "p1": 8,
+        "p2": 0,
+        "p3": 7,
+        "p4": 0,
+        "p5": 6,
+        "p6": 6,
+        "p7": 0,
+        "p8": 0,
+        "p9": 0
+      },
+      "partidas": {
+        "pf": 23,
+        "pc": 36,
+        "dp": -13
+      },
+      "puntos": {
+        "p": 27,
+        "v": 8,
+        "t": 35,
+        "penalizaciones": 0,
+        "pt": 35
+      }
+    },
+    {
+      "posicion": 9,
+      "agp": "4987",
+      "nombre": "DAVID VILA VAQUERO",
+      "pruebas": {
+        "p1": 8,
+        "p2": 10,
+        "p3": 7,
+        "p4": 0,
+        "p5": 0,
+        "p6": 0,
+        "p7": 0,
+        "p8": 0,
+        "p9": 0
+      },
+      "partidas": {
+        "pf": 29,
+        "pc": 30,
+        "dp": -1
+      },
+      "puntos": {
+        "p": 25,
+        "v": 6,
+        "t": 31,
+        "penalizaciones": 0,
+        "pt": 31
+      }
+    },
+    {
+      "posicion": 10,
+      "agp": "14484",
+      "nombre": "NAIR DIEZ PEREZ",
+      "pruebas": {
+        "p1": 0,
+        "p2": 0,
+        "p3": 8,
+        "p4": 0,
+        "p5": 0,
+        "p6": 0,
+        "p7": 0,
+        "p8": 7,
+        "p9": 0
+      },
+      "partidas": {
+        "pf": 18,
+        "pc": 14,
+        "dp": 4
+      },
+      "puntos": {
+        "p": 15,
+        "v": 4,
+        "t": 19,
+        "penalizaciones": 0,
+        "pt": 19
+      }
+    },
+    {
+      "posicion": 11,
+      "agp": "2274",
+      "nombre": "MIGUEL CID FERNANDEZ",
+      "pruebas": {
+        "p1": 10,
+        "p2": 0,
+        "p3": 0,
+        "p4": 0,
+        "p5": 0,
+        "p6": 0,
+        "p7": 0,
+        "p8": 0,
+        "p9": 0
+      },
+      "partidas": {
+        "pf": 10,
+        "pc": 10,
+        "dp": 0
+      },
+      "puntos": {
+        "p": 10,
+        "v": 2,
+        "t": 12,
+        "penalizaciones": 0,
+        "pt": 12
+      }
+    },
+    {
+      "posicion": 12,
+      "agp": "17891",
+      "nombre": "RAUL VIDAL SUAREZ",
+      "pruebas": {
+        "p1": 8,
+        "p2": 0,
+        "p3": 0,
+        "p4": 0,
+        "p5": 0,
+        "p6": 0,
+        "p7": 0,
+        "p8": 0,
+        "p9": 0
+      },
+      "partidas": {
+        "pf": 7,
+        "pc": 10,
+        "dp": -3
+      },
+      "puntos": {
+        "p": 8,
+        "v": 2,
+        "t": 10,
+        "penalizaciones": 0,
+        "pt": 10
+      }
+    }
+  ]
+}

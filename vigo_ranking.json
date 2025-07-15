@@ -1,0 +1,1971 @@
+{
+  "torneo": "RANKING 3ª CATEGORÍA VIGO - CLASIFICATORIO CAMPEONATO GALLEGO",
+  "descripcion": {
+    "cabeza_serie": "Cabeza de serie XXXIII Campeonato Gallego 3ª Categoría",
+    "clasificado": "Clasificado XXXIII Campeonato Gallego 3ª Categoría",
+    "nota_clasificados": "Los jugadores clasificados para el XXXIII Campeonato Gallego (Lalín del 18 al 20 de Julio) deberán confirmar su participación antes del día 9 de Junio a las 12:00 horas",
+    "nota_repesca": "Los jugadores no clasificados que hayan disputado un mínimo de 5 pruebas podrán optar a más plazas en una repesca provincial el día 14 de Junio, para la que deberán confirmar su participación antes del día 9 de Junio a las 12:00 horas"
+  },
+  "jugadores": [
+    {
+      "posicion": 1,
+      "agp": "18482",
+      "nombre": "ELKIN RAFAEL SARMIENTO MARTINEZ",
+      "pruebas": {
+        "p1": 14,
+        "p2": 8,
+        "p3": 7,
+        "p4": 14,
+        "p5": 14,
+        "p6": 14,
+        "p7": 14,
+        "p8": 14,
+        "p9": 10
+      },
+      "partidas": {
+        "pf": 149,
+        "pc": 47,
+        "dp": 102
+      },
+      "puntos": {
+        "p": 109,
+        "v": 18,
+        "t": 127,
+        "penalizaciones": 7,
+        "pt": 120
+      }
+    },
+    {
+      "posicion": 2,
+      "agp": "11776",
+      "nombre": "DAVID ALFONSO ACEVEDO",
+      "pruebas": {
+        "p1": 7,
+        "p2": 7,
+        "p3": 14,
+        "p4": 14,
+        "p5": 14,
+        "p6": 6,
+        "p7": 8,
+        "p8": 7,
+        "p9": 14
+      },
+      "partidas": {
+        "pf": 116,
+        "pc": 75,
+        "dp": 41
+      },
+      "puntos": {
+        "p": 91,
+        "v": 18,
+        "t": 109,
+        "penalizaciones": 6,
+        "pt": 103
+      }
+    },
+    {
+      "posicion": 3,
+      "agp": "11080",
+      "nombre": "CHRISTIAN ALVAREZ SOBRINO",
+      "pruebas": {
+        "p1": 14,
+        "p2": 8,
+        "p3": 14,
+        "p4": 8,
+        "p5": 14,
+        "p6": 10,
+        "p7": 8,
+        "p8": 8,
+        "p9": 8
+      },
+      "partidas": {
+        "pf": 144,
+        "pc": 85,
+        "dp": 59
+      },
+      "puntos": {
+        "p": 92,
+        "v": 18,
+        "t": 110,
+        "penalizaciones": 8,
+        "pt": 102
+      }
+    },
+    {
+      "posicion": 4,
+      "agp": "11187",
+      "nombre": "SEGUNDO RODRIGUEZ SUAREZ",
+      "pruebas": {
+        "p1": 7,
+        "p2": 8,
+        "p3": 14,
+        "p4": 14,
+        "p5": 14,
+        "p6": 10,
+        "p7": 10,
+        "p8": 7,
+        "p9": 5
+      },
+      "partidas": {
+        "pf": 125,
+        "pc": 77,
+        "dp": 48
+      },
+      "puntos": {
+        "p": 89,
+        "v": 18,
+        "t": 107,
+        "penalizaciones": 5,
+        "pt": 102
+      }
+    },
+    {
+      "posicion": 5,
+      "agp": "2786",
+      "nombre": "JUAN CARLOS CURRAS ANTONIO",
+      "pruebas": {
+        "p1": 10,
+        "p2": 10,
+        "p3": 7,
+        "p4": 7,
+        "p5": 10,
+        "p6": 10,
+        "p7": 7,
+        "p8": 14,
+        "p9": 14
+      },
+      "partidas": {
+        "pf": 137,
+        "pc": 75,
+        "dp": 62
+      },
+      "puntos": {
+        "p": 89,
+        "v": 18,
+        "t": 107,
+        "penalizaciones": 7,
+        "pt": 100
+      }
+    },
+    {
+      "posicion": 6,
+      "agp": "14629",
+      "nombre": "DANIEL COSTAS MONTERO",
+      "pruebas": {
+        "p1": 8,
+        "p2": 7,
+        "p3": 10,
+        "p4": 8,
+        "p5": 6,
+        "p6": 6,
+        "p7": 7,
+        "p8": 14,
+        "p9": 14
+      },
+      "partidas": {
+        "pf": 102,
+        "pc": 89,
+        "dp": 13
+      },
+      "puntos": {
+        "p": 80,
+        "v": 18,
+        "t": 98,
+        "penalizaciones": 6,
+        "pt": 92
+      }
+    },
+    {
+      "posicion": 7,
+      "agp": "2177",
+      "nombre": "BREOGAN CABALEIRO MATO",
+      "pruebas": {
+        "p1": 7,
+        "p2": 10,
+        "p3": 8,
+        "p4": 14,
+        "p5": 7,
+        "p6": 10,
+        "p7": 7,
+        "p8": 8,
+        "p9": 7
+      },
+      "partidas": {
+        "pf": 114,
+        "pc": 94,
+        "dp": 20
+      },
+      "puntos": {
+        "p": 78,
+        "v": 18,
+        "t": 96,
+        "penalizaciones": 7,
+        "pt": 89
+      }
+    },
+    {
+      "posicion": 8,
+      "agp": "9545",
+      "nombre": "ALBERTO RODRIGUEZ GONZALEZ",
+      "pruebas": {
+        "p1": 7,
+        "p2": 14,
+        "p3": 8,
+        "p4": 7,
+        "p5": 5,
+        "p6": 14,
+        "p7": 7,
+        "p8": 6,
+        "p9": 5
+      },
+      "partidas": {
+        "pf": 83,
+        "pc": 82,
+        "dp": 1
+      },
+      "puntos": {
+        "p": 73,
+        "v": 18,
+        "t": 91,
+        "penalizaciones": 5,
+        "pt": 86
+      }
+    },
+    {
+      "posicion": 9,
+      "agp": "4715",
+      "nombre": "OSCAR LIZ CONDE",
+      "pruebas": {
+        "p1": 14,
+        "p2": 7,
+        "p3": 7,
+        "p4": 8,
+        "p5": 8,
+        "p6": 7,
+        "p7": 6,
+        "p8": 8,
+        "p9": 8
+      },
+      "partidas": {
+        "pf": 106,
+        "pc": 76,
+        "dp": 30
+      },
+      "puntos": {
+        "p": 73,
+        "v": 18,
+        "t": 91,
+        "penalizaciones": 6,
+        "pt": 85
+      }
+    },
+    {
+      "posicion": 10,
+      "agp": "11732",
+      "nombre": "ADRIAN MAQUIEIRA PEREIRA",
+      "pruebas": {
+        "p1": 6,
+        "p2": 6,
+        "p3": 7,
+        "p4": 7,
+        "p5": 7,
+        "p6": 8,
+        "p7": 14,
+        "p8": 10,
+        "p9": 7
+      },
+      "partidas": {
+        "pf": 100,
+        "pc": 84,
+        "dp": 16
+      },
+      "puntos": {
+        "p": 72,
+        "v": 18,
+        "t": 90,
+        "penalizaciones": 6,
+        "pt": 84
+      }
+    },
+    {
+      "posicion": 11,
+      "agp": "17794",
+      "nombre": "PAULO JOSE LOPES CORREIA MARTINS",
+      "pruebas": {
+        "p1": 8,
+        "p2": 6,
+        "p3": 14,
+        "p4": 7,
+        "p5": 7,
+        "p6": 8,
+        "p7": 0,
+        "p8": 7,
+        "p9": 10
+      },
+      "partidas": {
+        "pf": 90,
+        "pc": 73,
+        "dp": 17
+      },
+      "puntos": {
+        "p": 67,
+        "v": 16,
+        "t": 83,
+        "penalizaciones": 0,
+        "pt": 83
+      }
+    },
+    {
+      "posicion": 12,
+      "agp": "9613",
+      "nombre": "JOSE ANTONIO BERNARDEZ MARTINEZ",
+      "pruebas": {
+        "p1": 7,
+        "p2": 10,
+        "p3": 8,
+        "p4": 10,
+        "p5": 5,
+        "p6": 8,
+        "p7": 7,
+        "p8": 10,
+        "p9": 5
+      },
+      "partidas": {
+        "pf": 98,
+        "pc": 87,
+        "dp": 11
+      },
+      "puntos": {
+        "p": 70,
+        "v": 18,
+        "t": 88,
+        "penalizaciones": 5,
+        "pt": 83
+      }
+    },
+    {
+      "posicion": 13,
+      "agp": "14213",
+      "nombre": "OMAR BERLIER CEA",
+      "pruebas": {
+        "p1": 5,
+        "p2": 6,
+        "p3": 6,
+        "p4": 7,
+        "p5": 10,
+        "p6": 14,
+        "p7": 8,
+        "p8": 7,
+        "p9": 7
+      },
+      "partidas": {
+        "pf": 78,
+        "pc": 81,
+        "dp": -3
+      },
+      "puntos": {
+        "p": 70,
+        "v": 18,
+        "t": 88,
+        "penalizaciones": 5,
+        "pt": 83
+      }
+    },
+    {
+      "posicion": 14,
+      "agp": "6815",
+      "nombre": "DAMIAN ALVAREZ COTOVAD",
+      "pruebas": {
+        "p1": 8,
+        "p2": 6,
+        "p3": 6,
+        "p4": 7,
+        "p5": 0,
+        "p6": 6,
+        "p7": 8,
+        "p8": 10,
+        "p9": 14
+      },
+      "partidas": {
+        "pf": 83,
+        "pc": 75,
+        "dp": 8
+      },
+      "puntos": {
+        "p": 65,
+        "v": 16,
+        "t": 81,
+        "penalizaciones": 0,
+        "pt": 81
+      }
+    },
+    {
+      "posicion": 15,
+      "agp": "6031",
+      "nombre": "MIGUEL UCHA RODRIGUEZ",
+      "pruebas": {
+        "p1": 6,
+        "p2": 7,
+        "p3": 7,
+        "p4": 8,
+        "p5": 7,
+        "p6": 8,
+        "p7": 8,
+        "p8": 8,
+        "p9": 8
+      },
+      "partidas": {
+        "pf": 92,
+        "pc": 82,
+        "dp": 10
+      },
+      "puntos": {
+        "p": 67,
+        "v": 18,
+        "t": 85,
+        "penalizaciones": 6,
+        "pt": 79
+      }
+    },
+    {
+      "posicion": 16,
+      "agp": "17775",
+      "nombre": "ADRIAN PENELA ALVAREZ",
+      "pruebas": {
+        "p1": 8,
+        "p2": 7,
+        "p3": 8,
+        "p4": 7,
+        "p5": 8,
+        "p6": 5,
+        "p7": 7,
+        "p8": 8,
+        "p9": 8
+      },
+      "partidas": {
+        "pf": 92,
+        "pc": 82,
+        "dp": 10
+      },
+      "puntos": {
+        "p": 66,
+        "v": 18,
+        "t": 84,
+        "penalizaciones": 5,
+        "pt": 79
+      }
+    },
+    {
+      "posicion": 17,
+      "agp": "2423",
+      "nombre": "PURIFICACION MOREIRA RODRIGUEZ",
+      "pruebas": {
+        "p1": 5,
+        "p2": 14,
+        "p3": 6,
+        "p4": 7,
+        "p5": 7,
+        "p6": 7,
+        "p7": 6,
+        "p8": 6,
+        "p9": 8
+      },
+      "partidas": {
+        "pf": 66,
+        "pc": 84,
+        "dp": -18
+      },
+      "puntos": {
+        "p": 66,
+        "v": 18,
+        "t": 84,
+        "penalizaciones": 5,
+        "pt": 79
+      }
+    },
+    {
+      "posicion": 18,
+      "agp": "18069",
+      "nombre": "LEONARDO DIOS ARBON",
+      "pruebas": {
+        "p1": 14,
+        "p2": 14,
+        "p3": 6,
+        "p4": 6,
+        "p5": 0,
+        "p6": 7,
+        "p7": 10,
+        "p8": 7,
+        "p9": 0
+      },
+      "partidas": {
+        "pf": 81,
+        "pc": 58,
+        "dp": 23
+      },
+      "puntos": {
+        "p": 64,
+        "v": 14,
+        "t": 78,
+        "penalizaciones": 0,
+        "pt": 78
+      }
+    },
+    {
+      "posicion": 19,
+      "agp": "18628",
+      "nombre": "TOBIAS SANTIAGO BELOSO",
+      "pruebas": {
+        "p1": 6,
+        "p2": 8,
+        "p3": 6,
+        "p4": 6,
+        "p5": 8,
+        "p6": 7,
+        "p7": 8,
+        "p8": 6,
+        "p9": 10
+      },
+      "partidas": {
+        "pf": 87,
+        "pc": 88,
+        "dp": -1
+      },
+      "puntos": {
+        "p": 65,
+        "v": 18,
+        "t": 83,
+        "penalizaciones": 6,
+        "pt": 77
+      }
+    },
+    {
+      "posicion": 20,
+      "agp": "2892",
+      "nombre": "EVELIO FIGUEROA MARTINEZ",
+      "pruebas": {
+        "p1": 6,
+        "p2": 8,
+        "p3": 7,
+        "p4": 7,
+        "p5": 7,
+        "p6": 7,
+        "p7": 7,
+        "p8": 8,
+        "p9": 8
+      },
+      "partidas": {
+        "pf": 75,
+        "pc": 92,
+        "dp": -17
+      },
+      "puntos": {
+        "p": 65,
+        "v": 18,
+        "t": 83,
+        "penalizaciones": 6,
+        "pt": 77
+      }
+    },
+    {
+      "posicion": 21,
+      "agp": "2785",
+      "nombre": "JOSE LUIS MERELLES DIAZ",
+      "pruebas": {
+        "p1": 7,
+        "p2": 6,
+        "p3": 6,
+        "p4": 6,
+        "p5": 5,
+        "p6": 7,
+        "p7": 14,
+        "p8": 6,
+        "p9": 6
+      },
+      "partidas": {
+        "pf": 57,
+        "pc": 73,
+        "dp": -16
+      },
+      "puntos": {
+        "p": 63,
+        "v": 18,
+        "t": 81,
+        "penalizaciones": 5,
+        "pt": 76
+      }
+    },
+    {
+      "posicion": 22,
+      "agp": "18144",
+      "nombre": "ANDRES PEREZ RODRIGUEZ",
+      "pruebas": {
+        "p1": 7,
+        "p2": 8,
+        "p3": 10,
+        "p4": 6,
+        "p5": 8,
+        "p6": 0,
+        "p7": 7,
+        "p8": 7,
+        "p9": 6
+      },
+      "partidas": {
+        "pf": 84,
+        "pc": 83,
+        "dp": 1
+      },
+      "puntos": {
+        "p": 59,
+        "v": 16,
+        "t": 75,
+        "penalizaciones": 0,
+        "pt": 75
+      }
+    },
+    {
+      "posicion": 23,
+      "agp": "18547",
+      "nombre": "IVAN COSTAS CEA",
+      "pruebas": {
+        "p1": 7,
+        "p2": 7,
+        "p3": 7,
+        "p4": 7,
+        "p5": 7,
+        "p6": 7,
+        "p7": 6,
+        "p8": 8,
+        "p9": 7
+      },
+      "partidas": {
+        "pf": 83,
+        "pc": 94,
+        "dp": -11
+      },
+      "puntos": {
+        "p": 63,
+        "v": 18,
+        "t": 81,
+        "penalizaciones": 6,
+        "pt": 75
+      }
+    },
+    {
+      "posicion": 24,
+      "agp": "2651",
+      "nombre": "JAIME GALIANA MARTINEZ",
+      "pruebas": {
+        "p1": 8,
+        "p2": 7,
+        "p3": 8,
+        "p4": 8,
+        "p5": 0,
+        "p6": 7,
+        "p7": 7,
+        "p8": 7,
+        "p9": 6
+      },
+      "partidas": {
+        "pf": 74,
+        "pc": 54,
+        "dp": 20
+      },
+      "puntos": {
+        "p": 58,
+        "v": 16,
+        "t": 74,
+        "penalizaciones": 0,
+        "pt": 74
+      }
+    },
+    {
+      "posicion": 25,
+      "agp": "3081",
+      "nombre": "ANGEL GOMEZ SANCHEZ",
+      "pruebas": {
+        "p1": 7,
+        "p2": 7,
+        "p3": 8,
+        "p4": 6,
+        "p5": 8,
+        "p6": 6,
+        "p7": 7,
+        "p8": 6,
+        "p9": 7
+      },
+      "partidas": {
+        "pf": 60,
+        "pc": 79,
+        "dp": -19
+      },
+      "puntos": {
+        "p": 62,
+        "v": 18,
+        "t": 80,
+        "penalizaciones": 6,
+        "pt": 74
+      }
+    },
+    {
+      "posicion": 26,
+      "agp": "17843",
+      "nombre": "NAIR RODRIGUEZ DOMINGUEZ",
+      "pruebas": {
+        "p1": 8,
+        "p2": 6,
+        "p3": 7,
+        "p4": 6,
+        "p5": 6,
+        "p6": 7,
+        "p7": 10,
+        "p8": 6,
+        "p9": 5
+      },
+      "partidas": {
+        "pf": 55,
+        "pc": 79,
+        "dp": -24
+      },
+      "puntos": {
+        "p": 61,
+        "v": 18,
+        "t": 79,
+        "penalizaciones": 5,
+        "pt": 74
+      }
+    },
+    {
+      "posicion": 27,
+      "agp": "17172",
+      "nombre": "JAIRO COVELO GONZALEZ",
+      "pruebas": {
+        "p1": 10,
+        "p2": 7,
+        "p3": 7,
+        "p4": 0,
+        "p5": 8,
+        "p6": 6,
+        "p7": 0,
+        "p8": 14,
+        "p9": 7
+      },
+      "partidas": {
+        "pf": 70,
+        "pc": 55,
+        "dp": 15
+      },
+      "puntos": {
+        "p": 59,
+        "v": 14,
+        "t": 73,
+        "penalizaciones": 0,
+        "pt": 73
+      }
+    },
+    {
+      "posicion": 28,
+      "agp": "11731",
+      "nombre": "DIEGO PEREZ ALONSO",
+      "pruebas": {
+        "p1": 6,
+        "p2": 7,
+        "p3": 8,
+        "p4": 7,
+        "p5": 0,
+        "p6": 8,
+        "p7": 6,
+        "p8": 7,
+        "p9": 7
+      },
+      "partidas": {
+        "pf": 62,
+        "pc": 72,
+        "dp": -10
+      },
+      "puntos": {
+        "p": 56,
+        "v": 16,
+        "t": 72,
+        "penalizaciones": 0,
+        "pt": 72
+      }
+    },
+    {
+      "posicion": 29,
+      "agp": "6991",
+      "nombre": "DIEGO PRADO SALGUEIRO",
+      "pruebas": {
+        "p1": 6,
+        "p2": 8,
+        "p3": 6,
+        "p4": 7,
+        "p5": 7,
+        "p6": 8,
+        "p7": 6,
+        "p8": 6,
+        "p9": 6
+      },
+      "partidas": {
+        "pf": 74,
+        "pc": 85,
+        "dp": -11
+      },
+      "puntos": {
+        "p": 60,
+        "v": 18,
+        "t": 78,
+        "penalizaciones": 6,
+        "pt": 72
+      }
+    },
+    {
+      "posicion": 30,
+      "agp": "14628",
+      "nombre": "JUAN CARLOS CLEMENTE PEREZ",
+      "pruebas": {
+        "p1": 7,
+        "p2": 0,
+        "p3": 7,
+        "p4": 6,
+        "p5": 7,
+        "p6": 7,
+        "p7": 7,
+        "p8": 7,
+        "p9": 8
+      },
+      "partidas": {
+        "pf": 55,
+        "pc": 68,
+        "dp": -13
+      },
+      "puntos": {
+        "p": 56,
+        "v": 16,
+        "t": 72,
+        "penalizaciones": 0,
+        "pt": 72
+      }
+    },
+    {
+      "posicion": 31,
+      "agp": "18135",
+      "nombre": "FRANCISCO SALGADO GAY",
+      "pruebas": {
+        "p1": 6,
+        "p2": 8,
+        "p3": 8,
+        "p4": 7,
+        "p5": 6,
+        "p6": 7,
+        "p7": 6,
+        "p8": 6,
+        "p9": 6
+      },
+      "partidas": {
+        "pf": 54,
+        "pc": 74,
+        "dp": -20
+      },
+      "puntos": {
+        "p": 60,
+        "v": 18,
+        "t": 78,
+        "penalizaciones": 6,
+        "pt": 72
+      }
+    },
+    {
+      "posicion": 32,
+      "agp": "4712",
+      "nombre": "JULIO RODRIGUEZ ESTEVEZ",
+      "pruebas": {
+        "p1": 5,
+        "p2": 5,
+        "p3": 7,
+        "p4": 6,
+        "p5": 6,
+        "p6": 6,
+        "p7": 8,
+        "p8": 7,
+        "p9": 8
+      },
+      "partidas": {
+        "pf": 48,
+        "pc": 81,
+        "dp": -33
+      },
+      "puntos": {
+        "p": 58,
+        "v": 18,
+        "t": 76,
+        "penalizaciones": 5,
+        "pt": 71
+      }
+    },
+    {
+      "posicion": 33,
+      "agp": "9401",
+      "nombre": "ESTEBAN AIRA RODRIGUEZ",
+      "pruebas": {
+        "p1": 0,
+        "p2": 0,
+        "p3": 10,
+        "p4": 7,
+        "p5": 10,
+        "p6": 7,
+        "p7": 14,
+        "p8": 10,
+        "p9": 0
+      },
+      "partidas": {
+        "pf": 82,
+        "pc": 59,
+        "dp": 23
+      },
+      "puntos": {
+        "p": 58,
+        "v": 12,
+        "t": 70,
+        "penalizaciones": 0,
+        "pt": 70
+      }
+    },
+    {
+      "posicion": 34,
+      "agp": "14965",
+      "nombre": "BRYAN COEDO VILA",
+      "pruebas": {
+        "p1": 6,
+        "p2": 5,
+        "p3": 7,
+        "p4": 7,
+        "p5": 6,
+        "p6": 6,
+        "p7": 7,
+        "p8": 7,
+        "p9": 6
+      },
+      "partidas": {
+        "pf": 61,
+        "pc": 77,
+        "dp": -16
+      },
+      "puntos": {
+        "p": 57,
+        "v": 18,
+        "t": 75,
+        "penalizaciones": 5,
+        "pt": 70
+      }
+    },
+    {
+      "posicion": 35,
+      "agp": "11188",
+      "nombre": "EDUARDO GONZALEZ PEREZ",
+      "pruebas": {
+        "p1": 6,
+        "p2": 5,
+        "p3": 6,
+        "p4": 6,
+        "p5": 7,
+        "p6": 6,
+        "p7": 6,
+        "p8": 6,
+        "p9": 6
+      },
+      "partidas": {
+        "pf": 27,
+        "pc": 75,
+        "dp": -48
+      },
+      "puntos": {
+        "p": 54,
+        "v": 18,
+        "t": 72,
+        "penalizaciones": 5,
+        "pt": 67
+      }
+    },
+    {
+      "posicion": 36,
+      "agp": "14892",
+      "nombre": "GABRIEL PORTELA SILVOSO",
+      "pruebas": {
+        "p1": 7,
+        "p2": 6,
+        "p3": 0,
+        "p4": 10,
+        "p5": 7,
+        "p6": 7,
+        "p7": 7,
+        "p8": 6,
+        "p9": 0
+      },
+      "partidas": {
+        "pf": 62,
+        "pc": 65,
+        "dp": -3
+      },
+      "puntos": {
+        "p": 50,
+        "v": 14,
+        "t": 64,
+        "penalizaciones": 0,
+        "pt": 64
+      }
+    },
+    {
+      "posicion": 37,
+      "agp": "18466",
+      "nombre": "ERNESTO GONZALEZ SERRANO",
+      "pruebas": {
+        "p1": 6,
+        "p2": 0,
+        "p3": 6,
+        "p4": 6,
+        "p5": 6,
+        "p6": 6,
+        "p7": 7,
+        "p8": 6,
+        "p9": 5
+      },
+      "partidas": {
+        "pf": 19,
+        "pc": 60,
+        "dp": -41
+      },
+      "puntos": {
+        "p": 48,
+        "v": 16,
+        "t": 64,
+        "penalizaciones": 0,
+        "pt": 64
+      }
+    },
+    {
+      "posicion": 38,
+      "agp": "14492",
+      "nombre": "EDUARDO CABALEIRO BLANCO",
+      "pruebas": {
+        "p1": 5,
+        "p2": 6,
+        "p3": 7,
+        "p4": 10,
+        "p5": 0,
+        "p6": 0,
+        "p7": 6,
+        "p8": 6,
+        "p9": 5
+      },
+      "partidas": {
+        "pf": 47,
+        "pc": 62,
+        "dp": -15
+      },
+      "puntos": {
+        "p": 45,
+        "v": 14,
+        "t": 59,
+        "penalizaciones": 0,
+        "pt": 59
+      }
+    },
+    {
+      "posicion": 39,
+      "agp": "17575",
+      "nombre": "FACUNDO MIGUEL ROBLEDA BRAVO",
+      "pruebas": {
+        "p1": 7,
+        "p2": 6,
+        "p3": 0,
+        "p4": 0,
+        "p5": 6,
+        "p6": 6,
+        "p7": 6,
+        "p8": 7,
+        "p9": 7
+      },
+      "partidas": {
+        "pf": 41,
+        "pc": 56,
+        "dp": -15
+      },
+      "puntos": {
+        "p": 45,
+        "v": 14,
+        "t": 59,
+        "penalizaciones": 0,
+        "pt": 59
+      }
+    },
+    {
+      "posicion": 40,
+      "agp": "2232",
+      "nombre": "ANGEL CEREIJO DIAZ",
+      "pruebas": {
+        "p1": 7,
+        "p2": 7,
+        "p3": 7,
+        "p4": 8,
+        "p5": 5,
+        "p6": 0,
+        "p7": 6,
+        "p8": 0,
+        "p9": 4
+      },
+      "partidas": {
+        "pf": 41,
+        "pc": 48,
+        "dp": -7
+      },
+      "puntos": {
+        "p": 44,
+        "v": 14,
+        "t": 58,
+        "penalizaciones": 0,
+        "pt": 58
+      }
+    },
+    {
+      "posicion": 41,
+      "agp": "17576",
+      "nombre": "SAMANTA COUSO GONZALEZ",
+      "pruebas": {
+        "p1": 7,
+        "p2": 5,
+        "p3": 0,
+        "p4": 0,
+        "p5": 7,
+        "p6": 6,
+        "p7": 5,
+        "p8": 7,
+        "p9": 5
+      },
+      "partidas": {
+        "pf": 16,
+        "pc": 54,
+        "dp": -38
+      },
+      "puntos": {
+        "p": 42,
+        "v": 14,
+        "t": 56,
+        "penalizaciones": 0,
+        "pt": 56
+      }
+    },
+    {
+      "posicion": 42,
+      "agp": "14713",
+      "nombre": "PABLO RUA AVENDAÑO",
+      "pruebas": {
+        "p1": 0,
+        "p2": 0,
+        "p3": 0,
+        "p4": 8,
+        "p5": 6,
+        "p6": 14,
+        "p7": 10,
+        "p8": 7,
+        "p9": 0
+      },
+      "partidas": {
+        "pf": 65,
+        "pc": 45,
+        "dp": 20
+      },
+      "puntos": {
+        "p": 45,
+        "v": 10,
+        "t": 55,
+        "penalizaciones": 0,
+        "pt": 55
+      }
+    },
+    {
+      "posicion": 43,
+      "agp": "17146",
+      "nombre": "JOSE BENITO GARCIA SOTO",
+      "pruebas": {
+        "p1": 0,
+        "p2": 6,
+        "p3": 7,
+        "p4": 0,
+        "p5": 8,
+        "p6": 0,
+        "p7": 7,
+        "p8": 8,
+        "p9": 5
+      },
+      "partidas": {
+        "pf": 38,
+        "pc": 52,
+        "dp": -14
+      },
+      "puntos": {
+        "p": 41,
+        "v": 12,
+        "t": 53,
+        "penalizaciones": 0,
+        "pt": 53
+      }
+    },
+    {
+      "posicion": 44,
+      "agp": "3295",
+      "nombre": "MARCOS LEMOS SOTELO",
+      "pruebas": {
+        "p1": 0,
+        "p2": 0,
+        "p3": 0,
+        "p4": 6,
+        "p5": 7,
+        "p6": 6,
+        "p7": 5,
+        "p8": 7,
+        "p9": 5
+      },
+      "partidas": {
+        "pf": 25,
+        "pc": 57,
+        "dp": -32
+      },
+      "puntos": {
+        "p": 36,
+        "v": 12,
+        "t": 48,
+        "penalizaciones": 0,
+        "pt": 48
+      }
+    },
+    {
+      "posicion": 45,
+      "agp": "9563",
+      "nombre": "JONATHAN MANSO MARTINEZ",
+      "pruebas": {
+        "p1": 8,
+        "p2": 0,
+        "p3": 0,
+        "p4": 6,
+        "p5": 10,
+        "p6": 7,
+        "p7": 6,
+        "p8": 0,
+        "p9": 0
+      },
+      "partidas": {
+        "pf": 53,
+        "pc": 42,
+        "dp": 11
+      },
+      "puntos": {
+        "p": 37,
+        "v": 10,
+        "t": 47,
+        "penalizaciones": 0,
+        "pt": 47
+      }
+    },
+    {
+      "posicion": 46,
+      "agp": "18711",
+      "nombre": "VICTOR CACERES AGUILA",
+      "pruebas": {
+        "p1": 0,
+        "p2": 7,
+        "p3": 6,
+        "p4": 0,
+        "p5": 8,
+        "p6": 7,
+        "p7": 6,
+        "p8": 0,
+        "p9": 0
+      },
+      "partidas": {
+        "pf": 32,
+        "pc": 36,
+        "dp": -4
+      },
+      "puntos": {
+        "p": 34,
+        "v": 10,
+        "t": 44,
+        "penalizaciones": 0,
+        "pt": 44
+      }
+    },
+    {
+      "posicion": 47,
+      "agp": "18525",
+      "nombre": "SEBASTIAN CATAÑO BARDULLAS",
+      "pruebas": {
+        "p1": 7,
+        "p2": 7,
+        "p3": 0,
+        "p4": 0,
+        "p5": 0,
+        "p6": 0,
+        "p7": 8,
+        "p8": 6,
+        "p9": 5
+      },
+      "partidas": {
+        "pf": 40,
+        "pc": 46,
+        "dp": -6
+      },
+      "puntos": {
+        "p": 33,
+        "v": 10,
+        "t": 43,
+        "penalizaciones": 0,
+        "pt": 43
+      }
+    },
+    {
+      "posicion": 48,
+      "agp": "14219",
+      "nombre": "ANGEL CID SOUTIÑO",
+      "pruebas": {
+        "p1": 7,
+        "p2": 6,
+        "p3": 6,
+        "p4": 7,
+        "p5": 6,
+        "p6": 0,
+        "p7": 0,
+        "p8": 0,
+        "p9": 0
+      },
+      "partidas": {
+        "pf": 29,
+        "pc": 39,
+        "dp": -10
+      },
+      "puntos": {
+        "p": 32,
+        "v": 10,
+        "t": 42,
+        "penalizaciones": 0,
+        "pt": 42
+      }
+    },
+    {
+      "posicion": 49,
+      "agp": "14230",
+      "nombre": "OMAR CAMPOS TOUCEDO",
+      "pruebas": {
+        "p1": 6,
+        "p2": 10,
+        "p3": 0,
+        "p4": 10,
+        "p5": 7,
+        "p6": 0,
+        "p7": 0,
+        "p8": 0,
+        "p9": 0
+      },
+      "partidas": {
+        "pf": 52,
+        "pc": 44,
+        "dp": 8
+      },
+      "puntos": {
+        "p": 33,
+        "v": 8,
+        "t": 41,
+        "penalizaciones": 0,
+        "pt": 41
+      }
+    },
+    {
+      "posicion": 50,
+      "agp": "18694",
+      "nombre": "GRISMAL JOSUE CARDENAS SOTO",
+      "pruebas": {
+        "p1": 0,
+        "p2": 7,
+        "p3": 5,
+        "p4": 6,
+        "p5": 0,
+        "p6": 7,
+        "p7": 6,
+        "p8": 0,
+        "p9": 0
+      },
+      "partidas": {
+        "pf": 17,
+        "pc": 28,
+        "dp": -11
+      },
+      "puntos": {
+        "p": 31,
+        "v": 10,
+        "t": 41,
+        "penalizaciones": 0,
+        "pt": 41
+      }
+    },
+    {
+      "posicion": 51,
+      "agp": "17834",
+      "nombre": "RUBEN DAVILA ALONSO",
+      "pruebas": {
+        "p1": 6,
+        "p2": 5,
+        "p3": 0,
+        "p4": 0,
+        "p5": 5,
+        "p6": 6,
+        "p7": 6,
+        "p8": 0,
+        "p9": 0
+      },
+      "partidas": {
+        "pf": 14,
+        "pc": 41,
+        "dp": -27
+      },
+      "puntos": {
+        "p": 28,
+        "v": 10,
+        "t": 38,
+        "penalizaciones": 0,
+        "pt": 38
+      }
+    },
+    {
+      "posicion": 52,
+      "agp": "17938",
+      "nombre": "ALEJANDRO FERNANDEZ COMESAÑA",
+      "pruebas": {
+        "p1": 0,
+        "p2": 0,
+        "p3": 0,
+        "p4": 8,
+        "p5": 5,
+        "p6": 8,
+        "p7": 0,
+        "p8": 7,
+        "p9": 0
+      },
+      "partidas": {
+        "pf": 33,
+        "pc": 35,
+        "dp": -2
+      },
+      "puntos": {
+        "p": 28,
+        "v": 8,
+        "t": 36,
+        "penalizaciones": 0,
+        "pt": 36
+      }
+    },
+    {
+      "posicion": 53,
+      "agp": "18380",
+      "nombre": "SERGIO DOMINGUEZ ALONSO",
+      "pruebas": {
+        "p1": 0,
+        "p2": 0,
+        "p3": 0,
+        "p4": 0,
+        "p5": 0,
+        "p6": 0,
+        "p7": 7,
+        "p8": 6,
+        "p9": 10
+      },
+      "partidas": {
+        "pf": 30,
+        "pc": 26,
+        "dp": 4
+      },
+      "puntos": {
+        "p": 23,
+        "v": 6,
+        "t": 29,
+        "penalizaciones": 0,
+        "pt": 29
+      }
+    },
+    {
+      "posicion": 54,
+      "agp": "18620",
+      "nombre": "ELVIO FERNANDEZ BLANCO",
+      "pruebas": {
+        "p1": 6,
+        "p2": 7,
+        "p3": 0,
+        "p4": 0,
+        "p5": 7,
+        "p6": 0,
+        "p7": 0,
+        "p8": 0,
+        "p9": 0
+      },
+      "partidas": {
+        "pf": 18,
+        "pc": 29,
+        "dp": -11
+      },
+      "puntos": {
+        "p": 20,
+        "v": 6,
+        "t": 26,
+        "penalizaciones": 0,
+        "pt": 26
+      }
+    },
+    {
+      "posicion": 55,
+      "agp": "18693",
+      "nombre": "JUAN FELIPE MARIANO POLO",
+      "pruebas": {
+        "p1": 0,
+        "p2": 6,
+        "p3": 7,
+        "p4": 0,
+        "p5": 6,
+        "p6": 0,
+        "p7": 0,
+        "p8": 0,
+        "p9": 0
+      },
+      "partidas": {
+        "pf": 20,
+        "pc": 27,
+        "dp": -7
+      },
+      "puntos": {
+        "p": 19,
+        "v": 6,
+        "t": 25,
+        "penalizaciones": 0,
+        "pt": 25
+      }
+    },
+    {
+      "posicion": 56,
+      "agp": "18035",
+      "nombre": "LUIS MANUEL SALGADO SAMPEDRO",
+      "pruebas": {
+        "p1": 0,
+        "p2": 0,
+        "p3": 0,
+        "p4": 6,
+        "p5": 6,
+        "p6": 7,
+        "p7": 0,
+        "p8": 0,
+        "p9": 0
+      },
+      "partidas": {
+        "pf": 12,
+        "pc": 25,
+        "dp": -13
+      },
+      "puntos": {
+        "p": 19,
+        "v": 6,
+        "t": 25,
+        "penalizaciones": 0,
+        "pt": 25
+      }
+    },
+    {
+      "posicion": 57,
+      "agp": "18537",
+      "nombre": "ISAAC MARTINEZ NANDE",
+      "pruebas": {
+        "p1": 5,
+        "p2": 14,
+        "p3": 0,
+        "p4": 0,
+        "p5": 0,
+        "p6": 0,
+        "p7": 0,
+        "p8": 0,
+        "p9": 0
+      },
+      "partidas": {
+        "pf": 25,
+        "pc": 25,
+        "dp": 0
+      },
+      "puntos": {
+        "p": 19,
+        "v": 4,
+        "t": 23,
+        "penalizaciones": 0,
+        "pt": 23
+      }
+    },
+    {
+      "posicion": 58,
+      "agp": "5134",
+      "nombre": "ENRIQUE REY POUSADA",
+      "pruebas": {
+        "p1": 5,
+        "p2": 6,
+        "p3": 0,
+        "p4": 6,
+        "p5": 0,
+        "p6": 0,
+        "p7": 0,
+        "p8": 0,
+        "p9": 0
+      },
+      "partidas": {
+        "pf": 8,
+        "pc": 24,
+        "dp": -16
+      },
+      "puntos": {
+        "p": 17,
+        "v": 6,
+        "t": 23,
+        "penalizaciones": 0,
+        "pt": 23
+      }
+    },
+    {
+      "posicion": 59,
+      "agp": "2153",
+      "nombre": "JOSE RODRIGUEZ FERNANDEZ",
+      "pruebas": {
+        "p1": 5,
+        "p2": 5,
+        "p3": 0,
+        "p4": 0,
+        "p5": 0,
+        "p6": 0,
+        "p7": 6,
+        "p8": 0,
+        "p9": 0
+      },
+      "partidas": {
+        "pf": 10,
+        "pc": 24,
+        "dp": -14
+      },
+      "puntos": {
+        "p": 16,
+        "v": 6,
+        "t": 22,
+        "penalizaciones": 0,
+        "pt": 22
+      }
+    },
+    {
+      "posicion": 60,
+      "agp": "18143",
+      "nombre": "IAGO FERNANDEZ RODRIGUEZ",
+      "pruebas": {
+        "p1": 8,
+        "p2": 0,
+        "p3": 0,
+        "p4": 6,
+        "p5": 0,
+        "p6": 0,
+        "p7": 0,
+        "p8": 0,
+        "p9": 0
+      },
+      "partidas": {
+        "pf": 22,
+        "pc": 19,
+        "dp": 3
+      },
+      "puntos": {
+        "p": 14,
+        "v": 4,
+        "t": 18,
+        "penalizaciones": 0,
+        "pt": 18
+      }
+    },
+    {
+      "posicion": 61,
+      "agp": "18117",
+      "nombre": "ALBERTO PRADO LECHUGA",
+      "pruebas": {
+        "p1": 6,
+        "p2": 0,
+        "p3": 6,
+        "p4": 0,
+        "p5": 0,
+        "p6": 0,
+        "p7": 0,
+        "p8": 0,
+        "p9": 0
+      },
+      "partidas": {
+        "pf": 7,
+        "pc": 17,
+        "dp": -10
+      },
+      "puntos": {
+        "p": 12,
+        "v": 4,
+        "t": 16,
+        "penalizaciones": 0,
+        "pt": 16
+      }
+    },
+    {
+      "posicion": 62,
+      "agp": "3861",
+      "nombre": "BORJA PARENTE HERNANDEZ",
+      "pruebas": {
+        "p1": 0,
+        "p2": 0,
+        "p3": 10,
+        "p4": 0,
+        "p5": 0,
+        "p6": 0,
+        "p7": 0,
+        "p8": 0,
+        "p9": 0
+      },
+      "partidas": {
+        "pf": 18,
+        "pc": 10,
+        "dp": 8
+      },
+      "puntos": {
+        "p": 10,
+        "v": 2,
+        "t": 12,
+        "penalizaciones": 0,
+        "pt": 12
+      }
+    },
+    {
+      "posicion": 63,
+      "agp": "11949",
+      "nombre": "LUIS MACIEL CARDEIRO",
+      "pruebas": {
+        "p1": 10,
+        "p2": 0,
+        "p3": 0,
+        "p4": 0,
+        "p5": 0,
+        "p6": 0,
+        "p7": 0,
+        "p8": 0,
+        "p9": 0
+      },
+      "partidas": {
+        "pf": 18,
+        "pc": 14,
+        "dp": 4
+      },
+      "puntos": {
+        "p": 10,
+        "v": 2,
+        "t": 12,
+        "penalizaciones": 0,
+        "pt": 12
+      }
+    },
+    {
+      "posicion": 64,
+      "agp": "2262",
+      "nombre": "ROCIO DIEGUEZ LOPEZ",
+      "pruebas": {
+        "p1": 0,
+        "p2": 7,
+        "p3": 0,
+        "p4": 0,
+        "p5": 0,
+        "p6": 0,
+        "p7": 0,
+        "p8": 0,
+        "p9": 0
+      },
+      "partidas": {
+        "pf": 6,
+        "pc": 5,
+        "dp": 1
+      },
+      "puntos": {
+        "p": 7,
+        "v": 4,
+        "t": 11,
+        "penalizaciones": 0,
+        "pt": 11
+      }
+    },
+    {
+      "posicion": 65,
+      "agp": "17965",
+      "nombre": "ROBERTO FRAMIL MARTINEZ",
+      "pruebas": {
+        "p1": 8,
+        "p2": 0,
+        "p3": 0,
+        "p4": 0,
+        "p5": 0,
+        "p6": 0,
+        "p7": 0,
+        "p8": 0,
+        "p9": 0
+      },
+      "partidas": {
+        "pf": 8,
+        "pc": 9,
+        "dp": -1
+      },
+      "puntos": {
+        "p": 8,
+        "v": 2,
+        "t": 10,
+        "penalizaciones": 0,
+        "pt": 10
+      }
+    },
+    {
+      "posicion": 66,
+      "agp": "11103",
+      "nombre": "SANTIAGO PEREZ IGLESIAS",
+      "pruebas": {
+        "p1": 0,
+        "p2": 0,
+        "p3": 0,
+        "p4": 0,
+        "p5": 6,
+        "p6": 0,
+        "p7": 0,
+        "p8": 0,
+        "p9": 0
+      },
+      "partidas": {
+        "pf": 3,
+        "pc": 8,
+        "dp": -5
+      },
+      "puntos": {
+        "p": 6,
+        "v": 2,
+        "t": 8,
+        "penalizaciones": 0,
+        "pt": 8
+      }
+    },
+    {
+      "posicion": 67,
+      "agp": "18149",
+      "nombre": "IVAN JUIZ GARCIA",
+      "pruebas": {
+        "p1": 6,
+        "p2": 0,
+        "p3": 0,
+        "p4": 0,
+        "p5": 0,
+        "p6": 0,
+        "p7": 0,
+        "p8": 0,
+        "p9": 0
+      },
+      "partidas": {
+        "pf": 2,
+        "pc": 8,
+        "dp": -6
+      },
+      "puntos": {
+        "p": 6,
+        "v": 2,
+        "t": 8,
+        "penalizaciones": 0,
+        "pt": 8
+      }
+    },
+    {
+      "posicion": 68,
+      "agp": "3870",
+      "nombre": "MIGUEL ANGEL OTERO MIGUEZ",
+      "pruebas": {
+        "p1": 0,
+        "p2": 0,
+        "p3": 0,
+        "p4": 0,
+        "p5": 6,
+        "p6": 0,
+        "p7": 0,
+        "p8": 0,
+        "p9": 0
+      },
+      "partidas": {
+        "pf": 1,
+        "pc": 8,
+        "dp": -7
+      },
+      "puntos": {
+        "p": 6,
+        "v": 2,
+        "t": 8,
+        "penalizaciones": 0,
+        "pt": 8
+      }
+    },
+    {
+      "posicion": 69,
+      "agp": "18528",
+      "nombre": "JAVIER DIAZ QUINTAS",
+      "pruebas": {
+        "p1": 5,
+        "p2": 0,
+        "p3": 0,
+        "p4": 0,
+        "p5": 0,
+        "p6": 0,
+        "p7": 0,
+        "p8": 0,
+        "p9": 0
+      },
+      "partidas": {
+        "pf": 5,
+        "pc": 8,
+        "dp": -3
+      },
+      "puntos": {
+        "p": 5,
+        "v": 2,
+        "t": 7,
+        "penalizaciones": 0,
+        "pt": 7
+      }
+    },
+    {
+      "posicion": 70,
+      "agp": "14702",
+      "nombre": "ALEXANDER MONTERO AQUINO",
+      "pruebas": {
+        "p1": 0,
+        "p2": 0,
+        "p3": 0,
+        "p4": 0,
+        "p5": 5,
+        "p6": 0,
+        "p7": 0,
+        "p8": 0,
+        "p9": 0
+      },
+      "partidas": {
+        "pf": 0,
+        "pc": 4,
+        "dp": -4
+      },
+      "puntos": {
+        "p": 5,
+        "v": 2,
+        "t": 7,
+        "penalizaciones": 0,
+        "pt": 7
+      }
+    }
+  ]
+}

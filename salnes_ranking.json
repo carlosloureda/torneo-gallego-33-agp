@@ -1,0 +1,515 @@
+{
+  "torneo": "RANKING 3ª CATEGORÍA SALNÉS - CLASIFICATORIO CAMPEONATO GALLEGO",
+  "descripcion": {
+    "cabeza_serie": "Cabeza de serie XXXIII Campeonato Gallego 3ª Categoría",
+    "clasificado": "Clasificado XXXIII Campeonato Gallego 3ª Categoría",
+    "nota_clasificados": "Los jugadores clasificados para el XXXIII Campeonato Gallego (Lalín del 18 al 20 de Julio) deberán confirmar su participación antes del día 9 de Junio a las 12:00 horas",
+    "nota_repesca": "Los jugadores no clasificados que hayan disputado un mínimo de 5 pruebas podrán optar a más plazas en una repesca provincial el día 14 de Junio, para la que deberán confirmar su participación antes del día 9 de Junio a las 12:00 horas"
+  },
+  "jugadores": [
+    {
+      "posicion": 1,
+      "agp": "11975",
+      "nombre": "RAMON PINTOS CAMIÑA",
+      "pruebas": {
+        "p1": 14,
+        "p2": 10,
+        "p3": 14,
+        "p4": 14,
+        "p5": 8,
+        "p6": 8,
+        "p7": 14,
+        "p8": 7,
+        "p9": 10
+      },
+      "partidas": {
+        "pf": 113,
+        "pc": 69,
+        "dp": 44
+      },
+      "puntos": {
+        "p": 99,
+        "v": 18,
+        "t": 117,
+        "penalizaciones": 7,
+        "pt": 110
+      }
+    },
+    {
+      "posicion": 2,
+      "agp": "18656",
+      "nombre": "JONATHAN CORCHERO VELEZ",
+      "pruebas": {
+        "p1": 10,
+        "p2": 14,
+        "p3": 8,
+        "p4": 8,
+        "p5": 10,
+        "p6": 14,
+        "p7": 7,
+        "p8": 8,
+        "p9": 14
+      },
+      "partidas": {
+        "pf": 101,
+        "pc": 72,
+        "dp": 29
+      },
+      "puntos": {
+        "p": 93,
+        "v": 18,
+        "t": 111,
+        "penalizaciones": 7,
+        "pt": 104
+      }
+    },
+    {
+      "posicion": 3,
+      "agp": "11405",
+      "nombre": "ALBERTO GONZALEZ VIDAL",
+      "pruebas": {
+        "p1": 10,
+        "p2": 8,
+        "p3": 14,
+        "p4": 10,
+        "p5": 10,
+        "p6": 7,
+        "p7": 8,
+        "p8": 14,
+        "p9": 8
+      },
+      "partidas": {
+        "pf": 114,
+        "pc": 77,
+        "dp": 37
+      },
+      "puntos": {
+        "p": 89,
+        "v": 18,
+        "t": 107,
+        "penalizaciones": 7,
+        "pt": 100
+      }
+    },
+    {
+      "posicion": 4,
+      "agp": "18160",
+      "nombre": "JOSE ANTONIO BETANZOS BAULO",
+      "pruebas": {
+        "p1": 7,
+        "p2": 8,
+        "p3": 10,
+        "p4": 8,
+        "p5": 14,
+        "p6": 10,
+        "p7": 7,
+        "p8": 10,
+        "p9": 8
+      },
+      "partidas": {
+        "pf": 87,
+        "pc": 84,
+        "dp": 3
+      },
+      "puntos": {
+        "p": 82,
+        "v": 18,
+        "t": 100,
+        "penalizaciones": 7,
+        "pt": 93
+      }
+    },
+    {
+      "posicion": 5,
+      "agp": "18290",
+      "nombre": "EVARISTO PADIN GARCIA",
+      "pruebas": {
+        "p1": 8,
+        "p2": 8,
+        "p3": 7,
+        "p4": 14,
+        "p5": 7,
+        "p6": 8,
+        "p7": 8,
+        "p8": 7,
+        "p9": 14
+      },
+      "partidas": {
+        "pf": 79,
+        "pc": 81,
+        "dp": -2
+      },
+      "puntos": {
+        "p": 81,
+        "v": 18,
+        "t": 99,
+        "penalizaciones": 7,
+        "pt": 92
+      }
+    },
+    {
+      "posicion": 6,
+      "agp": "17595",
+      "nombre": "JUAN CARLOS RODRIGUEZ ARES",
+      "pruebas": {
+        "p1": 14,
+        "p2": 7,
+        "p3": 8,
+        "p4": 7,
+        "p5": 6,
+        "p6": 7,
+        "p7": 14,
+        "p8": 8,
+        "p9": 8
+      },
+      "partidas": {
+        "pf": 71,
+        "pc": 65,
+        "dp": 6
+      },
+      "puntos": {
+        "p": 79,
+        "v": 18,
+        "t": 97,
+        "penalizaciones": 6,
+        "pt": 91
+      }
+    },
+    {
+      "posicion": 7,
+      "agp": "17306",
+      "nombre": "GONZALO VIDAL PARADA",
+      "pruebas": {
+        "p1": 7,
+        "p2": 7,
+        "p3": 7,
+        "p4": 7,
+        "p5": 6,
+        "p6": 8,
+        "p7": 7,
+        "p8": 10,
+        "p9": 10
+      },
+      "partidas": {
+        "pf": 64,
+        "pc": 90,
+        "dp": -26
+      },
+      "puntos": {
+        "p": 69,
+        "v": 18,
+        "t": 87,
+        "penalizaciones": 6,
+        "pt": 81
+      }
+    },
+    {
+      "posicion": 8,
+      "agp": "17918",
+      "nombre": "PABLO CORES CARAMES",
+      "pruebas": {
+        "p1": 10,
+        "p2": 7,
+        "p3": 8,
+        "p4": 0,
+        "p5": 8,
+        "p6": 8,
+        "p7": 8,
+        "p8": 8,
+        "p9": 7
+      },
+      "partidas": {
+        "pf": 56,
+        "pc": 78,
+        "dp": -22
+      },
+      "puntos": {
+        "p": 64,
+        "v": 16,
+        "t": 80,
+        "penalizaciones": 0,
+        "pt": 80
+      }
+    },
+    {
+      "posicion": 9,
+      "agp": "4703",
+      "nombre": "MARCIAL VARELA GONZALEZ",
+      "pruebas": {
+        "p1": 0,
+        "p2": 0,
+        "p3": 0,
+        "p4": 7,
+        "p5": 14,
+        "p6": 14,
+        "p7": 10,
+        "p8": 14,
+        "p9": 8
+      },
+      "partidas": {
+        "pf": 67,
+        "pc": 48,
+        "dp": 19
+      },
+      "puntos": {
+        "p": 67,
+        "v": 12,
+        "t": 79,
+        "penalizaciones": 0,
+        "pt": 79
+      }
+    },
+    {
+      "posicion": 10,
+      "agp": "9627",
+      "nombre": "ABEL FERREIRA LEITE",
+      "pruebas": {
+        "p1": 8,
+        "p2": 8,
+        "p3": 7,
+        "p4": 8,
+        "p5": 8,
+        "p6": 7,
+        "p7": 7,
+        "p8": 7,
+        "p9": 8
+      },
+      "partidas": {
+        "pf": 64,
+        "pc": 83,
+        "dp": -19
+      },
+      "puntos": {
+        "p": 68,
+        "v": 18,
+        "t": 86,
+        "penalizaciones": 7,
+        "pt": 79
+      }
+    },
+    {
+      "posicion": 11,
+      "agp": "9890",
+      "nombre": "JORGE SANTAMARIA CACABELOS",
+      "pruebas": {
+        "p1": 8,
+        "p2": 0,
+        "p3": 6,
+        "p4": 10,
+        "p5": 0,
+        "p6": 7,
+        "p7": 10,
+        "p8": 8,
+        "p9": 0
+      },
+      "partidas": {
+        "pf": 66,
+        "pc": 61,
+        "dp": 5
+      },
+      "puntos": {
+        "p": 49,
+        "v": 12,
+        "t": 61,
+        "penalizaciones": 0,
+        "pt": 61
+      }
+    },
+    {
+      "posicion": 12,
+      "agp": "2720",
+      "nombre": "JUAN GREGORIO VIDAL QUINTANS",
+      "pruebas": {
+        "p1": 14,
+        "p2": 14,
+        "p3": 6,
+        "p4": 0,
+        "p5": 0,
+        "p6": 0,
+        "p7": 0,
+        "p8": 0,
+        "p9": 7
+      },
+      "partidas": {
+        "pf": 46,
+        "pc": 38,
+        "dp": 8
+      },
+      "puntos": {
+        "p": 41,
+        "v": 8,
+        "t": 49,
+        "penalizaciones": 0,
+        "pt": 49
+      }
+    },
+    {
+      "posicion": 13,
+      "agp": "18244",
+      "nombre": "PABLO PUGA BARROS",
+      "pruebas": {
+        "p1": 8,
+        "p2": 0,
+        "p3": 10,
+        "p4": 6,
+        "p5": 7,
+        "p6": 0,
+        "p7": 0,
+        "p8": 6,
+        "p9": 0
+      },
+      "partidas": {
+        "pf": 29,
+        "pc": 42,
+        "dp": -13
+      },
+      "puntos": {
+        "p": 37,
+        "v": 10,
+        "t": 47,
+        "penalizaciones": 0,
+        "pt": 47
+      }
+    },
+    {
+      "posicion": 14,
+      "agp": "14553",
+      "nombre": "SERGIO GOMEZ COSTA",
+      "pruebas": {
+        "p1": 7,
+        "p2": 10,
+        "p3": 0,
+        "p4": 7,
+        "p5": 8,
+        "p6": 0,
+        "p7": 0,
+        "p8": 0,
+        "p9": 0
+      },
+      "partidas": {
+        "pf": 39,
+        "pc": 38,
+        "dp": 1
+      },
+      "puntos": {
+        "p": 32,
+        "v": 8,
+        "t": 40,
+        "penalizaciones": 0,
+        "pt": 40
+      }
+    },
+    {
+      "posicion": 15,
+      "agp": "18685",
+      "nombre": "JOSUE TENA MORALES",
+      "pruebas": {
+        "p1": 0,
+        "p2": 0,
+        "p3": 0,
+        "p4": 8,
+        "p5": 7,
+        "p6": 10,
+        "p7": 0,
+        "p8": 0,
+        "p9": 7
+      },
+      "partidas": {
+        "pf": 32,
+        "pc": 40,
+        "dp": -8
+      },
+      "puntos": {
+        "p": 32,
+        "v": 8,
+        "t": 40,
+        "penalizaciones": 0,
+        "pt": 40
+      }
+    },
+    {
+      "posicion": 16,
+      "agp": "14170",
+      "nombre": "MARCOS MINIÑO MEIS",
+      "pruebas": {
+        "p1": 7,
+        "p2": 6,
+        "p3": 0,
+        "p4": 0,
+        "p5": 0,
+        "p6": 0,
+        "p7": 8,
+        "p8": 7,
+        "p9": 0
+      },
+      "partidas": {
+        "pf": 27,
+        "pc": 33,
+        "dp": -6
+      },
+      "puntos": {
+        "p": 28,
+        "v": 8,
+        "t": 36,
+        "penalizaciones": 0,
+        "pt": 36
+      }
+    },
+    {
+      "posicion": 17,
+      "agp": "18195",
+      "nombre": "BRAIS BETANZOS LOIS",
+      "pruebas": {
+        "p1": 8,
+        "p2": 6,
+        "p3": 8,
+        "p4": 0,
+        "p5": 0,
+        "p6": 0,
+        "p7": 0,
+        "p8": 0,
+        "p9": 0
+      },
+      "partidas": {
+        "pf": 16,
+        "pc": 30,
+        "dp": -14
+      },
+      "puntos": {
+        "p": 22,
+        "v": 6,
+        "t": 28,
+        "penalizaciones": 0,
+        "pt": 28
+      }
+    },
+    {
+      "posicion": 18,
+      "agp": "11478",
+      "nombre": "ALFREDO DURAN BAUTISTA",
+      "pruebas": {
+        "p1": 8,
+        "p2": 0,
+        "p3": 0,
+        "p4": 0,
+        "p5": 0,
+        "p6": 0,
+        "p7": 0,
+        "p8": 0,
+        "p9": 0
+      },
+      "partidas": {
+        "pf": 8,
+        "pc": 10,
+        "dp": -2
+      },
+      "puntos": {
+        "p": 8,
+        "v": 2,
+        "t": 10,
+        "penalizaciones": 0,
+        "pt": 10
+      }
+    }
+  ]
+}

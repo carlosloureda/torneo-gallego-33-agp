@@ -1,0 +1,683 @@
+{
+  "torneo": "RANKING 3ª CATEGORÍA ORDES - CLASIFICATORIO CAMPEONATO GALLEGO",
+  "descripcion": {
+    "cabeza_serie": "Cabeza de serie XXXIII Campeonato Gallego 3ª Categoría",
+    "clasificado": "Clasificado XXXIII Campeonato Gallego 3ª Categoría",
+    "nota_clasificados": "Los jugadores clasificados para el XXXIII Campeonato Gallego (Lalín del 18 al 20 de Julio) deberán confirmar su participación antes del día 9 de Junio a las 12:00 horas",
+    "nota_repesca": "Los jugadores no clasificados que hayan disputado un mínimo de 5 pruebas podrán optar a más plazas en una repesca provincial el día 14 de Junio, para la que deberán confirmar su participación antes del día 9 de Junio a las 12:00 horas"
+  },
+  "jugadores": [
+    {
+      "posicion": 1,
+      "agp": "18106",
+      "nombre": "SERAFIN ALONSO RIOS",
+      "pruebas": {
+        "p1": 10,
+        "p2": 10,
+        "p3": 14,
+        "p4": 3,
+        "p5": 14,
+        "p6": 10,
+        "p7": 4,
+        "p8": 6,
+        "p9": 14
+      },
+      "partidas": {
+        "pf": 179,
+        "pc": 119,
+        "dp": 60
+      },
+      "puntos": {
+        "p": 85,
+        "v": 18,
+        "t": 103,
+        "penalizaciones": 3,
+        "pt": 100
+      }
+    },
+    {
+      "posicion": 2,
+      "agp": "11539",
+      "nombre": "ADRIAN TRIGO PENSADO",
+      "pruebas": {
+        "p1": 5,
+        "p2": 14,
+        "p3": 6,
+        "p4": 7,
+        "p5": 8,
+        "p6": 7,
+        "p7": 14,
+        "p8": 4,
+        "p9": 5
+      },
+      "partidas": {
+        "pf": 140,
+        "pc": 102,
+        "dp": 38
+      },
+      "puntos": {
+        "p": 70,
+        "v": 18,
+        "t": 88,
+        "penalizaciones": 4,
+        "pt": 84
+      }
+    },
+    {
+      "posicion": 3,
+      "agp": "18321",
+      "nombre": "IHOSVANY ALVAREZ LOPEZ",
+      "pruebas": {
+        "p1": 14,
+        "p2": 3,
+        "p3": 8,
+        "p4": 8,
+        "p5": 6,
+        "p6": 5,
+        "p7": 8,
+        "p8": 6,
+        "p9": 4
+      },
+      "partidas": {
+        "pf": 102,
+        "pc": 98,
+        "dp": 4
+      },
+      "puntos": {
+        "p": 62,
+        "v": 18,
+        "t": 80,
+        "penalizaciones": 3,
+        "pt": 77
+      }
+    },
+    {
+      "posicion": 4,
+      "agp": "18146",
+      "nombre": "PEDRO RAICES SOPALSKA",
+      "pruebas": {
+        "p1": 6,
+        "p2": 8,
+        "p3": 0,
+        "p4": 0,
+        "p5": 7,
+        "p6": 14,
+        "p7": 4,
+        "p8": 10,
+        "p9": 7
+      },
+      "partidas": {
+        "pf": 113,
+        "pc": 80,
+        "dp": 33
+      },
+      "puntos": {
+        "p": 56,
+        "v": 14,
+        "t": 70,
+        "penalizaciones": 0,
+        "pt": 70
+      }
+    },
+    {
+      "posicion": 5,
+      "agp": "18176",
+      "nombre": "SERGIO GARROTE BECERRA",
+      "pruebas": {
+        "p1": 7,
+        "p2": 5,
+        "p3": 4,
+        "p4": 6,
+        "p5": 10,
+        "p6": 4,
+        "p7": 6,
+        "p8": 8,
+        "p9": 6
+      },
+      "partidas": {
+        "pf": 119,
+        "pc": 99,
+        "dp": 20
+      },
+      "puntos": {
+        "p": 56,
+        "v": 18,
+        "t": 74,
+        "penalizaciones": 4,
+        "pt": 70
+      }
+    },
+    {
+      "posicion": 6,
+      "agp": "18658",
+      "nombre": "MARTIN BELLO RAMA",
+      "pruebas": {
+        "p1": 0,
+        "p2": 4,
+        "p3": 2,
+        "p4": 14,
+        "p5": 3,
+        "p6": 6,
+        "p7": 4,
+        "p8": 14,
+        "p9": 4
+      },
+      "partidas": {
+        "pf": 84,
+        "pc": 73,
+        "dp": 11
+      },
+      "puntos": {
+        "p": 51,
+        "v": 16,
+        "t": 67,
+        "penalizaciones": 0,
+        "pt": 67
+      }
+    },
+    {
+      "posicion": 7,
+      "agp": "18617",
+      "nombre": "HECTOR RODRIGUEZ DEL RIO",
+      "pruebas": {
+        "p1": 3,
+        "p2": 4,
+        "p3": 3,
+        "p4": 10,
+        "p5": 6,
+        "p6": 8,
+        "p7": 10,
+        "p8": 4,
+        "p9": 3
+      },
+      "partidas": {
+        "pf": 98,
+        "pc": 105,
+        "dp": -7
+      },
+      "puntos": {
+        "p": 51,
+        "v": 18,
+        "t": 69,
+        "penalizaciones": 3,
+        "pt": 66
+      }
+    },
+    {
+      "posicion": 8,
+      "agp": "18261",
+      "nombre": "DOUGLAS DANIEL CHIRINOS DA CUNHA",
+      "pruebas": {
+        "p1": 5,
+        "p2": 3,
+        "p3": 4,
+        "p4": 5,
+        "p5": 0,
+        "p6": 4,
+        "p7": 7,
+        "p8": 4,
+        "p9": 8
+      },
+      "partidas": {
+        "pf": 79,
+        "pc": 85,
+        "dp": -6
+      },
+      "puntos": {
+        "p": 40,
+        "v": 16,
+        "t": 56,
+        "penalizaciones": 0,
+        "pt": 56
+      }
+    },
+    {
+      "posicion": 9,
+      "agp": "17011",
+      "nombre": "JOSE ANGEL GARROTE FAYA",
+      "pruebas": {
+        "p1": 4,
+        "p2": 5,
+        "p3": 3,
+        "p4": 6,
+        "p5": 5,
+        "p6": 5,
+        "p7": 3,
+        "p8": 0,
+        "p9": 6
+      },
+      "partidas": {
+        "pf": 82,
+        "pc": 85,
+        "dp": -3
+      },
+      "puntos": {
+        "p": 37,
+        "v": 16,
+        "t": 53,
+        "penalizaciones": 0,
+        "pt": 53
+      }
+    },
+    {
+      "posicion": 10,
+      "agp": "17223",
+      "nombre": "MELITZA CAROLINA ZAVALA LOPEZ",
+      "pruebas": {
+        "p1": 4,
+        "p2": 3,
+        "p3": 5,
+        "p4": 0,
+        "p5": 3,
+        "p6": 3,
+        "p7": 3,
+        "p8": 5,
+        "p9": 4
+      },
+      "partidas": {
+        "pf": 47,
+        "pc": 72,
+        "dp": -25
+      },
+      "puntos": {
+        "p": 30,
+        "v": 16,
+        "t": 46,
+        "penalizaciones": 0,
+        "pt": 46
+      }
+    },
+    {
+      "posicion": 11,
+      "agp": "18584",
+      "nombre": "DENYEER DE JESUS LADO SEQUERA",
+      "pruebas": {
+        "p1": 3,
+        "p2": 5,
+        "p3": 5,
+        "p4": 0,
+        "p5": 0,
+        "p6": 4,
+        "p7": 3,
+        "p8": 4,
+        "p9": 4
+      },
+      "partidas": {
+        "pf": 49,
+        "pc": 63,
+        "dp": -14
+      },
+      "puntos": {
+        "p": 28,
+        "v": 14,
+        "t": 42,
+        "penalizaciones": 0,
+        "pt": 42
+      }
+    },
+    {
+      "posicion": 12,
+      "agp": "18277",
+      "nombre": "ANTIA BECERRA FRAGA",
+      "pruebas": {
+        "p1": 3,
+        "p2": 0,
+        "p3": 2,
+        "p4": 5,
+        "p5": 5,
+        "p6": 0,
+        "p7": 5,
+        "p8": 0,
+        "p9": 5
+      },
+      "partidas": {
+        "pf": 48,
+        "pc": 60,
+        "dp": -12
+      },
+      "puntos": {
+        "p": 25,
+        "v": 12,
+        "t": 37,
+        "penalizaciones": 0,
+        "pt": 37
+      }
+    },
+    {
+      "posicion": 13,
+      "agp": "14505",
+      "nombre": "CARLOS ALBERTO DUBRA SUAREZ",
+      "pruebas": {
+        "p1": 0,
+        "p2": 4,
+        "p3": 0,
+        "p4": 4,
+        "p5": 5,
+        "p6": 6,
+        "p7": 0,
+        "p8": 0,
+        "p9": 3
+      },
+      "partidas": {
+        "pf": 36,
+        "pc": 51,
+        "dp": -15
+      },
+      "puntos": {
+        "p": 22,
+        "v": 10,
+        "t": 32,
+        "penalizaciones": 0,
+        "pt": 32
+      }
+    },
+    {
+      "posicion": 14,
+      "agp": "17266",
+      "nombre": "MAIKEL SILVIERA SEOANE",
+      "pruebas": {
+        "p1": 0,
+        "p2": 2,
+        "p3": 3,
+        "p4": 3,
+        "p5": 0,
+        "p6": 4,
+        "p7": 3,
+        "p8": 0,
+        "p9": 3
+      },
+      "partidas": {
+        "pf": 29,
+        "pc": 43,
+        "dp": -14
+      },
+      "puntos": {
+        "p": 18,
+        "v": 12,
+        "t": 30,
+        "penalizaciones": 0,
+        "pt": 30
+      }
+    },
+    {
+      "posicion": 15,
+      "agp": "17164",
+      "nombre": "RAUL SILVOSA IGLESIAS",
+      "pruebas": {
+        "p1": 0,
+        "p2": 0,
+        "p3": 2,
+        "p4": 3,
+        "p5": 4,
+        "p6": 3,
+        "p7": 4,
+        "p8": 0,
+        "p9": 0
+      },
+      "partidas": {
+        "pf": 26,
+        "pc": 43,
+        "dp": -17
+      },
+      "puntos": {
+        "p": 16,
+        "v": 10,
+        "t": 26,
+        "penalizaciones": 0,
+        "pt": 26
+      }
+    },
+    {
+      "posicion": 16,
+      "agp": "18254",
+      "nombre": "ADRIAN PASANTES POSO",
+      "pruebas": {
+        "p1": 8,
+        "p2": 7,
+        "p3": 0,
+        "p4": 0,
+        "p5": 4,
+        "p6": 0,
+        "p7": 0,
+        "p8": 0,
+        "p9": 0
+      },
+      "partidas": {
+        "pf": 40,
+        "pc": 36,
+        "dp": 4
+      },
+      "puntos": {
+        "p": 19,
+        "v": 6,
+        "t": 25,
+        "penalizaciones": 0,
+        "pt": 25
+      }
+    },
+    {
+      "posicion": 17,
+      "agp": "14423",
+      "nombre": "VICTOR HUGO REY REY",
+      "pruebas": {
+        "p1": 0,
+        "p2": 4,
+        "p3": 0,
+        "p4": 0,
+        "p5": 0,
+        "p6": 0,
+        "p7": 5,
+        "p8": 4,
+        "p9": 0
+      },
+      "partidas": {
+        "pf": 19,
+        "pc": 33,
+        "dp": -14
+      },
+      "puntos": {
+        "p": 13,
+        "v": 6,
+        "t": 19,
+        "penalizaciones": 0,
+        "pt": 19
+      }
+    },
+    {
+      "posicion": 18,
+      "agp": "14938",
+      "nombre": "SERGIO PREGO BECERRA",
+      "pruebas": {
+        "p1": 0,
+        "p2": 3,
+        "p3": 0,
+        "p4": 4,
+        "p5": 0,
+        "p6": 3,
+        "p7": 0,
+        "p8": 0,
+        "p9": 0
+      },
+      "partidas": {
+        "pf": 17,
+        "pc": 27,
+        "dp": -10
+      },
+      "puntos": {
+        "p": 10,
+        "v": 6,
+        "t": 16,
+        "penalizaciones": 0,
+        "pt": 16
+      }
+    },
+    {
+      "posicion": 19,
+      "agp": "14780",
+      "nombre": "DANIEL FRAGA ALONSO",
+      "pruebas": {
+        "p1": 4,
+        "p2": 0,
+        "p3": 0,
+        "p4": 0,
+        "p5": 0,
+        "p6": 0,
+        "p7": 0,
+        "p8": 6,
+        "p9": 0
+      },
+      "partidas": {
+        "pf": 19,
+        "pc": 18,
+        "dp": 1
+      },
+      "puntos": {
+        "p": 10,
+        "v": 4,
+        "t": 14,
+        "penalizaciones": 0,
+        "pt": 14
+      }
+    },
+    {
+      "posicion": 20,
+      "agp": "18753",
+      "nombre": "FERNANDO RIAL MIRAS",
+      "pruebas": {
+        "p1": 0,
+        "p2": 0,
+        "p3": 0,
+        "p4": 0,
+        "p5": 4,
+        "p6": 0,
+        "p7": 6,
+        "p8": 0,
+        "p9": 0
+      },
+      "partidas": {
+        "pf": 22,
+        "pc": 23,
+        "dp": -1
+      },
+      "puntos": {
+        "p": 10,
+        "v": 4,
+        "t": 14,
+        "penalizaciones": 0,
+        "pt": 14
+      }
+    },
+    {
+      "posicion": 21,
+      "agp": "11541",
+      "nombre": "ANTONI AÑON ANTIN",
+      "pruebas": {
+        "p1": 0,
+        "p2": 0,
+        "p3": 0,
+        "p4": 0,
+        "p5": 0,
+        "p6": 0,
+        "p7": 0,
+        "p8": 0,
+        "p9": 10
+      },
+      "partidas": {
+        "pf": 18,
+        "pc": 19,
+        "dp": -1
+      },
+      "puntos": {
+        "p": 10,
+        "v": 2,
+        "t": 12,
+        "penalizaciones": 0,
+        "pt": 12
+      }
+    },
+    {
+      "posicion": 22,
+      "agp": "",
+      "nombre": "LUIS M.",
+      "pruebas": {
+        "p1": 0,
+        "p2": 0,
+        "p3": 0,
+        "p4": 4,
+        "p5": 3,
+        "p6": 0,
+        "p7": 0,
+        "p8": 0,
+        "p9": 0
+      },
+      "partidas": {
+        "pf": 11,
+        "pc": 18,
+        "dp": -7
+      },
+      "puntos": {
+        "p": 7,
+        "v": 4,
+        "t": 11,
+        "penalizaciones": 0,
+        "pt": 11
+      }
+    },
+    {
+      "posicion": 23,
+      "agp": "18179",
+      "nombre": "JAVIER LOZANO VILARIÑO",
+      "pruebas": {
+        "p1": 4,
+        "p2": 2,
+        "p3": 0,
+        "p4": 0,
+        "p5": 0,
+        "p6": 0,
+        "p7": 0,
+        "p8": 0,
+        "p9": 0
+      },
+      "partidas": {
+        "pf": 4,
+        "pc": 16,
+        "dp": -12
+      },
+      "puntos": {
+        "p": 6,
+        "v": 4,
+        "t": 10,
+        "penalizaciones": 0,
+        "pt": 10
+      }
+    },
+    {
+      "posicion": 24,
+      "agp": "18345",
+      "nombre": "GUSTAVO JUSTINIANO GUZMAN",
+      "pruebas": {
+        "p1": 0,
+        "p2": 2,
+        "p3": 0,
+        "p4": 0,
+        "p5": 0,
+        "p6": 0,
+        "p7": 0,
+        "p8": 0,
+        "p9": 0
+      },
+      "partidas": {
+        "pf": 5,
+        "pc": 8,
+        "dp": -3
+      },
+      "puntos": {
+        "p": 2,
+        "v": 2,
+        "t": 4,
+        "penalizaciones": 0,
+        "pt": 4
+      }
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "torneo": "RANKING 3ª CATEGORÍA CONDADO - CLASIFICATORIO CAMPEONATO GALLEGO",
+  "descripcion": {
+    "cabeza_serie": "Cabeza de serie XXXIII Campeonato Gallego 3ª Categoría",
+    "clasificado": "Clasificado XXXIII Campeonato Gallego 3ª Categoría",
+    "nota_clasificados": "Los jugadores clasificados para el XXXIII Campeonato Gallego (Lalín del 18 al 20 de Julio) deberán confirmar su participación antes del día 9 de Junio a las 12:00 horas",
+    "nota_repesca": "Los jugadores no clasificados que hayan disputado un mínimo de 5 pruebas podrán optar a más plazas en una repesca provincial el día 14 de Junio, para la que deberán confirmar su participación antes del día 9 de Junio a las 12:00 horas"
+  },
+  "jugadores": [
+    {
+      "posicion": 1,
+      "agp": "3620",
+      "nombre": "SANTOS ESTEVEZ BARROS",
+      "pruebas": {
+        "p1": 10,
+        "p2": 14,
+        "p3": 10,
+        "p4": 14,
+        "p5": 14,
+        "p6": 10,
+        "p7": 0,
+        "p8": 14,
+        "p9": 14
+      },
+      "partidas": {
+        "pf": 120,
+        "pc": 61,
+        "dp": 59
+      },
+      "puntos": {
+        "p": 100,
+        "v": 16,
+        "t": 116,
+        "penalizaciones": 0,
+        "pt": 116
+      }
+    },
+    {
+      "posicion": 2,
+      "agp": "6713",
+      "nombre": "CRISTINO BAZ IGLESIAS",
+      "pruebas": {
+        "p1": 8,
+        "p2": 10,
+        "p3": 8,
+        "p4": 10,
+        "p5": 10,
+        "p6": 14,
+        "p7": 10,
+        "p8": 10,
+        "p9": 8
+      },
+      "partidas": {
+        "pf": 95,
+        "pc": 69,
+        "dp": 26
+      },
+      "puntos": {
+        "p": 88,
+        "v": 18,
+        "t": 106,
+        "penalizaciones": 8,
+        "pt": 98
+      }
+    },
+    {
+      "posicion": 3,
+      "agp": "18624",
+      "nombre": "PAUL ANDREW LEFEVRE",
+      "pruebas": {
+        "p1": 8,
+        "p2": 8,
+        "p3": 6,
+        "p4": 7,
+        "p5": 7,
+        "p6": 7,
+        "p7": 8,
+        "p8": 8,
+        "p9": 10
+      },
+      "partidas": {
+        "pf": 62,
+        "pc": 96,
+        "dp": -34
+      },
+      "puntos": {
+        "p": 69,
+        "v": 18,
+        "t": 87,
+        "penalizaciones": 6,
+        "pt": 81
+      }
+    },
+    {
+      "posicion": 4,
+      "agp": "11836",
+      "nombre": "EDGAR HEIMANN GONZLAEZ",
+      "pruebas": {
+        "p1": 14,
+        "p2": 0,
+        "p3": 14,
+        "p4": 8,
+        "p5": 0,
+        "p6": 0,
+        "p7": 0,
+        "p8": 0,
+        "p9": 0
+      },
+      "partidas": {
+        "pf": 46,
+        "pc": 27,
+        "dp": 19
+      },
+      "puntos": {
+        "p": 36,
+        "v": 6,
+        "t": 42,
+        "penalizaciones": 0,
+        "pt": 42
+      }
+    }
+  ]
+}

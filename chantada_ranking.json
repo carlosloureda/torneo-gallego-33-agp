@@ -1,0 +1,179 @@
+{
+  "torneo": "RANKING 3ª CATEGORÍA CHANTADA- CLASIFICATORIO CAMPEONATO GALLEGO",
+  "descripcion": {
+    "cabeza_serie": "Cabeza de serie XXXIII Campeonato Gallego 3ª Categoría",
+    "clasificado": "Clasificado XXXIII Campeonato Gallego 3ª Categoría",
+    "nota_clasificados": "Los jugadores clasificados para el XXXIII Campeonato Gallego (Lalín del 18 al 20 de Julio) deberán confirmar su participación antes del día 9 de Junio a las 12:00 horas",
+    "nota_repesca": "Los jugadores no clasificados que hayan disputado un mínimo de 5 pruebas podrán optar a más plazas en una repesca provincial el día 14 de Junio, para la que deberán confirmar su participación antes del día 9 de Junio a las 12:00 horas"
+  },
+  "jugadores": [
+    {
+      "posicion": 1,
+      "agp": "11089",
+      "nombre": "JOSE ANTONIO FIUNTE LOBELLE",
+      "pruebas": {
+        "p1": 8,
+        "p2": 8,
+        "p3": 8,
+        "p4": 14,
+        "p5": 7,
+        "p6": 7,
+        "p7": 14,
+        "p8": 10,
+        "p9": 10
+      },
+      "partidas": {
+        "pf": 110,
+        "pc": 91,
+        "dp": 19
+      },
+      "puntos": {
+        "p": 86,
+        "v": 18,
+        "t": 104,
+        "penalizaciones": 7,
+        "pt": 97
+      }
+    },
+    {
+      "posicion": 2,
+      "agp": "4927",
+      "nombre": "MANUEL PEREZ VELON",
+      "pruebas": {
+        "p1": 0,
+        "p2": 0,
+        "p3": 10,
+        "p4": 10,
+        "p5": 14,
+        "p6": 6,
+        "p7": 8,
+        "p8": 14,
+        "p9": 14
+      },
+      "partidas": {
+        "pf": 85,
+        "pc": 58,
+        "dp": 27
+      },
+      "puntos": {
+        "p": 76,
+        "v": 14,
+        "t": 90,
+        "penalizaciones": 0,
+        "pt": 90
+      }
+    },
+    {
+      "posicion": 3,
+      "agp": "11238",
+      "nombre": "ROBERTO RAJO MOURE",
+      "pruebas": {
+        "p1": 8,
+        "p2": 7,
+        "p3": 7,
+        "p4": 8,
+        "p5": 7,
+        "p6": 8,
+        "p7": 7,
+        "p8": 8,
+        "p9": 8
+      },
+      "partidas": {
+        "pf": 86,
+        "pc": 90,
+        "dp": -4
+      },
+      "puntos": {
+        "p": 68,
+        "v": 18,
+        "t": 86,
+        "penalizaciones": 7,
+        "pt": 79
+      }
+    },
+    {
+      "posicion": 4,
+      "agp": "11961",
+      "nombre": "ROBERTO VARELA SAMPAYO",
+      "pruebas": {
+        "p1": 14,
+        "p2": 14,
+        "p3": 14,
+        "p4": 6,
+        "p5": 8,
+        "p6": 6,
+        "p7": 0,
+        "p8": 0,
+        "p9": 0
+      },
+      "partidas": {
+        "pf": 72,
+        "pc": 43,
+        "dp": 29
+      },
+      "puntos": {
+        "p": 62,
+        "v": 12,
+        "t": 74,
+        "penalizaciones": 0,
+        "pt": 74
+      }
+    },
+    {
+      "posicion": 5,
+      "agp": "11542",
+      "nombre": "ROBERTO FIUNTE LOBELLE",
+      "pruebas": {
+        "p1": 7,
+        "p2": 8,
+        "p3": 8,
+        "p4": 6,
+        "p5": 6,
+        "p6": 8,
+        "p7": 6,
+        "p8": 7,
+        "p9": 0
+      },
+      "partidas": {
+        "pf": 48,
+        "pc": 74,
+        "dp": -26
+      },
+      "puntos": {
+        "p": 56,
+        "v": 16,
+        "t": 72,
+        "penalizaciones": 0,
+        "pt": 72
+      }
+    },
+    {
+      "posicion": 6,
+      "agp": "11544",
+      "nombre": "JAVIER MONTES VAZQUEZ",
+      "pruebas": {
+        "p1": 10,
+        "p2": 0,
+        "p3": 0,
+        "p4": 0,
+        "p5": 0,
+        "p6": 0,
+        "p7": 6,
+        "p8": 0,
+        "p9": 0
+      },
+      "partidas": {
+        "pf": 17,
+        "pc": 22,
+        "dp": -5
+      },
+      "puntos": {
+        "p": 16,
+        "v": 4,
+        "t": 20,
+        "penalizaciones": 0,
+        "pt": 20
+      }
+    }
+  ]
+}
