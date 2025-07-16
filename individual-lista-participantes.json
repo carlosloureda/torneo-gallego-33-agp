@@ -1,2098 +1,2097 @@
 [
-    {
-        "playerId": 5121625,
-        "name": "Paulo Jose Lopes Correia Martins",
-        "firstname": "Paulo Jose",
-        "lastname": "Lopes Correia Martins",
-        "url": "https://cuescore.com/player/Paulo+Jose+Lopes+Correia+Martins/5121625",
-        "image": "https://img.cuescore.com/image/a/4/ab0cf0a13ef8a320c94a7896cb9cfb5d.png",
-        "country": [],
-        "represents": []
-    },
-    {
-        "playerId": 8940982,
-        "name": "Jesús Portela",
-        "firstname": "Jesús",
-        "lastname": "Portela",
-        "url": "https://cuescore.com/player/Jes%C3%BAs+Portela/8940982",
-        "image": "https://img.cuescore.com/image/d/4/d39e1f422e4b1cd1be46e911283d7b04.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 9194757,
-        "name": "Ramón Pintos",
-        "firstname": "Ramón",
-        "lastname": "Pintos",
-        "url": "https://cuescore.com/player/Ram%C3%B3n+Pintos/9194757",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 9273002,
-        "name": "Manuel Casal Vidal",
-        "firstname": "Manuel",
-        "lastname": "Casal Vidal",
-        "url": "https://cuescore.com/player/Manuel+Casal+Vidal/9273002",
-        "image": "https://img.cuescore.com/image/a/4/ab076a04bddd8a02555f72843309a64f.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 9287313,
-        "name": "Adrián Veiga Rodríguez",
-        "firstname": "Adrián",
-        "lastname": "Veiga Rodríguez",
-        "url": "https://cuescore.com/player/Adri%C3%A1n+Veiga+Rodr%C3%ADguez/9287313",
-        "image": "https://img.cuescore.com/image/3/4/3969c432072124118c08dd6d513041c7.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 10135060,
-        "name": "Diego Pérez Alonso",
-        "firstname": "Diego",
-        "lastname": "Pérez Alonso",
-        "url": "https://cuescore.com/player/Diego+P%C3%A9rez+Alonso/10135060",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 10135066,
-        "name": "Borja Parente Hernández",
-        "firstname": "Borja",
-        "lastname": "Parente Hernández",
-        "url": "https://cuescore.com/player/Borja+Parente+Hern%C3%A1ndez/10135066",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 10135168,
-        "name": "Marcos Álvarez Sobrino",
-        "firstname": "Marcos",
-        "lastname": "Álvarez Sobrino",
-        "url": "https://cuescore.com/player/Marcos+%C3%81lvarez+Sobrino/10135168",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 11234752,
-        "name": "Facundo Robleda Bravo",
-        "firstname": "Facundo",
-        "lastname": "Robleda Bravo",
-        "url": "https://cuescore.com/player/Facundo+Robleda+Bravo/11234752",
-        "image": "https://img.cuescore.com/image/9/4/9551cdc809b97105a274b1a2fec9d0a8.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 11328685,
-        "name": "Juan Carlos Rodriguez Ares",
-        "firstname": "Juan Carlos",
-        "lastname": "Rodriguez Ares",
-        "url": "https://cuescore.com/player/Juan+Carlos+Rodriguez+Ares/11328685",
-        "image": "https://img.cuescore.com/image/b/4/bf86b263fe6d17b285f0a26fbfd42ec7.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 15107161,
-        "name": "Nair Rodriguez",
-        "firstname": "Nair",
-        "lastname": "Rodriguez",
-        "url": "https://cuescore.com/player/Nair+Rodriguez/15107161",
-        "image": "https://img.cuescore.com/image/5/4/5aa6aa48f7d5ffe854d5266ac08db7ef.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 15769699,
-        "name": "MARIA AMALIA BUIDE VIÑA",
-        "firstname": "MARIA AMALIA",
-        "lastname": "BUIDE VIÑA",
-        "url": "https://cuescore.com/player/MARIA+AMALIA+BUIDE+VI%C3%91A/15769699",
-        "image": "https://img.cuescore.com/image/5/4/5aa6aa48f7d5ffe854d5266ac08db7ef.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 17354551,
-        "name": "Evaristo Padín",
-        "firstname": "Evaristo",
-        "lastname": "Padín",
-        "url": "https://cuescore.com/player/Evaristo+Pad%C3%ADn/17354551",
-        "image": "https://img.cuescore.com/image/9/4/9e02988e31733259b10f366cf4bc5953.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 17698951,
-        "name": "Miguel Rey Couso",
-        "firstname": "Miguel",
-        "lastname": "Rey Couso",
-        "url": "https://cuescore.com/player/Miguel+Rey+Couso/17698951",
-        "image": "https://img.cuescore.com/image/c/4/c3fe0895f3291a00f56442acd0d891e1.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 19548595,
-        "name": "Jorge Sayáns",
-        "firstname": "Jorge",
-        "lastname": "Sayáns",
-        "url": "https://cuescore.com/player/Jorge+Say%C3%A1ns/19548595",
-        "image": "https://img.cuescore.com/image/0/4/0537af4666b7e84ffe0ea0a14f067041.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 20367559,
-        "name": "Jonathan Corchero",
-        "firstname": "Jonathan",
-        "lastname": "Corchero",
-        "url": "https://cuescore.com/player/Jonathan+Corchero/20367559",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 21685600,
-        "name": "Pablo Rodríguez Castro",
-        "firstname": "Pablo",
-        "lastname": "Rodríguez Castro",
-        "url": "https://cuescore.com/player/Pablo+Rodr%C3%ADguez+Castro/21685600",
-        "image": "https://img.cuescore.com/image/1/4/1d46f6d3d26611f671447f13fd96bfd6.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 24762655,
-        "name": "Yeray García",
-        "firstname": "Yeray",
-        "lastname": "García",
-        "url": "https://cuescore.com/player/Yeray+Garc%C3%ADa/24762655",
-        "image": "https://img.cuescore.com/image/8/4/815b698e7fb11e1e6869a2039ae6f12d.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 24767614,
-        "name": "Ángel Bernárdez Soliño",
-        "firstname": "Ángel",
-        "lastname": "Bernárdez Soliño",
-        "url": "https://cuescore.com/player/%C3%81ngel+Bern%C3%A1rdez+Soli%C3%B1o/24767614",
-        "image": "https://img.cuescore.com/image/5/4/5b3628bc07d4b6920c621bcd7b8e3be1.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 24767626,
-        "name": "Daniel Crespo Blanco",
-        "firstname": "Daniel",
-        "lastname": "Crespo Blanco",
-        "url": "https://cuescore.com/player/Daniel+Crespo+Blanco/24767626",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 24767725,
-        "name": "José Stalin Briones Romero",
-        "firstname": "José Stalin",
-        "lastname": "Briones Romero",
-        "url": "https://cuescore.com/player/Jos%C3%A9+Stalin+Briones+Romero/24767725",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 24767734,
-        "name": "Miguel Ucha Rodríguez",
-        "firstname": "Miguel",
-        "lastname": "Ucha Rodríguez",
-        "url": "https://cuescore.com/player/Miguel+Ucha+Rodr%C3%ADguez/24767734",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 24767740,
-        "name": "Juan Edilio Caba Almonte",
-        "firstname": "Juan Edilio",
-        "lastname": "Caba Almonte",
-        "url": "https://cuescore.com/player/Juan+Edilio+Caba+Almonte/24767740",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 24820927,
-        "name": "Alberto González Vidal",
-        "firstname": "Alberto",
-        "lastname": "González Vidal",
-        "url": "https://cuescore.com/player/Alberto+Gonz%C3%A1lez+Vidal/24820927",
-        "image": "https://img.cuescore.com/image/c/4/cd9fa0d74004cb25442e85d8cd74d389.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 24860551,
-        "name": "David Alfonso acevedo",
-        "firstname": "David",
-        "lastname": "Alfonso acevedo",
-        "url": "https://cuescore.com/player/David+Alfonso+acevedo/24860551",
-        "image": "https://img.cuescore.com/image/6/4/65b60347287e2f2600a366e16a73a49f.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 26417773,
-        "name": "Sergio Domínguez Alonso",
-        "firstname": "Sergio",
-        "lastname": "Domínguez Alonso",
-        "url": "https://cuescore.com/player/Sergio+Dom%C3%ADnguez+Alonso/26417773",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 26417782,
-        "name": "Santos Estévez Barros",
-        "firstname": "Santos",
-        "lastname": "Estévez Barros",
-        "url": "https://cuescore.com/player/Santos+Est%C3%A9vez+Barros/26417782",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 26418007,
-        "name": "Rafael Varela",
-        "firstname": "Rafael",
-        "lastname": "Varela",
-        "url": "https://cuescore.com/player/Rafael+Varela/26418007",
-        "image": "https://img.cuescore.com/image/f/4/fd0b5989c3f23f0c80a13f01ff3842cd.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 26477170,
-        "name": "Adrián Maquieira Pereira",
-        "firstname": "Adrián",
-        "lastname": "Maquieira Pereira",
-        "url": "https://cuescore.com/player/Adri%C3%A1n+Maquieira+Pereira/26477170",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 31053868,
-        "name": "Alberto Gómez Núñez",
-        "firstname": "Alberto",
-        "lastname": "Gómez Núñez",
-        "url": "https://cuescore.com/player/Alberto+G%C3%B3mez+N%C3%BA%C3%B1ez/31053868",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 31053874,
-        "name": "Manuel Benito Pazos Entenza",
-        "firstname": "Manuel Benito",
-        "lastname": "Pazos Entenza",
-        "url": "https://cuescore.com/player/Manuel+Benito+Pazos+Entenza/31053874",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 31053877,
-        "name": "César García Silva",
-        "firstname": "César",
-        "lastname": "García Silva",
-        "url": "https://cuescore.com/player/C%C3%A9sar+Garc%C3%ADa+Silva/31053877",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 31053895,
-        "name": "Carlos Rodríguez Alonso",
-        "firstname": "Carlos",
-        "lastname": "Rodríguez Alonso",
-        "url": "https://cuescore.com/player/Carlos+Rodr%C3%ADguez+Alonso/31053895",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 31053919,
-        "name": "Jaime Galiana Martínez",
-        "firstname": "Jaime",
-        "lastname": "Galiana Martínez",
-        "url": "https://cuescore.com/player/Jaime+Galiana+Mart%C3%ADnez/31053919",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 31053934,
-        "name": "José Antonio Bernárdez Martínez",
-        "firstname": "José Antonio",
-        "lastname": "Bernárdez Martínez",
-        "url": "https://cuescore.com/player/Jos%C3%A9+Antonio+Bern%C3%A1rdez+Mart%C3%ADnez/31053934",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 31053958,
-        "name": "Ricardo Montes Balbis",
-        "firstname": "Ricardo",
-        "lastname": "Montes Balbis",
-        "url": "https://cuescore.com/player/Ricardo+Montes+Balbis/31053958",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 31053964,
-        "name": "Pascual Ruiz García",
-        "firstname": "Pascual",
-        "lastname": "Ruiz García",
-        "url": "https://cuescore.com/player/Pascual+Ruiz+Garc%C3%ADa/31053964",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 31053973,
-        "name": "Sergio Martínez Campelo",
-        "firstname": "Sergio",
-        "lastname": "Martínez Campelo",
-        "url": "https://cuescore.com/player/Sergio+Mart%C3%ADnez+Campelo/31053973",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 31058374,
-        "name": "Daniel Jesús Rodríguez Piñeiro",
-        "firstname": "Daniel Jesús",
-        "lastname": "Rodríguez Piñeiro",
-        "url": "https://cuescore.com/player/Daniel+Jes%C3%BAs+Rodr%C3%ADguez+Pi%C3%B1eiro/31058374",
-        "image": "https://img.cuescore.com/image/0/4/07e676822d13a22cf757108c16b33f06.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 31058380,
-        "name": "Ángel Sangiao Agueso",
-        "firstname": "Ángel",
-        "lastname": "Sangiao Agueso",
-        "url": "https://cuescore.com/player/%C3%81ngel+Sangiao+Agueso/31058380",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 31058428,
-        "name": "José Carlos Ferreiro Rodríguez",
-        "firstname": "José Carlos",
-        "lastname": "Ferreiro Rodríguez",
-        "url": "https://cuescore.com/player/Jos%C3%A9+Carlos+Ferreiro+Rodr%C3%ADguez/31058428",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 31058431,
-        "name": "Santiago Randulfe Coucheiro",
-        "firstname": "Santiago",
-        "lastname": "Randulfe Coucheiro",
-        "url": "https://cuescore.com/player/Santiago+Randulfe+Coucheiro/31058431",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 31058659,
-        "name": "Adrián Trigo Pensado",
-        "firstname": "Adrián",
-        "lastname": "Trigo Pensado",
-        "url": "https://cuescore.com/player/Adri%C3%A1n+Trigo+Pensado/31058659",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 31058701,
-        "name": "Serafín Alonso Ríos",
-        "firstname": "Serafín",
-        "lastname": "Alonso Ríos",
-        "url": "https://cuescore.com/player/Seraf%C3%ADn+Alonso+R%C3%ADos/31058701",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 31058707,
-        "name": "Pablo Cores Caramés",
-        "firstname": "Pablo",
-        "lastname": "Cores Caramés",
-        "url": "https://cuescore.com/player/Pablo+Cores+Caram%C3%A9s/31058707",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 31058713,
-        "name": "Esteban Aira Rodríguez",
-        "firstname": "Esteban",
-        "lastname": "Aira Rodríguez",
-        "url": "https://cuescore.com/player/Esteban+Aira+Rodr%C3%ADguez/31058713",
-        "image": "https://img.cuescore.com/image/2/4/2a7456ac6943ca607a79688f456c813c.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 31058734,
-        "name": "Carlos José Blanco Saavedra",
-        "firstname": "Carlos José",
-        "lastname": "Blanco Saavedra",
-        "url": "https://cuescore.com/player/Carlos+Jos%C3%A9+Blanco+Saavedra/31058734",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 31058746,
-        "name": "Pedro Raíces Sopalska",
-        "firstname": "Pedro",
-        "lastname": "Raíces Sopalska",
-        "url": "https://cuescore.com/player/Pedro+Ra%C3%ADces+Sopalska/31058746",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 31060612,
-        "name": "Pablo Gil Collazo",
-        "firstname": "Pablo",
-        "lastname": "Gil Collazo",
-        "url": "https://cuescore.com/player/Pablo+Gil+Collazo/31060612",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 31060618,
-        "name": "José Antonio Betanzos Baulo",
-        "firstname": "José Antonio",
-        "lastname": "Betanzos Baulo",
-        "url": "https://cuescore.com/player/Jos%C3%A9+Antonio+Betanzos+Baulo/31060618",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 31060624,
-        "name": "Segundo Rodríguez Suárez",
-        "firstname": "Segundo",
-        "lastname": "Rodríguez Suárez",
-        "url": "https://cuescore.com/player/Segundo+Rodr%C3%ADguez+Su%C3%A1rez/31060624",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 31060636,
-        "name": "Yago González Teijeiro",
-        "firstname": "Yago",
-        "lastname": "González Teijeiro",
-        "url": "https://cuescore.com/player/Yago+Gonz%C3%A1lez+Teijeiro/31060636",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 31061365,
-        "name": "Pablo Carballedo Fernández",
-        "firstname": "Pablo",
-        "lastname": "Carballedo Fernández",
-        "url": "https://cuescore.com/player/Pablo+Carballedo+Fern%C3%A1ndez/31061365",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 31061677,
-        "name": "Julio Rodríguez Estévez",
-        "firstname": "Julio",
-        "lastname": "Rodríguez Estévez",
-        "url": "https://cuescore.com/player/Julio+Rodr%C3%ADguez+Est%C3%A9vez/31061677",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 31063795,
-        "name": "Uxío Germade Martínez",
-        "firstname": "Uxío",
-        "lastname": "Germade Martínez",
-        "url": "https://cuescore.com/player/Ux%C3%ADo+Germade+Mart%C3%ADnez/31063795",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 31063915,
-        "name": "Leonardo Estigarribia Torres",
-        "firstname": "Leonardo",
-        "lastname": "Estigarribia Torres",
-        "url": "https://cuescore.com/player/Leonardo+Estigarribia+Torres/31063915",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 31064497,
-        "name": "Ihosvany Álvarez Lopez",
-        "firstname": "Ihosvany",
-        "lastname": "Álvarez Lopez",
-        "url": "https://cuescore.com/player/Ihosvany+%C3%81lvarez+Lopez/31064497",
-        "image": "https://img.cuescore.com/image/9/4/929562fc8b5a293ccc39c3326aa8dd92.png",
-        "country": {
-            "name": "Cuba",
-            "alpha3": "CUB",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/cu.png",
-            "continent": "North America"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 31064533,
-        "name": "Samuel Iglesias Puime",
-        "firstname": "Samuel",
-        "lastname": "Iglesias Puime",
-        "url": "https://cuescore.com/player/Samuel+Iglesias+Puime/31064533",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 31064929,
-        "name": "Sergio Garrote Becerra",
-        "firstname": "Sergio",
-        "lastname": "Garrote Becerra",
-        "url": "https://cuescore.com/player/Sergio+Garrote+Becerra/31064929",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 31065196,
-        "name": "Máximo Peguero Sánchez",
-        "firstname": "Máximo",
-        "lastname": "Peguero Sánchez",
-        "url": "https://cuescore.com/player/M%C3%A1ximo+Peguero+S%C3%A1nchez/31065196",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 31065352,
-        "name": "Omar Cova Cabanillas",
-        "firstname": "Omar",
-        "lastname": "Cova Cabanillas",
-        "url": "https://cuescore.com/player/Omar+Cova+Cabanillas/31065352",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 31083046,
-        "name": "Anxo Lois de Gabriel",
-        "firstname": "Anxo",
-        "lastname": "Lois de Gabriel",
-        "url": "https://cuescore.com/player/Anxo+Lois+de+Gabriel/31083046",
-        "image": "https://img.cuescore.com/image/3/4/3a78c2a101d55b47485f48d7fa4af2e4.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 31111180,
-        "name": "Francisco Javier García baamonde",
-        "firstname": "Francisco Javier",
-        "lastname": "García baamonde",
-        "url": "https://cuescore.com/player/Francisco+Javier+Garc%C3%ADa+baamonde/31111180",
-        "image": "https://img.cuescore.com/image/7/4/7b808d49c3f632dfb67f35b41714d7d7.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 31112029,
-        "name": "Diego Prado Salgueiro (Kacho)",
-        "firstname": "Diego",
-        "lastname": "Prado Salgueiro (Kacho)",
-        "url": "https://cuescore.com/player/Diego+Prado+Salgueiro+%28Kacho%29/31112029",
-        "image": "https://img.cuescore.com/image/6/4/6a6846e4b2edac4ce139d31565c88630.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 31353508,
-        "name": "Adrián Penela",
-        "firstname": "Adrián",
-        "lastname": "Penela",
-        "url": "https://cuescore.com/player/Adri%C3%A1n+Penela/31353508",
-        "image": "https://img.cuescore.com/image/f/4/f893615ee62bd2f0f8a69be3bc241434.png",
-        "country": {
-            "name": "Liechtenstein",
-            "alpha3": "LIE",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/li.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 31582663,
-        "name": "Felipe Fontao Castro",
-        "firstname": "Felipe",
-        "lastname": "Fontao Castro",
-        "url": "https://cuescore.com/player/Felipe+Fontao+Castro/31582663",
-        "image": "https://img.cuescore.com/image/5/4/56a1bac95a75e4871fb6bd9bf95d5783.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 31718815,
-        "name": "JOSE GEOVANNY PINARGOTE ZAMBRANO",
-        "firstname": "JOSE GEOVANNY",
-        "lastname": "PINARGOTE ZAMBRANO",
-        "url": "https://cuescore.com/player/JOSE+GEOVANNY+PINARGOTE+ZAMBRANO/31718815",
-        "image": "https://img.cuescore.com/image/8/4/81af396a9507086ac4e7a3e22d2bbdc6.png",
-        "country": {
-            "name": "Ecuador",
-            "alpha3": "ECU",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/ec.png",
-            "continent": "South America"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 32914963,
-        "name": "Micael Timiraos",
-        "firstname": "Micael",
-        "lastname": "Timiraos",
-        "url": "https://cuescore.com/player/Micael+Timiraos/32914963",
-        "image": "https://img.cuescore.com/image/9/4/9540ce836012a03f5c884a750f74e6e5.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 33084265,
-        "name": "Jorge Santamaria Cacabelos",
-        "firstname": "Jorge",
-        "lastname": "Santamaria Cacabelos",
-        "url": "https://cuescore.com/player/Jorge+Santamaria+Cacabelos/33084265",
-        "image": "https://img.cuescore.com/image/7/4/740ec590f15df7a85d5b61da0b5f123d.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 36352546,
-        "name": "Óscar Jaime Fernández Freire",
-        "firstname": "Óscar Jaime",
-        "lastname": "Fernández Freire",
-        "url": "https://cuescore.com/player/%C3%93scar+Jaime+Fern%C3%A1ndez+Freire/36352546",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 36560821,
-        "name": "Julio Sande",
-        "firstname": "Julio",
-        "lastname": "Sande",
-        "url": "https://cuescore.com/player/Julio+Sande/36560821",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 38700769,
-        "name": "Samanta Couso González",
-        "firstname": "Samanta",
-        "lastname": "Couso González",
-        "url": "https://cuescore.com/player/Samanta+Couso+Gonz%C3%A1lez/38700769",
-        "image": "https://img.cuescore.com/image/0/4/00b6259dd7e3309b236d48ffcdfccd13.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 40279750,
-        "name": "Francisco Salgado Gay",
-        "firstname": "Francisco",
-        "lastname": "Salgado Gay",
-        "url": "https://cuescore.com/player/Francisco+Salgado+Gay/40279750",
-        "image": "https://img.cuescore.com/image/4/4/40b7c2ecb294dbc07e480fd02d5391ba.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 40313884,
-        "name": "Damián Álvarez Cotovad",
-        "firstname": "Damián",
-        "lastname": "Álvarez Cotovad",
-        "url": "https://cuescore.com/player/Dami%C3%A1n+%C3%81lvarez+Cotovad/40313884",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 40492717,
-        "name": "Rubén Bao Vázquez",
-        "firstname": "Rubén",
-        "lastname": "Bao Vázquez",
-        "url": "https://cuescore.com/player/Rub%C3%A9n+Bao+V%C3%A1zquez/40492717",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 40722388,
-        "name": "Iván Costas Cea",
-        "firstname": "Iván",
-        "lastname": "Costas Cea",
-        "url": "https://cuescore.com/player/Iv%C3%A1n+Costas+Cea/40722388",
-        "image": "https://img.cuescore.com/image/9/4/95c5a6d09284308d40ce1c8de9e65ed5.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 42435271,
-        "name": "Oscar Rodríguez Cortiñas",
-        "firstname": "Oscar",
-        "lastname": "Rodríguez Cortiñas",
-        "url": "https://cuescore.com/player/Oscar+Rodr%C3%ADguez+Corti%C3%B1as/42435271",
-        "image": "https://img.cuescore.com/image/0/4/0771eb04638642661fb3433def97af18.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 44468425,
-        "name": "Pablo Magide Lopez",
-        "firstname": "Pablo",
-        "lastname": "Magide Lopez",
-        "url": "https://cuescore.com/player/Pablo+Magide+Lopez/44468425",
-        "image": "https://img.cuescore.com/image/4/4/49efe17873558070d578001af6bde15f.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 44546764,
-        "name": "Enrique Magide Cancio",
-        "firstname": "Enrique",
-        "lastname": "Magide Cancio",
-        "url": "https://cuescore.com/player/Enrique+Magide+Cancio/44546764",
-        "image": "https://img.cuescore.com/image/1/4/15b76e7ceb3c0365aa22425441d15681.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 44547067,
-        "name": "Evelio Figueroa martinez",
-        "firstname": "Evelio",
-        "lastname": "Figueroa martinez",
-        "url": "https://cuescore.com/player/Evelio+Figueroa+martinez/44547067",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 44653774,
-        "name": "Adrián Fuentes Castro",
-        "firstname": "Adrián",
-        "lastname": "Fuentes Castro",
-        "url": "https://cuescore.com/player/Adri%C3%A1n+Fuentes+Castro/44653774",
-        "image": "https://img.cuescore.com/image/6/4/65b040579bb8f4841036b71962d5d93e.png",
-        "country": {
-            "name": "Isle of Man",
-            "alpha3": "IMN",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/im.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 44918974,
-        "name": "Daniel Costas Montero",
-        "firstname": "Daniel",
-        "lastname": "Costas Montero",
-        "url": "https://cuescore.com/player/Daniel+Costas+Montero/44918974",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 45094723,
-        "name": "Oscar Liz Conde",
-        "firstname": "Oscar",
-        "lastname": "Liz Conde",
-        "url": "https://cuescore.com/player/Oscar+Liz+Conde/45094723",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 45094735,
-        "name": "Eduardo González Pérez",
-        "firstname": "Eduardo",
-        "lastname": "González Pérez",
-        "url": "https://cuescore.com/player/Eduardo+Gonz%C3%A1lez+P%C3%A9rez/45094735",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 45094768,
-        "name": "Santiago Navaza Aller",
-        "firstname": "Santiago",
-        "lastname": "Navaza Aller",
-        "url": "https://cuescore.com/player/Santiago+Navaza+Aller/45094768",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 45094849,
-        "name": "Manuel Rial Couto",
-        "firstname": "Manuel",
-        "lastname": "Rial Couto",
-        "url": "https://cuescore.com/player/Manuel+Rial+Couto/45094849",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 45094921,
-        "name": "José Luis Fandiño Rodríguez",
-        "firstname": "José Luis",
-        "lastname": "Fandiño Rodríguez",
-        "url": "https://cuescore.com/player/Jos%C3%A9+Luis+Fandi%C3%B1o+Rodr%C3%ADguez/45094921",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 45094954,
-        "name": "Paul Andrew Lefevre",
-        "firstname": "Paul Andrew",
-        "lastname": "Lefevre",
-        "url": "https://cuescore.com/player/Paul+Andrew+Lefevre/45094954",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 45095809,
-        "name": "Jose Antonio Mera Lopez",
-        "firstname": "Jose Antonio",
-        "lastname": "Mera Lopez",
-        "url": "https://cuescore.com/player/Jose+Antonio+Mera+Lopez/45095809",
-        "image": "https://img.cuescore.com/image/4/4/4c2dfff56ad1b1aa32b288933a7c42cf.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 45096148,
-        "name": "José Ramón Souto Lamas",
-        "firstname": "José Ramón",
-        "lastname": "Souto Lamas",
-        "url": "https://cuescore.com/player/Jos%C3%A9+Ram%C3%B3n+Souto+Lamas/45096148",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 45098608,
-        "name": "José González Yañez",
-        "firstname": "José",
-        "lastname": "González Yañez",
-        "url": "https://cuescore.com/player/Jos%C3%A9+Gonz%C3%A1lez+Ya%C3%B1ez/45098608",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 45100150,
-        "name": "María Purificación Moreira Rodríguez",
-        "firstname": "María Purificación",
-        "lastname": "Moreira Rodríguez",
-        "url": "https://cuescore.com/player/Mar%C3%ADa+Purificaci%C3%B3n+Moreira+Rodr%C3%ADguez/45100150",
-        "image": "https://img.cuescore.com/image/5/4/5aa6aa48f7d5ffe854d5266ac08db7ef.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 45100234,
-        "name": "Héctor Rodríguez del Río",
-        "firstname": "Héctor",
-        "lastname": "Rodríguez del Río",
-        "url": "https://cuescore.com/player/H%C3%A9ctor+Rodr%C3%ADguez+del+R%C3%ADo/45100234",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 45137617,
-        "name": "Aarón Cernadas Conde",
-        "firstname": "Aarón",
-        "lastname": "Cernadas Conde",
-        "url": "https://cuescore.com/player/Aar%C3%B3n+Cernadas+Conde/45137617",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 45137707,
-        "name": "Aakash Tufchi",
-        "firstname": "Aakash",
-        "lastname": "Tufchi",
-        "url": "https://cuescore.com/player/Aakash+Tufchi/45137707",
-        "image": "https://img.cuescore.com/image/7/4/712c9f01d56e67f24033e6520f5b01f1.png",
-        "country": {
-            "name": "India",
-            "alpha3": "IND",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/in.png",
-            "continent": "Asia"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 45137881,
-        "name": "Jorge José Souto Pérez",
-        "firstname": "Jorge José",
-        "lastname": "Souto Pérez",
-        "url": "https://cuescore.com/player/Jorge+Jos%C3%A9+Souto+P%C3%A9rez/45137881",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 45137890,
-        "name": "Cristino Baz Iglesias",
-        "firstname": "Cristino",
-        "lastname": "Baz Iglesias",
-        "url": "https://cuescore.com/player/Cristino+Baz+Iglesias/45137890",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 45138139,
-        "name": "Shahzada Ahmed Fareed",
-        "firstname": "Shahzada Ahmed",
-        "lastname": "Fareed",
-        "url": "https://cuescore.com/player/Shahzada+Ahmed+Fareed/45138139",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 45138142,
-        "name": "Omar Berlier Cea",
-        "firstname": "Omar",
-        "lastname": "Berlier Cea",
-        "url": "https://cuescore.com/player/Omar+Berlier+Cea/45138142",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 45138706,
-        "name": "Agustín Iglesias Pena",
-        "firstname": "Agustín",
-        "lastname": "Iglesias Pena",
-        "url": "https://cuescore.com/player/Agust%C3%ADn+Iglesias+Pena/45138706",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 45140365,
-        "name": "Derlin Lionard Olaverria Talentino",
-        "firstname": "Derlin Lionard",
-        "lastname": "Olaverria Talentino",
-        "url": "https://cuescore.com/player/Derlin+Lionard+Olaverria+Talentino/45140365",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 45140650,
-        "name": "Juan Diego Flores Coca",
-        "firstname": "Juan Diego",
-        "lastname": "Flores Coca",
-        "url": "https://cuescore.com/player/Juan+Diego+Flores+Coca/45140650",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 45141085,
-        "name": "Unai Sánchez González",
-        "firstname": "Unai",
-        "lastname": "Sánchez González",
-        "url": "https://cuescore.com/player/Unai+S%C3%A1nchez+Gonz%C3%A1lez/45141085",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 45141331,
-        "name": "Tobías Santiago Beloso",
-        "firstname": "Tobías",
-        "lastname": "Santiago Beloso",
-        "url": "https://cuescore.com/player/Tob%C3%ADas+Santiago+Beloso/45141331",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 45156460,
-        "name": "Maikel Silveira seoane",
-        "firstname": "Maikel",
-        "lastname": "Silveira seoane",
-        "url": "https://cuescore.com/player/Maikel+Silveira+seoane/45156460",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 45197077,
-        "name": "Manuel Ángel Somoza Domínguez",
-        "firstname": "Manuel Ángel",
-        "lastname": "Somoza Domínguez",
-        "url": "https://cuescore.com/player/Manuel+%C3%81ngel+Somoza+Dom%C3%ADnguez/45197077",
-        "image": "https://img.cuescore.com/image/a/4/a6150dcad5fa6c2e74d8a769ee5c79b9.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 45332233,
-        "name": "Ismael Piñón Amboage",
-        "firstname": "Ismael",
-        "lastname": "Piñón Amboage",
-        "url": "https://cuescore.com/player/Ismael+Pi%C3%B1%C3%B3n+Amboage/45332233",
-        "image": "https://img.cuescore.com/image/6/4/6772ea447393f0d61d735df986dd048b.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 45347224,
-        "name": "Carlos Bouza Castiñeira",
-        "firstname": "Carlos",
-        "lastname": "Bouza Castiñeira",
-        "url": "https://cuescore.com/player/Carlos+Bouza+Casti%C3%B1eira/45347224",
-        "image": "https://img.cuescore.com/image/9/4/9298301034f31fbbb894fc599731b1b4.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 50741401,
-        "name": "Antonio Puga Veiga",
-        "firstname": "Antonio",
-        "lastname": "Puga Veiga",
-        "url": "https://cuescore.com/player/Antonio+Puga+Veiga/50741401",
-        "image": "https://img.cuescore.com/image/a/4/af867fb9a279e866066e56dbcb54d466.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 51207787,
-        "name": "Rafael Sarmiento Martinez",
-        "firstname": "Rafael",
-        "lastname": "Sarmiento Martinez",
-        "url": "https://cuescore.com/player/Rafael+Sarmiento+Martinez/51207787",
-        "image": "https://img.cuescore.com/image/b/4/bcd18cbe785d3f7a8c41541f2da3f1f5.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 51788707,
-        "name": "Jose Vázquez Fernández",
-        "firstname": "Jose",
-        "lastname": "Vázquez Fernández",
-        "url": "https://cuescore.com/player/Jose+V%C3%A1zquez+Fern%C3%A1ndez/51788707",
-        "image": "https://img.cuescore.com/image/3/4/3fceddb184adba9dd86aef22ef9b653b.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 52885861,
-        "name": "Mario Lourido Menaya",
-        "firstname": "Mario",
-        "lastname": "Lourido Menaya",
-        "url": "https://cuescore.com/player/Mario+Lourido+Menaya/52885861",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "country": {
-            "name": "Scotland",
-            "alpha3": "SCT",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/gb-sct.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 53797312,
-        "name": "Mauro Entenza",
-        "firstname": "Mauro",
-        "lastname": "Entenza",
-        "url": "https://cuescore.com/player/Mauro+Entenza/53797312",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 53817520,
-        "name": "Alvaro Crujeiras Rouco",
-        "firstname": "Alvaro",
-        "lastname": "Crujeiras Rouco",
-        "url": "https://cuescore.com/player/Alvaro+Crujeiras+Rouco/53817520",
-        "image": "https://img.cuescore.com/image/8/4/83961a7b77c5ff33bc89835575c5f284.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 54125344,
-        "name": "Pedro Formoso",
-        "firstname": "Pedro",
-        "lastname": "Formoso",
-        "url": "https://cuescore.com/player/Pedro+Formoso/54125344",
-        "image": "https://img.cuescore.com/image/4/4/492efd37c4299e4cace0d5fa8778e374.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 55066522,
-        "name": "Marcos Lemos Sotelo",
-        "firstname": "Marcos",
-        "lastname": "Lemos Sotelo",
-        "url": "https://cuescore.com/player/Marcos+Lemos+Sotelo/55066522",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 57015613,
-        "name": "Alberto Rodríguez González",
-        "firstname": "Alberto",
-        "lastname": "Rodríguez González",
-        "url": "https://cuescore.com/player/Alberto+Rodr%C3%ADguez+Gonz%C3%A1lez/57015613",
-        "image": "https://img.cuescore.com/image/a/4/abd820e80d01da098485bc21915298e2.png",
-        "country": {
-            "name": "Bahamas",
-            "alpha3": "BHS",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/bs.png",
-            "continent": "North America"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 57690217,
-        "name": "Bryan Coedo Villa",
-        "firstname": "Bryan",
-        "lastname": "Coedo Villa",
-        "url": "https://cuescore.com/player/Bryan+Coedo+Villa/57690217",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 63471574,
-        "name": "Juan Carlos Currás Antonio",
-        "firstname": "Juan Carlos",
-        "lastname": "Currás Antonio",
-        "url": "https://cuescore.com/player/Juan+Carlos+Curr%C3%A1s+Antonio/63471574",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 63522577,
-        "name": "Christian Álvarez Sobrino",
-        "firstname": "Christian",
-        "lastname": "Álvarez Sobrino",
-        "url": "https://cuescore.com/player/Christian+%C3%81lvarez+Sobrino/63522577",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 63522583,
-        "name": "Daniel Pereira Pidre",
-        "firstname": "Daniel",
-        "lastname": "Pereira Pidre",
-        "url": "https://cuescore.com/player/Daniel+Pereira+Pidre/63522583",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 63522634,
-        "name": "Óscar López Rivera",
-        "firstname": "Óscar",
-        "lastname": "López Rivera",
-        "url": "https://cuescore.com/player/%C3%93scar+L%C3%B3pez+Rivera/63522634",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 63522637,
-        "name": "José López Calvete",
-        "firstname": "José",
-        "lastname": "López Calvete",
-        "url": "https://cuescore.com/player/Jos%C3%A9+L%C3%B3pez+Calvete/63522637",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 63522928,
-        "name": "Breogán Cabaleiro Mato",
-        "firstname": "Breogán",
-        "lastname": "Cabaleiro Mato",
-        "url": "https://cuescore.com/player/Breog%C3%A1n+Cabaleiro+Mato/63522928",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 63523303,
-        "name": "Leonardo Dios Arbón",
-        "firstname": "Leonardo",
-        "lastname": "Dios Arbón",
-        "url": "https://cuescore.com/player/Leonardo+Dios+Arb%C3%B3n/63523303",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 63523315,
-        "name": "Lucas Rodrigo Fernández Fernández",
-        "firstname": "Lucas Rodrigo",
-        "lastname": "Fernández Fernández",
-        "url": "https://cuescore.com/player/Lucas+Rodrigo+Fern%C3%A1ndez+Fern%C3%A1ndez/63523315",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 63523330,
-        "name": "Roberto Cardeiro Rodríguez",
-        "firstname": "Roberto",
-        "lastname": "Cardeiro Rodríguez",
-        "url": "https://cuescore.com/player/Roberto+Cardeiro+Rodr%C3%ADguez/63523330",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 63523333,
-        "name": "Javier Catoira Fernández",
-        "firstname": "Javier",
-        "lastname": "Catoira Fernández",
-        "url": "https://cuescore.com/player/Javier+Catoira+Fern%C3%A1ndez/63523333",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 63523336,
-        "name": "Jose Antonio Fiunte Lobelle",
-        "firstname": "Jose Antonio",
-        "lastname": "Fiunte Lobelle",
-        "url": "https://cuescore.com/player/Jose+Antonio+Fiunte+Lobelle/63523336",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 63523339,
-        "name": "Manuel Pérez Velón",
-        "firstname": "Manuel",
-        "lastname": "Pérez Velón",
-        "url": "https://cuescore.com/player/Manuel+P%C3%A9rez+Vel%C3%B3n/63523339",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 63523351,
-        "name": "Angel Alfredo González Becerra",
-        "firstname": "Angel Alfredo",
-        "lastname": "González Becerra",
-        "url": "https://cuescore.com/player/Angel+Alfredo+Gonz%C3%A1lez+Becerra/63523351",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 63523354,
-        "name": "Carlos David Loureda Parrado",
-        "firstname": "Carlos David",
-        "lastname": "Loureda Parrado",
-        "url": "https://cuescore.com/player/Carlos+David+Loureda+Parrado/63523354",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 63523570,
-        "name": "Martín Bello Rama",
-        "firstname": "Martín",
-        "lastname": "Bello Rama",
-        "url": "https://cuescore.com/player/Mart%C3%ADn+Bello+Rama/63523570",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 63524692,
-        "name": "Juan María Calvo García",
-        "firstname": "Juan María",
-        "lastname": "Calvo García",
-        "url": "https://cuescore.com/player/Juan+Mar%C3%ADa+Calvo+Garc%C3%ADa/63524692",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 63524695,
-        "name": "Antonio Añón Antín",
-        "firstname": "Antonio",
-        "lastname": "Añón Antín",
-        "url": "https://cuescore.com/player/Antonio+A%C3%B1%C3%B3n+Ant%C3%ADn/63524695",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 63524710,
-        "name": "Pablo Rúa Avendaño",
-        "firstname": "Pablo",
-        "lastname": "Rúa Avendaño",
-        "url": "https://cuescore.com/player/Pablo+R%C3%BAa+Avenda%C3%B1o/63524710",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 63524716,
-        "name": "Abel Ferreira Leite",
-        "firstname": "Abel",
-        "lastname": "Ferreira Leite",
-        "url": "https://cuescore.com/player/Abel+Ferreira+Leite/63524716",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 63537022,
-        "name": "Carlos Fernández Martínez",
-        "firstname": "Carlos",
-        "lastname": "Fernández Martínez",
-        "url": "https://cuescore.com/player/Carlos+Fern%C3%A1ndez+Mart%C3%ADnez/63537022",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 63706780,
-        "name": "Pablo Fernández Martínez",
-        "firstname": "Pablo",
-        "lastname": "Fernández Martínez",
-        "url": "https://cuescore.com/player/Pablo+Fern%C3%A1ndez+Mart%C3%ADnez/63706780",
-        "image": "https://img.cuescore.com/image/e/4/ec4b300c7b4d096d2a8f10401e185f73.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    },
-    {
-        "playerId": 63708010,
-        "name": "Felix Mendez galdo",
-        "firstname": "Felix",
-        "lastname": "Mendez galdo",
-        "url": "https://cuescore.com/player/Felix+Mendez+galdo/63708010",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "country": {
-            "name": "Spain",
-            "alpha3": "ESP",
-            "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-            "continent": "Europe"
-        },
-        "represents": []
-    }
+  {
+    "playerId": 5121625,
+    "name": "Paulo Jose Lopes Correia Martins",
+    "firstname": "Paulo Jose",
+    "lastname": "Lopes Correia Martins",
+    "url": "https://cuescore.com/player/Paulo+Jose+Lopes+Correia+Martins/5121625",
+    "image": "https://img.cuescore.com/image/a/4/ab0cf0a13ef8a320c94a7896cb9cfb5d.png",
+    "country": [],
+    "represents": []
+  },
+  {
+    "playerId": 8940982,
+    "name": "Jesús Portela",
+    "firstname": "Jesús",
+    "lastname": "Portela",
+    "url": "https://cuescore.com/player/Jes%C3%BAs+Portela/8940982",
+    "image": "https://img.cuescore.com/image/d/4/d39e1f422e4b1cd1be46e911283d7b04.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 9194757,
+    "name": "Ramón Pintos",
+    "firstname": "Ramón",
+    "lastname": "Pintos",
+    "url": "https://cuescore.com/player/Ram%C3%B3n+Pintos/9194757",
+    "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 9273002,
+    "name": "Manuel Casal Vidal",
+    "firstname": "Manuel",
+    "lastname": "Casal Vidal",
+    "url": "https://cuescore.com/player/Manuel+Casal+Vidal/9273002",
+    "image": "https://img.cuescore.com/image/a/4/ab076a04bddd8a02555f72843309a64f.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 9287313,
+    "name": "Adrián Veiga Rodríguez",
+    "firstname": "Adrián",
+    "lastname": "Veiga Rodríguez",
+    "url": "https://cuescore.com/player/Adri%C3%A1n+Veiga+Rodr%C3%ADguez/9287313",
+    "image": "https://img.cuescore.com/image/3/4/3969c432072124118c08dd6d513041c7.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 10135060,
+    "name": "Diego Pérez Alonso",
+    "firstname": "Diego",
+    "lastname": "Pérez Alonso",
+    "url": "https://cuescore.com/player/Diego+P%C3%A9rez+Alonso/10135060",
+    "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 10135066,
+    "name": "Borja Parente Hernández",
+    "firstname": "Borja",
+    "lastname": "Parente Hernández",
+    "url": "https://cuescore.com/player/Borja+Parente+Hern%C3%A1ndez/10135066",
+    "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 10135168,
+    "name": "Marcos Álvarez Sobrino",
+    "firstname": "Marcos",
+    "lastname": "Álvarez Sobrino",
+    "url": "https://cuescore.com/player/Marcos+%C3%81lvarez+Sobrino/10135168",
+    "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 11234752,
+    "name": "Facundo Robleda Bravo",
+    "firstname": "Facundo",
+    "lastname": "Robleda Bravo",
+    "url": "https://cuescore.com/player/Facundo+Robleda+Bravo/11234752",
+    "image": "https://img.cuescore.com/image/9/4/9551cdc809b97105a274b1a2fec9d0a8.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 11328685,
+    "name": "Juan Carlos Rodriguez Ares",
+    "firstname": "Juan Carlos",
+    "lastname": "Rodriguez Ares",
+    "url": "https://cuescore.com/player/Juan+Carlos+Rodriguez+Ares/11328685",
+    "image": "https://img.cuescore.com/image/b/4/bf86b263fe6d17b285f0a26fbfd42ec7.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 15107161,
+    "name": "Nair Rodriguez",
+    "firstname": "Nair",
+    "lastname": "Rodriguez",
+    "url": "https://cuescore.com/player/Nair+Rodriguez/15107161",
+    "image": "https://img.cuescore.com/image/5/4/5aa6aa48f7d5ffe854d5266ac08db7ef.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 15769699,
+    "name": "MARIA AMALIA BUIDE VIÑA",
+    "firstname": "MARIA AMALIA",
+    "lastname": "BUIDE VIÑA",
+    "url": "https://cuescore.com/player/MARIA+AMALIA+BUIDE+VI%C3%91A/15769699",
+    "image": "https://img.cuescore.com/image/5/4/5aa6aa48f7d5ffe854d5266ac08db7ef.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 17354551,
+    "name": "Evaristo Padín",
+    "firstname": "Evaristo",
+    "lastname": "Padín",
+    "url": "https://cuescore.com/player/Evaristo+Pad%C3%ADn/17354551",
+    "image": "https://img.cuescore.com/image/9/4/9e02988e31733259b10f366cf4bc5953.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 17698951,
+    "name": "Miguel Rey Couso",
+    "firstname": "Miguel",
+    "lastname": "Rey Couso",
+    "url": "https://cuescore.com/player/Miguel+Rey+Couso/17698951",
+    "image": "https://img.cuescore.com/image/c/4/c3fe0895f3291a00f56442acd0d891e1.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 19548595,
+    "name": "Jorge Sayáns",
+    "firstname": "Jorge",
+    "lastname": "Sayáns",
+    "url": "https://cuescore.com/player/Jorge+Say%C3%A1ns/19548595",
+    "image": "https://img.cuescore.com/image/0/4/0537af4666b7e84ffe0ea0a14f067041.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 20367559,
+    "name": "Jonathan Corchero",
+    "firstname": "Jonathan",
+    "lastname": "Corchero",
+    "url": "https://cuescore.com/player/Jonathan+Corchero/20367559",
+    "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 21685600,
+    "name": "Pablo Rodríguez Castro",
+    "firstname": "Pablo",
+    "lastname": "Rodríguez Castro",
+    "url": "https://cuescore.com/player/Pablo+Rodr%C3%ADguez+Castro/21685600",
+    "image": "https://img.cuescore.com/image/1/4/1d46f6d3d26611f671447f13fd96bfd6.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 24762655,
+    "name": "Yeray García",
+    "firstname": "Yeray",
+    "lastname": "García",
+    "url": "https://cuescore.com/player/Yeray+Garc%C3%ADa/24762655",
+    "image": "https://img.cuescore.com/image/8/4/815b698e7fb11e1e6869a2039ae6f12d.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 24767614,
+    "name": "Ángel Bernárdez Soliño",
+    "firstname": "Ángel",
+    "lastname": "Bernárdez Soliño",
+    "url": "https://cuescore.com/player/%C3%81ngel+Bern%C3%A1rdez+Soli%C3%B1o/24767614",
+    "image": "https://img.cuescore.com/image/5/4/5b3628bc07d4b6920c621bcd7b8e3be1.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 24767626,
+    "name": "Daniel Crespo Blanco",
+    "firstname": "Daniel",
+    "lastname": "Crespo Blanco",
+    "url": "https://cuescore.com/player/Daniel+Crespo+Blanco/24767626",
+    "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 24767725,
+    "name": "José Stalin Briones Romero",
+    "firstname": "José Stalin",
+    "lastname": "Briones Romero",
+    "url": "https://cuescore.com/player/Jos%C3%A9+Stalin+Briones+Romero/24767725",
+    "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 24767734,
+    "name": "Miguel Ucha Rodríguez",
+    "firstname": "Miguel",
+    "lastname": "Ucha Rodríguez",
+    "url": "https://cuescore.com/player/Miguel+Ucha+Rodr%C3%ADguez/24767734",
+    "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 24767740,
+    "name": "Juan Edilio Caba Almonte",
+    "firstname": "Juan Edilio",
+    "lastname": "Caba Almonte",
+    "url": "https://cuescore.com/player/Juan+Edilio+Caba+Almonte/24767740",
+    "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 24820927,
+    "name": "Alberto González Vidal",
+    "firstname": "Alberto",
+    "lastname": "González Vidal",
+    "url": "https://cuescore.com/player/Alberto+Gonz%C3%A1lez+Vidal/24820927",
+    "image": "https://img.cuescore.com/image/c/4/cd9fa0d74004cb25442e85d8cd74d389.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 24860551,
+    "name": "David Alfonso acevedo",
+    "firstname": "David",
+    "lastname": "Alfonso acevedo",
+    "url": "https://cuescore.com/player/David+Alfonso+acevedo/24860551",
+    "image": "https://img.cuescore.com/image/6/4/65b60347287e2f2600a366e16a73a49f.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 26417773,
+    "name": "Sergio Domínguez Alonso",
+    "firstname": "Sergio",
+    "lastname": "Domínguez Alonso",
+    "url": "https://cuescore.com/player/Sergio+Dom%C3%ADnguez+Alonso/26417773",
+    "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 26417782,
+    "name": "Santos Estévez Barros",
+    "firstname": "Santos",
+    "lastname": "Estévez Barros",
+    "url": "https://cuescore.com/player/Santos+Est%C3%A9vez+Barros/26417782",
+    "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 26418007,
+    "name": "Rafael Varela",
+    "firstname": "Rafael",
+    "lastname": "Varela",
+    "url": "https://cuescore.com/player/Rafael+Varela/26418007",
+    "image": "https://img.cuescore.com/image/f/4/fd0b5989c3f23f0c80a13f01ff3842cd.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 26477170,
+    "name": "Adrián Maquieira Pereira",
+    "firstname": "Adrián",
+    "lastname": "Maquieira Pereira",
+    "url": "https://cuescore.com/player/Adri%C3%A1n+Maquieira+Pereira/26477170",
+    "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 31053868,
+    "name": "Alberto Gómez Núñez",
+    "firstname": "Alberto",
+    "lastname": "Gómez Núñez",
+    "url": "https://cuescore.com/player/Alberto+G%C3%B3mez+N%C3%BA%C3%B1ez/31053868",
+    "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 31053874,
+    "name": "Manuel Benito Pazos Entenza",
+    "firstname": "Manuel Benito",
+    "lastname": "Pazos Entenza",
+    "url": "https://cuescore.com/player/Manuel+Benito+Pazos+Entenza/31053874",
+    "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 31053877,
+    "name": "César García Silva",
+    "firstname": "César",
+    "lastname": "García Silva",
+    "url": "https://cuescore.com/player/C%C3%A9sar+Garc%C3%ADa+Silva/31053877",
+    "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 31053895,
+    "name": "Carlos Rodríguez Alonso",
+    "firstname": "Carlos",
+    "lastname": "Rodríguez Alonso",
+    "url": "https://cuescore.com/player/Carlos+Rodr%C3%ADguez+Alonso/31053895",
+    "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 31053919,
+    "name": "Jaime Galiana Martínez",
+    "firstname": "Jaime",
+    "lastname": "Galiana Martínez",
+    "url": "https://cuescore.com/player/Jaime+Galiana+Mart%C3%ADnez/31053919",
+    "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 31053934,
+    "name": "José Antonio Bernárdez Martínez",
+    "firstname": "José Antonio",
+    "lastname": "Bernárdez Martínez",
+    "url": "https://cuescore.com/player/Jos%C3%A9+Antonio+Bern%C3%A1rdez+Mart%C3%ADnez/31053934",
+    "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 31053958,
+    "name": "Ricardo Montes Balbis",
+    "firstname": "Ricardo",
+    "lastname": "Montes Balbis",
+    "url": "https://cuescore.com/player/Ricardo+Montes+Balbis/31053958",
+    "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 31053964,
+    "name": "Pascual Ruiz García",
+    "firstname": "Pascual",
+    "lastname": "Ruiz García",
+    "url": "https://cuescore.com/player/Pascual+Ruiz+Garc%C3%ADa/31053964",
+    "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 31053973,
+    "name": "Sergio Martínez Campelo",
+    "firstname": "Sergio",
+    "lastname": "Martínez Campelo",
+    "url": "https://cuescore.com/player/Sergio+Mart%C3%ADnez+Campelo/31053973",
+    "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 31058374,
+    "name": "Daniel Jesús Rodríguez Piñeiro",
+    "firstname": "Daniel Jesús",
+    "lastname": "Rodríguez Piñeiro",
+    "url": "https://cuescore.com/player/Daniel+Jes%C3%BAs+Rodr%C3%ADguez+Pi%C3%B1eiro/31058374",
+    "image": "https://img.cuescore.com/image/0/4/07e676822d13a22cf757108c16b33f06.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 31058380,
+    "name": "Ángel Sangiao Agueso",
+    "firstname": "Ángel",
+    "lastname": "Sangiao Agueso",
+    "url": "https://cuescore.com/player/%C3%81ngel+Sangiao+Agueso/31058380",
+    "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 31058428,
+    "name": "José Carlos Ferreiro Rodríguez",
+    "firstname": "José Carlos",
+    "lastname": "Ferreiro Rodríguez",
+    "url": "https://cuescore.com/player/Jos%C3%A9+Carlos+Ferreiro+Rodr%C3%ADguez/31058428",
+    "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 31058431,
+    "name": "Santiago Randulfe Coucheiro",
+    "firstname": "Santiago",
+    "lastname": "Randulfe Coucheiro",
+    "url": "https://cuescore.com/player/Santiago+Randulfe+Coucheiro/31058431",
+    "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 31058659,
+    "name": "Adrián Trigo Pensado",
+    "firstname": "Adrián",
+    "lastname": "Trigo Pensado",
+    "url": "https://cuescore.com/player/Adri%C3%A1n+Trigo+Pensado/31058659",
+    "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 31058701,
+    "name": "Serafín Alonso Ríos",
+    "firstname": "Serafín",
+    "lastname": "Alonso Ríos",
+    "url": "https://cuescore.com/player/Seraf%C3%ADn+Alonso+R%C3%ADos/31058701",
+    "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 31058707,
+    "name": "Pablo Cores Caramés",
+    "firstname": "Pablo",
+    "lastname": "Cores Caramés",
+    "url": "https://cuescore.com/player/Pablo+Cores+Caram%C3%A9s/31058707",
+    "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 31058713,
+    "name": "Esteban Aira Rodríguez",
+    "firstname": "Esteban",
+    "lastname": "Aira Rodríguez",
+    "url": "https://cuescore.com/player/Esteban+Aira+Rodr%C3%ADguez/31058713",
+    "image": "https://img.cuescore.com/image/2/4/2a7456ac6943ca607a79688f456c813c.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 31058734,
+    "name": "Carlos José Blanco Saavedra",
+    "firstname": "Carlos José",
+    "lastname": "Blanco Saavedra",
+    "url": "https://cuescore.com/player/Carlos+Jos%C3%A9+Blanco+Saavedra/31058734",
+    "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 31058746,
+    "name": "Pedro Raíces Sopalska",
+    "firstname": "Pedro",
+    "lastname": "Raíces Sopalska",
+    "url": "https://cuescore.com/player/Pedro+Ra%C3%ADces+Sopalska/31058746",
+    "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 31060612,
+    "name": "Pablo Gil Collazo",
+    "firstname": "Pablo",
+    "lastname": "Gil Collazo",
+    "url": "https://cuescore.com/player/Pablo+Gil+Collazo/31060612",
+    "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 31060618,
+    "name": "José Antonio Betanzos Baulo",
+    "firstname": "José Antonio",
+    "lastname": "Betanzos Baulo",
+    "url": "https://cuescore.com/player/Jos%C3%A9+Antonio+Betanzos+Baulo/31060618",
+    "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 31060624,
+    "name": "Segundo Rodríguez Suárez",
+    "firstname": "Segundo",
+    "lastname": "Rodríguez Suárez",
+    "url": "https://cuescore.com/player/Segundo+Rodr%C3%ADguez+Su%C3%A1rez/31060624",
+    "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 31060636,
+    "name": "Yago González Teijeiro",
+    "firstname": "Yago",
+    "lastname": "González Teijeiro",
+    "url": "https://cuescore.com/player/Yago+Gonz%C3%A1lez+Teijeiro/31060636",
+    "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 31061365,
+    "name": "Pablo Carballedo Fernández",
+    "firstname": "Pablo",
+    "lastname": "Carballedo Fernández",
+    "url": "https://cuescore.com/player/Pablo+Carballedo+Fern%C3%A1ndez/31061365",
+    "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 31061677,
+    "name": "Julio Rodríguez Estévez",
+    "firstname": "Julio",
+    "lastname": "Rodríguez Estévez",
+    "url": "https://cuescore.com/player/Julio+Rodr%C3%ADguez+Est%C3%A9vez/31061677",
+    "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 31063795,
+    "name": "Uxío Germade Martínez",
+    "firstname": "Uxío",
+    "lastname": "Germade Martínez",
+    "url": "https://cuescore.com/player/Ux%C3%ADo+Germade+Mart%C3%ADnez/31063795",
+    "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 31063915,
+    "name": "Leonardo Estigarribia Torres",
+    "firstname": "Leonardo",
+    "lastname": "Estigarribia Torres",
+    "url": "https://cuescore.com/player/Leonardo+Estigarribia+Torres/31063915",
+    "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 31064497,
+    "name": "Ihosvany Álvarez Lopez",
+    "firstname": "Ihosvany",
+    "lastname": "Álvarez Lopez",
+    "url": "https://cuescore.com/player/Ihosvany+%C3%81lvarez+Lopez/31064497",
+    "image": "https://img.cuescore.com/image/9/4/929562fc8b5a293ccc39c3326aa8dd92.png",
+    "country": {
+      "name": "Cuba",
+      "alpha3": "CUB",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/cu.png",
+      "continent": "North America"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 31064533,
+    "name": "Samuel Iglesias Puime",
+    "firstname": "Samuel",
+    "lastname": "Iglesias Puime",
+    "url": "https://cuescore.com/player/Samuel+Iglesias+Puime/31064533",
+    "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 31064929,
+    "name": "Sergio Garrote Becerra",
+    "firstname": "Sergio",
+    "lastname": "Garrote Becerra",
+    "url": "https://cuescore.com/player/Sergio+Garrote+Becerra/31064929",
+    "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 31065196,
+    "name": "Máximo Peguero Sánchez",
+    "firstname": "Máximo",
+    "lastname": "Peguero Sánchez",
+    "url": "https://cuescore.com/player/M%C3%A1ximo+Peguero+S%C3%A1nchez/31065196",
+    "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 31065352,
+    "name": "Omar Cova Cabanillas",
+    "firstname": "Omar",
+    "lastname": "Cova Cabanillas",
+    "url": "https://cuescore.com/player/Omar+Cova+Cabanillas/31065352",
+    "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 31083046,
+    "name": "Anxo Lois de Gabriel",
+    "firstname": "Anxo",
+    "lastname": "Lois de Gabriel",
+    "url": "https://cuescore.com/player/Anxo+Lois+de+Gabriel/31083046",
+    "image": "https://img.cuescore.com/image/3/4/3a78c2a101d55b47485f48d7fa4af2e4.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 31111180,
+    "name": "Francisco Javier García baamonde",
+    "firstname": "Francisco Javier",
+    "lastname": "García baamonde",
+    "url": "https://cuescore.com/player/Francisco+Javier+Garc%C3%ADa+baamonde/31111180",
+    "image": "https://img.cuescore.com/image/7/4/7b808d49c3f632dfb67f35b41714d7d7.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 31112029,
+    "name": "Diego Prado Salgueiro (Kacho)",
+    "firstname": "Diego",
+    "lastname": "Prado Salgueiro (Kacho)",
+    "url": "https://cuescore.com/player/Diego+Prado+Salgueiro+%28Kacho%29/31112029",
+    "image": "https://img.cuescore.com/image/6/4/6a6846e4b2edac4ce139d31565c88630.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 31353508,
+    "name": "Adrián Penela",
+    "firstname": "Adrián",
+    "lastname": "Penela",
+    "url": "https://cuescore.com/player/Adri%C3%A1n+Penela/31353508",
+    "image": "https://img.cuescore.com/image/f/4/f893615ee62bd2f0f8a69be3bc241434.png",
+    "country": {
+      "name": "Liechtenstein",
+      "alpha3": "LIE",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/li.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 31582663,
+    "name": "Felipe Fontao Castro",
+    "firstname": "Felipe",
+    "lastname": "Fontao Castro",
+    "url": "https://cuescore.com/player/Felipe+Fontao+Castro/31582663",
+    "image": "https://img.cuescore.com/image/5/4/56a1bac95a75e4871fb6bd9bf95d5783.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 31718815,
+    "name": "JOSE GEOVANNY PINARGOTE ZAMBRANO",
+    "firstname": "JOSE GEOVANNY",
+    "lastname": "PINARGOTE ZAMBRANO",
+    "url": "https://cuescore.com/player/JOSE+GEOVANNY+PINARGOTE+ZAMBRANO/31718815",
+    "image": "https://img.cuescore.com/image/8/4/81af396a9507086ac4e7a3e22d2bbdc6.png",
+    "country": {
+      "name": "Ecuador",
+      "alpha3": "ECU",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/ec.png",
+      "continent": "South America"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 32914963,
+    "name": "Micael Timiraos",
+    "firstname": "Micael",
+    "lastname": "Timiraos",
+    "url": "https://cuescore.com/player/Micael+Timiraos/32914963",
+    "image": "https://img.cuescore.com/image/9/4/9540ce836012a03f5c884a750f74e6e5.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 33084265,
+    "name": "Jorge Santamaria Cacabelos",
+    "firstname": "Jorge",
+    "lastname": "Santamaria Cacabelos",
+    "url": "https://cuescore.com/player/Jorge+Santamaria+Cacabelos/33084265",
+    "image": "https://img.cuescore.com/image/7/4/740ec590f15df7a85d5b61da0b5f123d.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 36352546,
+    "name": "Óscar Jaime Fernández Freire",
+    "firstname": "Óscar Jaime",
+    "lastname": "Fernández Freire",
+    "url": "https://cuescore.com/player/%C3%93scar+Jaime+Fern%C3%A1ndez+Freire/36352546",
+    "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 36560821,
+    "name": "Julio Sande",
+    "firstname": "Julio",
+    "lastname": "Sande",
+    "url": "https://cuescore.com/player/Julio+Sande/36560821",
+    "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 38700769,
+    "name": "Samanta Couso González",
+    "firstname": "Samanta",
+    "lastname": "Couso González",
+    "url": "https://cuescore.com/player/Samanta+Couso+Gonz%C3%A1lez/38700769",
+    "image": "https://img.cuescore.com/image/0/4/00b6259dd7e3309b236d48ffcdfccd13.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 40279750,
+    "name": "Francisco Salgado Gay",
+    "firstname": "Francisco",
+    "lastname": "Salgado Gay",
+    "url": "https://cuescore.com/player/Francisco+Salgado+Gay/40279750",
+    "image": "https://img.cuescore.com/image/4/4/40b7c2ecb294dbc07e480fd02d5391ba.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 40313884,
+    "name": "Damián Álvarez Cotovad",
+    "firstname": "Damián",
+    "lastname": "Álvarez Cotovad",
+    "url": "https://cuescore.com/player/Dami%C3%A1n+%C3%81lvarez+Cotovad/40313884",
+    "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 40492717,
+    "name": "Rubén Bao Vázquez",
+    "firstname": "Rubén",
+    "lastname": "Bao Vázquez",
+    "url": "https://cuescore.com/player/Rub%C3%A9n+Bao+V%C3%A1zquez/40492717",
+    "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 40722388,
+    "name": "Iván Costas Cea",
+    "firstname": "Iván",
+    "lastname": "Costas Cea",
+    "url": "https://cuescore.com/player/Iv%C3%A1n+Costas+Cea/40722388",
+    "image": "https://img.cuescore.com/image/9/4/95c5a6d09284308d40ce1c8de9e65ed5.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 42435271,
+    "name": "Oscar Rodríguez Cortiñas",
+    "firstname": "Oscar",
+    "lastname": "Rodríguez Cortiñas",
+    "url": "https://cuescore.com/player/Oscar+Rodr%C3%ADguez+Corti%C3%B1as/42435271",
+    "image": "https://img.cuescore.com/image/0/4/0771eb04638642661fb3433def97af18.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 44468425,
+    "name": "Pablo Magide Lopez",
+    "firstname": "Pablo",
+    "lastname": "Magide Lopez",
+    "url": "https://cuescore.com/player/Pablo+Magide+Lopez/44468425",
+    "image": "https://img.cuescore.com/image/4/4/49efe17873558070d578001af6bde15f.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 44546764,
+    "name": "Enrique Magide Cancio",
+    "firstname": "Enrique",
+    "lastname": "Magide Cancio",
+    "url": "https://cuescore.com/player/Enrique+Magide+Cancio/44546764",
+    "image": "https://img.cuescore.com/image/1/4/15b76e7ceb3c0365aa22425441d15681.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 44547067,
+    "name": "Evelio Figueroa martinez",
+    "firstname": "Evelio",
+    "lastname": "Figueroa martinez",
+    "url": "https://cuescore.com/player/Evelio+Figueroa+martinez/44547067",
+    "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 44653774,
+    "name": "Adrián Fuentes Castro",
+    "firstname": "Adrián",
+    "lastname": "Fuentes Castro",
+    "url": "https://cuescore.com/player/Adri%C3%A1n+Fuentes+Castro/44653774",
+    "image": "https://img.cuescore.com/image/6/4/65b040579bb8f4841036b71962d5d93e.png",
+    "country": {
+      "name": "Isle of Man",
+      "alpha3": "IMN",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/im.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 44918974,
+    "name": "Daniel Costas Montero",
+    "firstname": "Daniel",
+    "lastname": "Costas Montero",
+    "url": "https://cuescore.com/player/Daniel+Costas+Montero/44918974",
+    "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 45094723,
+    "name": "Oscar Liz Conde",
+    "firstname": "Oscar",
+    "lastname": "Liz Conde",
+    "url": "https://cuescore.com/player/Oscar+Liz+Conde/45094723",
+    "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 45094735,
+    "name": "Eduardo González Pérez",
+    "firstname": "Eduardo",
+    "lastname": "González Pérez",
+    "url": "https://cuescore.com/player/Eduardo+Gonz%C3%A1lez+P%C3%A9rez/45094735",
+    "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 45094768,
+    "name": "Santiago Navaza Aller",
+    "firstname": "Santiago",
+    "lastname": "Navaza Aller",
+    "url": "https://cuescore.com/player/Santiago+Navaza+Aller/45094768",
+    "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 45094849,
+    "name": "Manuel Rial Couto",
+    "firstname": "Manuel",
+    "lastname": "Rial Couto",
+    "url": "https://cuescore.com/player/Manuel+Rial+Couto/45094849",
+    "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 45094921,
+    "name": "José Luis Fandiño Rodríguez",
+    "firstname": "José Luis",
+    "lastname": "Fandiño Rodríguez",
+    "url": "https://cuescore.com/player/Jos%C3%A9+Luis+Fandi%C3%B1o+Rodr%C3%ADguez/45094921",
+    "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 45094954,
+    "name": "Paul Andrew Lefevre",
+    "firstname": "Paul Andrew",
+    "lastname": "Lefevre",
+    "url": "https://cuescore.com/player/Paul+Andrew+Lefevre/45094954",
+    "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 45095809,
+    "name": "Jose Antonio Mera Lopez",
+    "firstname": "Jose Antonio",
+    "lastname": "Mera Lopez",
+    "url": "https://cuescore.com/player/Jose+Antonio+Mera+Lopez/45095809",
+    "image": "https://img.cuescore.com/image/4/4/4c2dfff56ad1b1aa32b288933a7c42cf.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 45096148,
+    "name": "José Ramón Souto Lamas",
+    "firstname": "José Ramón",
+    "lastname": "Souto Lamas",
+    "url": "https://cuescore.com/player/Jos%C3%A9+Ram%C3%B3n+Souto+Lamas/45096148",
+    "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 45098608,
+    "name": "José González Yañez",
+    "firstname": "José",
+    "lastname": "González Yañez",
+    "url": "https://cuescore.com/player/Jos%C3%A9+Gonz%C3%A1lez+Ya%C3%B1ez/45098608",
+    "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 45100150,
+    "name": "María Purificación Moreira Rodríguez",
+    "firstname": "María Purificación",
+    "lastname": "Moreira Rodríguez",
+    "url": "https://cuescore.com/player/Mar%C3%ADa+Purificaci%C3%B3n+Moreira+Rodr%C3%ADguez/45100150",
+    "image": "https://img.cuescore.com/image/5/4/5aa6aa48f7d5ffe854d5266ac08db7ef.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 45100234,
+    "name": "Héctor Rodríguez del Río",
+    "firstname": "Héctor",
+    "lastname": "Rodríguez del Río",
+    "url": "https://cuescore.com/player/H%C3%A9ctor+Rodr%C3%ADguez+del+R%C3%ADo/45100234",
+    "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 45137617,
+    "name": "Aarón Cernadas Conde",
+    "firstname": "Aarón",
+    "lastname": "Cernadas Conde",
+    "url": "https://cuescore.com/player/Aar%C3%B3n+Cernadas+Conde/45137617",
+    "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 45137707,
+    "name": "Aakash Tufchi",
+    "firstname": "Aakash",
+    "lastname": "Tufchi",
+    "url": "https://cuescore.com/player/Aakash+Tufchi/45137707",
+    "image": "https://img.cuescore.com/image/7/4/712c9f01d56e67f24033e6520f5b01f1.png",
+    "country": {
+      "name": "India",
+      "alpha3": "IND",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/in.png",
+      "continent": "Asia"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 45137881,
+    "name": "Jorge José Souto Pérez",
+    "firstname": "Jorge José",
+    "lastname": "Souto Pérez",
+    "url": "https://cuescore.com/player/Jorge+Jos%C3%A9+Souto+P%C3%A9rez/45137881",
+    "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 45137890,
+    "name": "Cristino Baz Iglesias",
+    "firstname": "Cristino",
+    "lastname": "Baz Iglesias",
+    "url": "https://cuescore.com/player/Cristino+Baz+Iglesias/45137890",
+    "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 45138139,
+    "name": "Shahzada Ahmed Fareed",
+    "firstname": "Shahzada Ahmed",
+    "lastname": "Fareed",
+    "url": "https://cuescore.com/player/Shahzada+Ahmed+Fareed/45138139",
+    "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 45138142,
+    "name": "Omar Berlier Cea",
+    "firstname": "Omar",
+    "lastname": "Berlier Cea",
+    "url": "https://cuescore.com/player/Omar+Berlier+Cea/45138142",
+    "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 45138706,
+    "name": "Agustín Iglesias Pena",
+    "firstname": "Agustín",
+    "lastname": "Iglesias Pena",
+    "url": "https://cuescore.com/player/Agust%C3%ADn+Iglesias+Pena/45138706",
+    "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 45140365,
+    "name": "Derlin Lionard Olaverria Talentino",
+    "firstname": "Derlin Lionard",
+    "lastname": "Olaverria Talentino",
+    "url": "https://cuescore.com/player/Derlin+Lionard+Olaverria+Talentino/45140365",
+    "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 45140650,
+    "name": "Juan Diego Flores Coca",
+    "firstname": "Juan Diego",
+    "lastname": "Flores Coca",
+    "url": "https://cuescore.com/player/Juan+Diego+Flores+Coca/45140650",
+    "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 45141085,
+    "name": "Unai Sánchez González",
+    "firstname": "Unai",
+    "lastname": "Sánchez González",
+    "url": "https://cuescore.com/player/Unai+S%C3%A1nchez+Gonz%C3%A1lez/45141085",
+    "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 45141331,
+    "name": "Tobías Santiago Beloso",
+    "firstname": "Tobías",
+    "lastname": "Santiago Beloso",
+    "url": "https://cuescore.com/player/Tob%C3%ADas+Santiago+Beloso/45141331",
+    "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 45156460,
+    "name": "Maikel Silveira seoane",
+    "firstname": "Maikel",
+    "lastname": "Silveira seoane",
+    "url": "https://cuescore.com/player/Maikel+Silveira+seoane/45156460",
+    "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 45197077,
+    "name": "Manuel Ángel Somoza Domínguez",
+    "firstname": "Manuel Ángel",
+    "lastname": "Somoza Domínguez",
+    "url": "https://cuescore.com/player/Manuel+%C3%81ngel+Somoza+Dom%C3%ADnguez/45197077",
+    "image": "https://img.cuescore.com/image/a/4/a6150dcad5fa6c2e74d8a769ee5c79b9.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 45332233,
+    "name": "Ismael Piñón Amboage",
+    "firstname": "Ismael",
+    "lastname": "Piñón Amboage",
+    "url": "https://cuescore.com/player/Ismael+Pi%C3%B1%C3%B3n+Amboage/45332233",
+    "image": "https://img.cuescore.com/image/6/4/6772ea447393f0d61d735df986dd048b.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 45347224,
+    "name": "Carlos Bouza Castiñeira",
+    "firstname": "Carlos",
+    "lastname": "Bouza Castiñeira",
+    "url": "https://cuescore.com/player/Carlos+Bouza+Casti%C3%B1eira/45347224",
+    "image": "https://img.cuescore.com/image/9/4/9298301034f31fbbb894fc599731b1b4.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 50741401,
+    "name": "Antonio Puga Veiga",
+    "firstname": "Antonio",
+    "lastname": "Puga Veiga",
+    "url": "https://cuescore.com/player/Antonio+Puga+Veiga/50741401",
+    "image": "https://img.cuescore.com/image/a/4/af867fb9a279e866066e56dbcb54d466.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 51207787,
+    "name": "Rafael Sarmiento Martinez",
+    "firstname": "Rafael",
+    "lastname": "Sarmiento Martinez",
+    "url": "https://cuescore.com/player/Rafael+Sarmiento+Martinez/51207787",
+    "image": "https://img.cuescore.com/image/b/4/bcd18cbe785d3f7a8c41541f2da3f1f5.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 51788707,
+    "name": "Jose Vázquez Fernández",
+    "firstname": "Jose",
+    "lastname": "Vázquez Fernández",
+    "url": "https://cuescore.com/player/Jose+V%C3%A1zquez+Fern%C3%A1ndez/51788707",
+    "image": "https://img.cuescore.com/image/3/4/3fceddb184adba9dd86aef22ef9b653b.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 52885861,
+    "name": "Mario Lourido Menaya",
+    "firstname": "Mario",
+    "lastname": "Lourido Menaya",
+    "url": "https://cuescore.com/player/Mario+Lourido+Menaya/52885861",
+    "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+    "country": {
+      "name": "Scotland",
+      "alpha3": "SCT",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/gb-sct.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 53797312,
+    "name": "Mauro Entenza",
+    "firstname": "Mauro",
+    "lastname": "Entenza",
+    "url": "https://cuescore.com/player/Mauro+Entenza/53797312",
+    "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 53817520,
+    "name": "Alvaro Crujeiras Rouco",
+    "firstname": "Alvaro",
+    "lastname": "Crujeiras Rouco",
+    "url": "https://cuescore.com/player/Alvaro+Crujeiras+Rouco/53817520",
+    "image": "https://img.cuescore.com/image/8/4/83961a7b77c5ff33bc89835575c5f284.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 54125344,
+    "name": "Pedro Formoso",
+    "firstname": "Pedro",
+    "lastname": "Formoso",
+    "url": "https://cuescore.com/player/Pedro+Formoso/54125344",
+    "image": "https://img.cuescore.com/image/4/4/492efd37c4299e4cace0d5fa8778e374.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 55066522,
+    "name": "Marcos Lemos Sotelo",
+    "firstname": "Marcos",
+    "lastname": "Lemos Sotelo",
+    "url": "https://cuescore.com/player/Marcos+Lemos+Sotelo/55066522",
+    "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 57015613,
+    "name": "Alberto Rodríguez González",
+    "firstname": "Alberto",
+    "lastname": "Rodríguez González",
+    "url": "https://cuescore.com/player/Alberto+Rodr%C3%ADguez+Gonz%C3%A1lez/57015613",
+    "image": "https://img.cuescore.com/image/a/4/abd820e80d01da098485bc21915298e2.png",
+    "country": {
+      "name": "Bahamas",
+      "alpha3": "BHS",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/bs.png",
+      "continent": "North America"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 57690217,
+    "name": "Bryan Coedo Villa",
+    "firstname": "Bryan",
+    "lastname": "Coedo Villa",
+    "url": "https://cuescore.com/player/Bryan+Coedo+Villa/57690217",
+    "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 63471574,
+    "name": "Juan Carlos Currás Antonio",
+    "firstname": "Juan Carlos",
+    "lastname": "Currás Antonio",
+    "url": "https://cuescore.com/player/Juan+Carlos+Curr%C3%A1s+Antonio/63471574",
+    "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 63522577,
+    "name": "Christian Álvarez Sobrino",
+    "firstname": "Christian",
+    "lastname": "Álvarez Sobrino",
+    "url": "https://cuescore.com/player/Christian+%C3%81lvarez+Sobrino/63522577",
+    "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 63522583,
+    "name": "Daniel Pereira Pidre",
+    "firstname": "Daniel",
+    "lastname": "Pereira Pidre",
+    "url": "https://cuescore.com/player/Daniel+Pereira+Pidre/63522583",
+    "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 63522634,
+    "name": "Óscar López Rivera",
+    "firstname": "Óscar",
+    "lastname": "López Rivera",
+    "url": "https://cuescore.com/player/%C3%93scar+L%C3%B3pez+Rivera/63522634",
+    "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 63522637,
+    "name": "José López Calvete",
+    "firstname": "José",
+    "lastname": "López Calvete",
+    "url": "https://cuescore.com/player/Jos%C3%A9+L%C3%B3pez+Calvete/63522637",
+    "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 63522928,
+    "name": "Breogán Cabaleiro Mato",
+    "firstname": "Breogán",
+    "lastname": "Cabaleiro Mato",
+    "url": "https://cuescore.com/player/Breog%C3%A1n+Cabaleiro+Mato/63522928",
+    "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 63523303,
+    "name": "Leonardo Dios Arbón",
+    "firstname": "Leonardo",
+    "lastname": "Dios Arbón",
+    "url": "https://cuescore.com/player/Leonardo+Dios+Arb%C3%B3n/63523303",
+    "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 63523315,
+    "name": "Lucas Rodrigo Fernández Fernández",
+    "firstname": "Lucas Rodrigo",
+    "lastname": "Fernández Fernández",
+    "url": "https://cuescore.com/player/Lucas+Rodrigo+Fern%C3%A1ndez+Fern%C3%A1ndez/63523315",
+    "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 63523330,
+    "name": "Roberto Cardeiro Rodríguez",
+    "firstname": "Roberto",
+    "lastname": "Cardeiro Rodríguez",
+    "url": "https://cuescore.com/player/Roberto+Cardeiro+Rodr%C3%ADguez/63523330",
+    "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 63523333,
+    "name": "Javier Catoira Fernández",
+    "firstname": "Javier",
+    "lastname": "Catoira Fernández",
+    "url": "https://cuescore.com/player/Javier+Catoira+Fern%C3%A1ndez/63523333",
+    "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 63523336,
+    "name": "Jose Antonio Fiunte Lobelle",
+    "firstname": "Jose Antonio",
+    "lastname": "Fiunte Lobelle",
+    "url": "https://cuescore.com/player/Jose+Antonio+Fiunte+Lobelle/63523336",
+    "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 63523339,
+    "name": "Manuel Pérez Velón",
+    "firstname": "Manuel",
+    "lastname": "Pérez Velón",
+    "url": "https://cuescore.com/player/Manuel+P%C3%A9rez+Vel%C3%B3n/63523339",
+    "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 63523351,
+    "name": "Angel Alfredo González Becerra",
+    "firstname": "Angel Alfredo",
+    "lastname": "González Becerra",
+    "url": "https://cuescore.com/player/Angel+Alfredo+Gonz%C3%A1lez+Becerra/63523351",
+    "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 63523354,
+    "name": "Carlos David Loureda Parrado",
+    "firstname": "Carlos David",
+    "lastname": "Loureda Parrado",
+    "url": "https://cuescore.com/player/Carlos+David+Loureda+Parrado/63523354",
+    "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 63523570,
+    "name": "Martín Bello Rama",
+    "firstname": "Martín",
+    "lastname": "Bello Rama",
+    "url": "https://cuescore.com/player/Mart%C3%ADn+Bello+Rama/63523570",
+    "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 63524692,
+    "name": "Juan María Calvo García",
+    "firstname": "Juan María",
+    "lastname": "Calvo García",
+    "url": "https://cuescore.com/player/Juan+Mar%C3%ADa+Calvo+Garc%C3%ADa/63524692",
+    "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 63524695,
+    "name": "Antonio Añón Antín",
+    "firstname": "Antonio",
+    "lastname": "Añón Antín",
+    "url": "https://cuescore.com/player/Antonio+A%C3%B1%C3%B3n+Ant%C3%ADn/63524695",
+    "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 63524710,
+    "name": "Pablo Rúa Avendaño",
+    "firstname": "Pablo",
+    "lastname": "Rúa Avendaño",
+    "url": "https://cuescore.com/player/Pablo+R%C3%BAa+Avenda%C3%B1o/63524710",
+    "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 63524716,
+    "name": "Abel Ferreira Leite",
+    "firstname": "Abel",
+    "lastname": "Ferreira Leite",
+    "url": "https://cuescore.com/player/Abel+Ferreira+Leite/63524716",
+    "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 63537022,
+    "name": "Carlos Fernández Martínez",
+    "firstname": "Carlos",
+    "lastname": "Fernández Martínez",
+    "url": "https://cuescore.com/player/Carlos+Fern%C3%A1ndez+Mart%C3%ADnez/63537022",
+    "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 63706780,
+    "name": "Pablo Fernández Martínez",
+    "firstname": "Pablo",
+    "lastname": "Fernández Martínez",
+    "url": "https://cuescore.com/player/Pablo+Fern%C3%A1ndez+Mart%C3%ADnez/63706780",
+    "image": "https://img.cuescore.com/image/e/4/ec4b300c7b4d096d2a8f10401e185f73.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  },
+  {
+    "playerId": 63708010,
+    "name": "Felix Mendez galdo",
+    "firstname": "Felix",
+    "lastname": "Mendez galdo",
+    "url": "https://cuescore.com/player/Felix+Mendez+galdo/63708010",
+    "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+    "country": {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+      "continent": "Europe"
+    },
+    "represents": []
+  }
 ]
-Apollo.io
