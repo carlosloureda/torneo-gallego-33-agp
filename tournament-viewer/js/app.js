@@ -12,7 +12,6 @@ async function initApp() {
 
     // Inicializar la aplicación
     populateFilterOptions();
-    renderStatsGrid();
     renderPlayersTab();
     renderMatchesTab();
     renderSummaryTab();
@@ -95,46 +94,6 @@ function switchTab(tabName) {
   // Activar el tab seleccionado
   document.querySelector(`[data-tab="${tabName}"]`).classList.add("active");
   document.getElementById(`${tabName}Tab`).classList.add("active");
-}
-
-// Función para renderizar estadísticas generales
-function renderStatsGrid() {
-  const statsGrid = document.getElementById("statsGrid");
-
-  const totalPlayers = tournamentData.players.length;
-  const clasificados = tournamentData.players.filter(
-    (p) => p.clasificado
-  ).length;
-  const totalMatches = tournamentData.matches.length;
-  const finishedMatches = tournamentData.matches.filter(
-    (m) => m.matchstatus === "finished"
-  ).length;
-  const ligas = [
-    ...new Set(tournamentData.players.filter((p) => p.liga).map((p) => p.liga)),
-  ].length;
-
-  statsGrid.innerHTML = `
-        <div class="stat-card">
-            <div class="stat-number">${totalPlayers}</div>
-            <div class="stat-label">Total Jugadores</div>
-        </div>
-        <div class="stat-card">
-            <div class="stat-number">${clasificados}</div>
-            <div class="stat-label">Clasificados</div>
-        </div>
-        <div class="stat-card">
-            <div class="stat-number">${totalMatches}</div>
-            <div class="stat-label">Total Partidas</div>
-        </div>
-        <div class="stat-card">
-            <div class="stat-number">${finishedMatches}</div>
-            <div class="stat-label">Partidas Finalizadas</div>
-        </div>
-        <div class="stat-card">
-            <div class="stat-number">${ligas}</div>
-            <div class="stat-label">Ligas Representadas</div>
-        </div>
-    `;
 }
 
 // Función para renderizar tab de jugadores
@@ -252,23 +211,6 @@ function renderSummaryTab() {
                 ${Object.entries(ligaStats)
                   .sort(([, a], [, b]) => b.total_players - a.total_players)
                   .map(([liga, stats]) => renderLigaCard(liga, stats))
-                  .join("")}
-            </div>
-        </div>
-
-        <div style="margin-bottom: 30px;">
-            <h3 style="color: #1e3c72; margin-bottom: 20px;">Distribución por Rango</h3>
-            <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px;">
-                ${Object.entries(rankStats)
-                  .map(([rank, count]) => {
-                    const rankInfo = getPlayerRank({ rank });
-                    return `
-                        <div class="stat-card">
-                            <div class="stat-number">${count}</div>
-                            <div class="stat-label">${rankInfo.label}</div>
-                        </div>
-                    `;
-                  })
                   .join("")}
             </div>
         </div>
