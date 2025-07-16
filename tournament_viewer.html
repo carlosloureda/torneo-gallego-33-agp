@@ -265,6 +265,100 @@
         color: white;
       }
 
+      .player-rank {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        margin-bottom: 10px;
+      }
+
+      .rank-crown {
+        font-size: 1.2em;
+        margin-right: 5px;
+      }
+
+      .rank-badge {
+        padding: 4px 8px;
+        border-radius: 8px;
+        font-size: 0.75em;
+        font-weight: bold;
+        text-transform: uppercase;
+        letter-spacing: 0.5px;
+      }
+
+      .rank-elite {
+        background: linear-gradient(135deg, #ffd700 0%, #ffed4e 100%);
+        color: #8b6914;
+        border: 2px solid #ffd700;
+      }
+
+      .rank-expert {
+        background: linear-gradient(135deg, #c0c0c0 0%, #e5e5e5 100%);
+        color: #4a4a4a;
+        border: 2px solid #c0c0c0;
+      }
+
+      .rank-advanced {
+        background: linear-gradient(135deg, #cd7f32 0%, #daa520 100%);
+        color: white;
+        border: 2px solid #cd7f32;
+      }
+
+      .rank-intermediate {
+        background: linear-gradient(135deg, #28a745 0%, #20c997 100%);
+        color: white;
+        border: 2px solid #28a745;
+      }
+
+      .rank-beginner {
+        background: linear-gradient(135deg, #6c757d 0%, #adb5bd 100%);
+        color: white;
+        border: 2px solid #6c757d;
+      }
+
+      .pruebas-badge {
+        display: inline-flex;
+        align-items: center;
+        gap: 4px;
+        padding: 3px 8px;
+        background: #f8f9fa;
+        border: 1px solid #dee2e6;
+        border-radius: 12px;
+        font-size: 0.75em;
+        color: #495057;
+        margin-left: 8px;
+      }
+
+      .player-card.elite {
+        border-left-color: #ffd700;
+        background: linear-gradient(135deg, #fffbf0 0%, #ffffff 100%);
+        box-shadow: 0 5px 20px rgba(255, 215, 0, 0.2);
+      }
+
+      .player-card.expert {
+        border-left-color: #c0c0c0;
+        background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%);
+        box-shadow: 0 5px 15px rgba(192, 192, 192, 0.2);
+      }
+
+      .player-card.advanced {
+        border-left-color: #cd7f32;
+        background: linear-gradient(135deg, #fff8f0 0%, #ffffff 100%);
+        box-shadow: 0 5px 15px rgba(205, 127, 50, 0.2);
+      }
+
+      .player-card.intermediate {
+        border-left-color: #28a745;
+        background: linear-gradient(135deg, #f0fff4 0%, #ffffff 100%);
+        box-shadow: 0 5px 15px rgba(40, 167, 69, 0.2);
+      }
+
+      .player-card.beginner {
+        border-left-color: #6c757d;
+        background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%);
+        box-shadow: 0 5px 15px rgba(108, 117, 125, 0.2);
+      }
+
       .search-box {
         width: 100%;
         padding: 15px;
@@ -361,6 +455,14 @@
             <option value="clasificado">Solo clasificados</option>
             <option value="no-clasificado">No clasificados</option>
           </select>
+          <select class="filter-select" id="rankFilter">
+            <option value="">Todos los rangos</option>
+            <option value="elite">Élite</option>
+            <option value="expert">Experto</option>
+            <option value="advanced">Avanzado</option>
+            <option value="intermediate">Intermedio</option>
+            <option value="beginner">Principiante</option>
+          </select>
         </div>
         <div class="players-grid" id="playersGrid">
           <div class="loading">Cargando jugadores...</div>
@@ -452,11 +554,21 @@
         const playersGrid = document.getElementById("playersGrid");
 
         playersGrid.innerHTML = players
-          .map(
-            (player) => `
+          .map((player) => {
+            const rankInfo = getPlayerRank(player);
+            const pruebasText = getPruebasText(player);
+
+            return `
                 <div class="player-card ${
                   player.clasificado ? "clasificado" : ""
-                }">
+                } ${rankInfo.rank}">
+                    <div class="player-rank">
+                        <span class="rank-crown">${rankInfo.crown}</span>
+                        <span class="rank-badge rank-${rankInfo.rank}">${
+              rankInfo.label
+            }</span>
+                        ${pruebasText}
+                    </div>
                     <div class="player-name">${player.nombre_gallego}</div>
                     <div class="player-liga">
                         ${
@@ -503,8 +615,8 @@
                         : '<div style="color: #999; font-style: italic;">Sin datos de ranking</div>'
                     }
                 </div>
-            `
-          )
+            `;
+          })
           .join("");
       }
 
@@ -657,6 +769,9 @@
         document
           .getElementById("statusFilter")
           .addEventListener("change", filterPlayers);
+        document
+          .getElementById("rankFilter")
+          .addEventListener("change", filterPlayers);
 
         // Event listeners para partidas
         document
@@ -676,6 +791,14 @@
           .value.toLowerCase();
         const ligaFilter = document.getElementById("ligaFilter").value;
         const statusFilter = document.getElementById("statusFilter").value;
+        const rankFilter = document.getElementById("rankFilter").value;
+
+        console.log("Filtros aplicados:", {
+          searchTerm,
+          ligaFilter,
+          statusFilter,
+          rankFilter,
+        });
 
         const players = tournamentData.players.filter((player) => {
           const matchesSearch = player.nombre_gallego
@@ -687,16 +810,39 @@
             (statusFilter === "clasificado" && player.clasificado) ||
             (statusFilter === "no-clasificado" && !player.clasificado);
 
-          return matchesSearch && matchesLiga && matchesStatus;
+          const rankInfo = getPlayerRank(player);
+          const matchesRank = !rankFilter || rankInfo.rank === rankFilter;
+
+          if (rankFilter && !matchesRank) {
+            console.log(
+              `Jugador ${player.nombre_gallego} no coincide con rango ${rankFilter}, su rango es ${rankInfo.rank}`
+            );
+          }
+
+          return matchesSearch && matchesLiga && matchesStatus && matchesRank;
         });
+
+        console.log(
+          `Filtrados ${players.length} jugadores de ${tournamentData.players.length} total`
+        );
 
         const playersGrid = document.getElementById("playersGrid");
         playersGrid.innerHTML = players
-          .map(
-            (player) => `
+          .map((player) => {
+            const rankInfo = getPlayerRank(player);
+            const pruebasText = getPruebasText(player);
+
+            return `
                 <div class="player-card ${
                   player.clasificado ? "clasificado" : ""
-                }">
+                } ${rankInfo.rank}">
+                    <div class="player-rank">
+                        <span class="rank-crown">${rankInfo.crown}</span>
+                        <span class="rank-badge rank-${rankInfo.rank}">${
+              rankInfo.label
+            }</span>
+                        ${pruebasText}
+                    </div>
                     <div class="player-name">${player.nombre_gallego}</div>
                     <div class="player-liga">
                         ${
@@ -743,8 +889,8 @@
                         : '<div style="color: #999; font-style: italic;">Sin datos de ranking</div>'
                     }
                 </div>
-            `
-          )
+            `;
+          })
           .join("");
       }
 
@@ -853,6 +999,36 @@
           playing: "En juego",
         };
         return statusMap[status] || status;
+      }
+
+      function getPlayerRank(player) {
+        if (!player.liga || !player.puntos_totales) {
+          return { rank: "beginner", crown: "", label: "Sin datos" };
+        }
+
+        const puntos = player.puntos_totales;
+        const posicion = player.posicion || 999;
+
+        // Sistema de rangos basado en puntos y posición
+        if (puntos >= 120 && posicion <= 3) {
+          return { rank: "elite", crown: "👑", label: "Élite" };
+        } else if (puntos >= 100 && posicion <= 8) {
+          return { rank: "expert", crown: "🥇", label: "Experto" };
+        } else if (puntos >= 80 && posicion <= 15) {
+          return { rank: "advanced", crown: "🥈", label: "Avanzado" };
+        } else if (puntos >= 60 && posicion <= 25) {
+          return { rank: "intermediate", crown: "🥉", label: "Intermedio" };
+        } else {
+          return { rank: "beginner", crown: "⭐", label: "Principiante" };
+        }
+      }
+
+      function getPruebasText(player) {
+        const pruebas = player.pruebas_jugadas || 0;
+        if (pruebas === 0) return "";
+
+        const icon = pruebas >= 10 ? "🏆" : pruebas >= 5 ? "🎯" : "📊";
+        return `<span class="pruebas-badge">${icon} ${pruebas} pruebas</span>`;
       }
 
       // Cargar datos al iniciar
