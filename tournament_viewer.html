@@ -359,6 +359,168 @@
         box-shadow: 0 5px 15px rgba(108, 117, 125, 0.2);
       }
 
+      /* Tooltip y Modal styles */
+      .player-tooltip {
+        position: absolute;
+        background: rgba(0, 0, 0, 0.9);
+        color: white;
+        padding: 12px;
+        border-radius: 8px;
+        font-size: 0.85em;
+        z-index: 1000;
+        max-width: 250px;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+        pointer-events: none;
+        opacity: 0;
+        transition: opacity 0.3s ease;
+      }
+
+      .player-tooltip.show {
+        opacity: 1;
+      }
+
+      .player-tooltip .tooltip-header {
+        font-weight: bold;
+        margin-bottom: 8px;
+        color: #ffd700;
+      }
+
+      .player-tooltip .tooltip-stats {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 6px;
+        font-size: 0.8em;
+      }
+
+      .player-tooltip .tooltip-stat {
+        display: flex;
+        justify-content: space-between;
+      }
+
+      .player-tooltip .tooltip-stat .label {
+        color: #ccc;
+      }
+
+      .player-tooltip .tooltip-stat .value {
+        color: #fff;
+        font-weight: bold;
+      }
+
+      .player-modal {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: rgba(0, 0, 0, 0.7);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        z-index: 2000;
+        opacity: 0;
+        visibility: hidden;
+        transition: all 0.3s ease;
+      }
+
+      .player-modal.show {
+        opacity: 1;
+        visibility: visible;
+      }
+
+      .modal-content {
+        background: white;
+        border-radius: 15px;
+        padding: 30px;
+        max-width: 500px;
+        width: 90%;
+        max-height: 80vh;
+        overflow-y: auto;
+        position: relative;
+        box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+      }
+
+      .modal-close {
+        position: absolute;
+        top: 15px;
+        right: 20px;
+        background: none;
+        border: none;
+        font-size: 24px;
+        cursor: pointer;
+        color: #666;
+        transition: color 0.3s ease;
+      }
+
+      .modal-close:hover {
+        color: #333;
+      }
+
+      .modal-header {
+        display: flex;
+        align-items: center;
+        gap: 15px;
+        margin-bottom: 20px;
+        padding-bottom: 15px;
+        border-bottom: 2px solid #eee;
+      }
+
+      .modal-rank {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+      }
+
+      .modal-rank-badge {
+        padding: 6px 12px;
+        border-radius: 8px;
+        font-size: 0.8em;
+        font-weight: bold;
+        text-transform: uppercase;
+      }
+
+      .modal-stats {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 15px;
+        margin-bottom: 20px;
+      }
+
+      .modal-stat-item {
+        background: #f8f9fa;
+        padding: 15px;
+        border-radius: 8px;
+        text-align: center;
+      }
+
+      .modal-stat-value {
+        font-size: 1.5em;
+        font-weight: bold;
+        color: #1e3c72;
+        margin-bottom: 5px;
+      }
+
+      .modal-stat-label {
+        font-size: 0.8em;
+        color: #666;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+      }
+
+      .player-name-clickable {
+        cursor: pointer;
+        transition: color 0.3s ease;
+        position: relative;
+      }
+
+      .player-name-clickable:hover {
+        color: #1e3c72;
+        text-decoration: underline;
+      }
+
+      .player-name-clickable.has-ranking {
+        font-weight: bold;
+      }
+
       .search-box {
         width: 100%;
         padding: 15px;
@@ -496,6 +658,19 @@
         <div id="summaryContainer">
           <div class="loading">Cargando resumen...</div>
         </div>
+      </div>
+    </div>
+
+    <!-- Tooltip para información rápida -->
+    <div id="playerTooltip" class="player-tooltip"></div>
+
+    <!-- Modal para información detallada -->
+    <div id="playerModal" class="player-modal">
+      <div class="modal-content">
+        <button class="modal-close" onclick="closePlayerModal()">
+          &times;
+        </button>
+        <div id="modalContent"></div>
       </div>
     </div>
 
@@ -650,9 +825,31 @@
                         <div class="match-player">
                             <div class="player-avatar">A</div>
                             <div>
-                                <div style="font-weight: bold;">${
-                                  match.playerA.name
-                                }</div>
+                                                                <div class="player-name-clickable ${
+                                                                  match.playerA
+                                                                    .ranking_info
+                                                                    ? "has-ranking"
+                                                                    : ""
+                                                                }" 
+                                     onmouseover="showPlayerTooltip(event, '${
+                                       match.playerA.name
+                                     }')" 
+                                     onmouseout="hidePlayerTooltip()" 
+                                     onclick="showPlayerModal('${
+                                       match.playerA.name
+                                     }')" 
+                                     style="font-weight: bold;">
+                                  ${(() => {
+                                    const player = findPlayerByName(
+                                      match.playerA.name
+                                    );
+                                    const rankInfo = player
+                                      ? getPlayerRank(player)
+                                      : null;
+                                    return rankInfo ? `${rankInfo.crown} ` : "";
+                                  })()}
+                                  ${match.playerA.name}
+                                </div>
                                 ${
                                   match.playerA.ranking_info
                                     ? `
@@ -669,9 +866,31 @@
             }</div>
                         <div class="match-player">
                             <div style="text-align: right;">
-                                <div style="font-weight: bold;">${
-                                  match.playerB.name
-                                }</div>
+                                                                <div class="player-name-clickable ${
+                                                                  match.playerB
+                                                                    .ranking_info
+                                                                    ? "has-ranking"
+                                                                    : ""
+                                                                }" 
+                                     onmouseover="showPlayerTooltip(event, '${
+                                       match.playerB.name
+                                     }')" 
+                                     onmouseout="hidePlayerTooltip()" 
+                                     onclick="showPlayerModal('${
+                                       match.playerB.name
+                                     }')" 
+                                     style="font-weight: bold;">
+                                  ${(() => {
+                                    const player = findPlayerByName(
+                                      match.playerB.name
+                                    );
+                                    const rankInfo = player
+                                      ? getPlayerRank(player)
+                                      : null;
+                                    return rankInfo ? `${rankInfo.crown} ` : "";
+                                  })()}
+                                  ${match.playerB.name}
+                                </div>
                                 ${
                                   match.playerB.ranking_info
                                     ? `
@@ -1030,6 +1249,163 @@
         const icon = pruebas >= 10 ? "🏆" : pruebas >= 5 ? "🎯" : "📊";
         return `<span class="pruebas-badge">${icon} ${pruebas} pruebas</span>`;
       }
+
+      function findPlayerByName(name) {
+        return tournamentData.players.find(
+          (player) => player.nombre_gallego === name || player.nombre === name
+        );
+      }
+
+      function showPlayerTooltip(event, playerName) {
+        const player = findPlayerByName(playerName);
+        if (!player || !player.liga) return;
+
+        const tooltip = document.getElementById("playerTooltip");
+        const rankInfo = getPlayerRank(player);
+
+        tooltip.innerHTML = `
+          <div class="tooltip-header">${player.nombre_gallego}</div>
+          <div class="tooltip-stats">
+            <div class="tooltip-stat">
+              <span class="label">Liga:</span>
+              <span class="value">${player.liga}</span>
+            </div>
+            <div class="tooltip-stat">
+              <span class="label">Posición:</span>
+              <span class="value">${player.posicion || "N/A"}</span>
+            </div>
+            <div class="tooltip-stat">
+              <span class="label">Puntos:</span>
+              <span class="value">${player.puntos_totales || "N/A"}</span>
+            </div>
+            <div class="tooltip-stat">
+              <span class="label">Rango:</span>
+              <span class="value">${rankInfo.label}</span>
+            </div>
+          </div>
+        `;
+
+        tooltip.style.left = event.pageX + 10 + "px";
+        tooltip.style.top = event.pageY - 10 + "px";
+        tooltip.classList.add("show");
+      }
+
+      function hidePlayerTooltip() {
+        const tooltip = document.getElementById("playerTooltip");
+        tooltip.classList.remove("show");
+      }
+
+      function showPlayerModal(playerName) {
+        const player = findPlayerByName(playerName);
+        if (!player) return;
+
+        const modal = document.getElementById("playerModal");
+        const modalContent = document.getElementById("modalContent");
+        const rankInfo = getPlayerRank(player);
+        const pruebasText = getPruebasText(player);
+
+        modalContent.innerHTML = `
+          <div class="modal-header">
+            <div>
+              <h2 style="margin: 0; color: #1e3c72;">${
+                player.nombre_gallego
+              }</h2>
+              <div style="color: #666; margin-top: 5px;">
+                ${
+                  player.liga
+                    ? `<span class="liga-badge">${player.liga}</span>`
+                    : "Sin liga"
+                }
+                ${
+                  player.clasificado
+                    ? ' <span style="color: #28a745;">✓ Clasificado</span>'
+                    : ""
+                }
+              </div>
+            </div>
+            <div class="modal-rank">
+              <span style="font-size: 1.5em;">${rankInfo.crown}</span>
+              <span class="modal-rank-badge rank-${rankInfo.rank}">${
+          rankInfo.label
+        }</span>
+            </div>
+          </div>
+
+          ${
+            player.liga
+              ? `
+            <div class="modal-stats">
+              <div class="modal-stat-item">
+                <div class="modal-stat-value">${player.posicion || "N/A"}</div>
+                <div class="modal-stat-label">Posición</div>
+              </div>
+              <div class="modal-stat-item">
+                <div class="modal-stat-value">${
+                  player.puntos_totales || "N/A"
+                }</div>
+                <div class="modal-stat-label">Puntos Totales</div>
+              </div>
+              <div class="modal-stat-item">
+                <div class="modal-stat-value">${
+                  player.puntos_base || "N/A"
+                }</div>
+                <div class="modal-stat-label">Puntos Base</div>
+              </div>
+              <div class="modal-stat-item">
+                <div class="modal-stat-value">${
+                  player.pruebas_jugadas || 0
+                }</div>
+                <div class="modal-stat-label">Pruebas Jugadas</div>
+              </div>
+            </div>
+
+            <div style="background: #f8f9fa; padding: 15px; border-radius: 8px; margin-bottom: 15px;">
+              <h4 style="margin: 0 0 10px 0; color: #1e3c72;">Estadísticas de Partidas</h4>
+              <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
+                <div>
+                  <strong>Partidas a favor:</strong> ${
+                    player.partidas_favor || 0
+                  }
+                </div>
+                <div>
+                  <strong>Partidas en contra:</strong> ${
+                    player.partidas_contra || 0
+                  }
+                </div>
+                <div>
+                  <strong>Diferencia:</strong> ${
+                    player.diferencia_partidas || 0
+                  }
+                </div>
+                <div>
+                  <strong>AGP:</strong> ${player.agp || "N/A"}
+                </div>
+              </div>
+            </div>
+          `
+              : `
+            <div style="text-align: center; color: #999; font-style: italic; padding: 20px;">
+              Sin datos de ranking disponibles
+            </div>
+          `
+          }
+        `;
+
+        modal.classList.add("show");
+      }
+
+      function closePlayerModal() {
+        const modal = document.getElementById("playerModal");
+        modal.classList.remove("show");
+      }
+
+      // Cerrar modal al hacer click fuera
+      document.addEventListener("click", function (event) {
+        const modal = document.getElementById("playerModal");
+        if (event.target === modal) {
+          closePlayerModal();
+        }
+      });
 
       // Cargar datos al iniciar
       loadTournamentData();
