@@ -147,7 +147,7 @@ function renderMatchesTab() {
                 <h3 style="color: #1e3c72; margin-bottom: 15px; padding-bottom: 5px; border-bottom: 2px solid #eee;">
                     ${escapeHtml(roundName)} (${matches.length} partidas)
                 </h3>
-                <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(400px, 1fr)); gap: 15px;">
+                <div class="matches-grid">
                     ${matches.map((match) => renderMatchCard(match)).join("")}
                 </div>
             </div>

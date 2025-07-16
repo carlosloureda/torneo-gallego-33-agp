@@ -47,7 +47,8 @@
   }
 
   .players-grid {
-    grid-template-columns: 1fr !important;
+    display: flex !important;
+    flex-direction: column !important;
     gap: 16px;
   }
 
@@ -58,6 +59,23 @@
     width: 100%;
     box-shadow: 0 2px 10px rgba(30, 60, 114, 0.08);
     border-radius: 12px;
+    overflow: hidden;
+  }
+
+  /* Solo para partidas: hacer que el texto se ajuste */
+  #matchesContainer .player-card {
+    font-size: 0.9em;
+  }
+
+  #matchesContainer .player-name-clickable {
+    word-break: break-word;
+  }
+
+  /* Forzar grid de partidas a flex column en móvil */
+  .matches-grid {
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 15px;
   }
 
   .player-name {
