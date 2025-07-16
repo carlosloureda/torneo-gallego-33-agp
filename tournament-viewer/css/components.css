@@ -179,23 +179,34 @@
 }
 
 /* ===== MATCH CARDS ===== */
+.match-players-row {
+  display: grid;
+  grid-template-columns: 1fr auto 1fr;
+  gap: 15px;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
 .match-player {
   display: flex;
   align-items: center;
-  gap: 10px;
 }
 
-.player-avatar {
-  width: 30px;
-  height: 30px;
-  border-radius: 50%;
-  background: #1e3c72;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  color: white;
-  font-weight: bold;
-  font-size: 0.8em;
+.match-player-left {
+  justify-content: flex-start;
+}
+
+.match-player-right {
+  justify-content: flex-end;
+}
+
+.player-details {
+  flex: 1;
+  min-width: 0;
+}
+
+.match-player-right .player-details {
+  text-align: right;
 }
 
 .match-score {

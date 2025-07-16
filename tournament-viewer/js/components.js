@@ -83,10 +83,9 @@ function renderMatchCard(match) {
                 }">${getStatusText(match.matchstatus)}</span>
             </div>
             
-            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px;">
-                <div class="match-player">
-                    <div class="player-avatar">A</div>
-                    <div>
+            <div class="match-players-row">
+                <div class="match-player match-player-left">
+                    <div class="player-details">
                         <div class="player-name-clickable ${
                           rankInfoA ? "has-ranking" : ""
                         }" 
@@ -112,9 +111,11 @@ function renderMatchCard(match) {
                         }
                     </div>
                 </div>
+                
                 <div class="match-score">${match.scoreA} - ${match.scoreB}</div>
-                <div class="match-player">
-                    <div style="text-align: right;">
+                
+                <div class="match-player match-player-right">
+                    <div class="player-details">
                         <div class="player-name-clickable ${
                           rankInfoB ? "has-ranking" : ""
                         }" 
@@ -139,7 +140,6 @@ function renderMatchCard(match) {
                             : ""
                         }
                     </div>
-                    <div class="player-avatar">B</div>
                 </div>
             </div>
             

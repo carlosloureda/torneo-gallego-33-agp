@@ -62,13 +62,35 @@
     overflow: hidden;
   }
 
-  /* Solo para partidas: hacer que el texto se ajuste */
+  /* Layout vertical para partidas en móvil */
+  .match-players-row {
+    grid-template-columns: 1fr !important;
+    gap: 10px !important;
+  }
+
+  .match-player-left,
+  .match-player-right {
+    justify-content: center !important;
+  }
+
+  .match-player-right .player-details {
+    text-align: center !important;
+  }
+
+  .match-score {
+    order: -1;
+    text-align: center;
+    font-size: 1.3em;
+    margin: 10px 0;
+  }
+
   #matchesContainer .player-card {
     font-size: 0.9em;
   }
 
   #matchesContainer .player-name-clickable {
     word-break: break-word;
+    text-align: center;
   }
 
   /* Forzar grid de partidas a flex column en móvil */
