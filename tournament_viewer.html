@@ -647,7 +647,7 @@
             .map((liga) => `<option value="${liga}">${liga}</option>`)
             .join("");
 
-        // Event listeners
+        // Event listeners para jugadores
         document
           .getElementById("playerSearch")
           .addEventListener("input", filterPlayers);
@@ -657,6 +657,17 @@
         document
           .getElementById("statusFilter")
           .addEventListener("change", filterPlayers);
+
+        // Event listeners para partidas
+        document
+          .getElementById("matchSearch")
+          .addEventListener("input", filterMatches);
+        document
+          .getElementById("roundFilter")
+          .addEventListener("change", filterMatches);
+        document
+          .getElementById("matchStatusFilter")
+          .addEventListener("change", filterMatches);
       }
 
       function filterPlayers() {
@@ -731,6 +742,90 @@
                     `
                         : '<div style="color: #999; font-style: italic;">Sin datos de ranking</div>'
                     }
+                </div>
+            `
+          )
+          .join("");
+      }
+
+      function filterMatches() {
+        const searchTerm = document
+          .getElementById("matchSearch")
+          .value.toLowerCase();
+        const roundFilter = document.getElementById("roundFilter").value;
+        const statusFilter = document.getElementById("matchStatusFilter").value;
+
+        const matches = tournamentData.matches.filter((match) => {
+          const matchesSearch =
+            match.playerA.name.toLowerCase().includes(searchTerm) ||
+            match.playerB.name.toLowerCase().includes(searchTerm) ||
+            match.roundName.toLowerCase().includes(searchTerm) ||
+            match.matchno.toString().includes(searchTerm);
+
+          const matchesRound = !roundFilter || match.roundName === roundFilter;
+          const matchesStatus =
+            !statusFilter || match.matchstatus === statusFilter;
+
+          return matchesSearch && matchesRound && matchesStatus;
+        });
+
+        const matchesContainer = document.getElementById("matchesContainer");
+        matchesContainer.innerHTML = matches
+          .map(
+            (match) => `
+                <div class="player-card">
+                    <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 15px;">
+                        <div style="font-weight: bold; color: #1e3c72;">${
+                          match.roundName
+                        } - Partida ${match.matchno}</div>
+                        <span class="match-status status-${
+                          match.matchstatus
+                        }">${getStatusText(match.matchstatus)}</span>
+                    </div>
+                    
+                    <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px;">
+                        <div class="match-player">
+                            <div class="player-avatar">A</div>
+                            <div>
+                                <div style="font-weight: bold;">${
+                                  match.playerA.name
+                                }</div>
+                                ${
+                                  match.playerA.ranking_info
+                                    ? `
+                                    <div style="font-size: 0.8em; color: #666;">
+                                        ${match.playerA.ranking_info.liga} - Pos. ${match.playerA.ranking_info.posicion_liga}
+                                    </div>
+                                `
+                                    : ""
+                                }
+                            </div>
+                        </div>
+                        <div class="match-score">${match.scoreA} - ${
+              match.scoreB
+            }</div>
+                        <div class="match-player">
+                            <div style="text-align: right;">
+                                <div style="font-weight: bold;">${
+                                  match.playerB.name
+                                }</div>
+                                ${
+                                  match.playerB.ranking_info
+                                    ? `
+                                    <div style="font-size: 0.8em; color: #666;">
+                                        ${match.playerB.ranking_info.liga} - Pos. ${match.playerB.ranking_info.posicion_liga}
+                                    </div>
+                                `
+                                    : ""
+                                }
+                            </div>
+                            <div class="player-avatar">B</div>
+                        </div>
+                    </div>
+                    
+                    <div style="font-size: 0.8em; color: #666;">
+                        Race to ${match.raceTo} • ${match.discipline}
+                    </div>
                 </div>
             `
           )
