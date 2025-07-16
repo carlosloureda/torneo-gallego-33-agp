@@ -89,10 +89,10 @@ function renderMatchCard(match) {
                         <div class="player-name-clickable ${
                           rankInfoA ? "has-ranking" : ""
                         }" 
-                             onmouseover="showPlayerTooltip(event, '${escapeHtml(
+                             onmouseover="if(window.innerWidth > 768) showPlayerTooltip(event, '${escapeHtml(
                                match.playerA.name
                              )}')" 
-                             onmouseout="hidePlayerTooltip()" 
+                             onmouseout="if(window.innerWidth > 768) hidePlayerTooltip()" 
                              onclick="showPlayerModal('${escapeHtml(
                                match.playerA.name
                              )}')" 
@@ -119,10 +119,10 @@ function renderMatchCard(match) {
                         <div class="player-name-clickable ${
                           rankInfoB ? "has-ranking" : ""
                         }" 
-                             onmouseover="showPlayerTooltip(event, '${escapeHtml(
+                             onmouseover="if(window.innerWidth > 768) showPlayerTooltip(event, '${escapeHtml(
                                match.playerB.name
                              )}')" 
-                             onmouseout="hidePlayerTooltip()" 
+                             onmouseout="if(window.innerWidth > 768) hidePlayerTooltip()" 
                              onclick="showPlayerModal('${escapeHtml(
                                match.playerB.name
                              )}')" 
@@ -235,7 +235,7 @@ function showPlayerModal(playerName) {
                 <h2 style="margin: 0; color: #1e3c72;">${escapeHtml(
                   player.nombre_gallego
                 )}</h2>
-                <div style="color: #666; margin-top: 5px;">
+                <div style="color: #666; margin-top: 15px;">
                     ${
                       player.liga
                         ? `<span class="liga-badge">${player.liga}</span>`
