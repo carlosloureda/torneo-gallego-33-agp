@@ -1,0 +1,384 @@
+/* ===== PLAYER CARDS ===== */
+.players-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+  gap: 20px;
+}
+
+.player-card {
+  background: white;
+  border-radius: 12px;
+  padding: 20px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease;
+  border-left: 5px solid #1e3c72;
+}
+
+.player-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+}
+
+.player-card.clasificado {
+  border-left-color: #28a745;
+  background: linear-gradient(135deg, #f8fff9 0%, #ffffff 100%);
+}
+
+.player-name {
+  font-size: 1.3em;
+  font-weight: bold;
+  color: #1e3c72;
+  margin-bottom: 10px;
+}
+
+.player-liga {
+  color: #666;
+  font-size: 0.9em;
+  margin-bottom: 15px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.player-stats {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+  margin-bottom: 15px;
+}
+
+.stat-item {
+  display: flex;
+  justify-content: space-between;
+  padding: 5px 0;
+  border-bottom: 1px solid #eee;
+}
+
+.stat-label {
+  color: #666;
+  font-size: 0.85em;
+}
+
+.stat-value {
+  font-weight: bold;
+  color: #1e3c72;
+}
+
+/* ===== RANK SYSTEM ===== */
+.player-rank {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 10px;
+}
+
+.rank-crown {
+  font-size: 1.2em;
+  margin-right: 5px;
+}
+
+.rank-badge {
+  padding: 4px 8px;
+  border-radius: 8px;
+  font-size: 0.75em;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.rank-elite {
+  background: linear-gradient(135deg, #ffd700 0%, #ffed4e 100%);
+  color: #8b6914;
+  border: 2px solid #ffd700;
+}
+
+.rank-expert {
+  background: linear-gradient(135deg, #c0c0c0 0%, #e5e5e5 100%);
+  color: #4a4a4a;
+  border: 2px solid #c0c0c0;
+}
+
+.rank-advanced {
+  background: linear-gradient(135deg, #cd7f32 0%, #daa520 100%);
+  color: white;
+  border: 2px solid #cd7f32;
+}
+
+.rank-intermediate {
+  background: linear-gradient(135deg, #28a745 0%, #20c997 100%);
+  color: white;
+  border: 2px solid #28a745;
+}
+
+.rank-beginner {
+  background: linear-gradient(135deg, #6c757d 0%, #adb5bd 100%);
+  color: white;
+  border: 2px solid #6c757d;
+}
+
+.pruebas-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 3px 8px;
+  background: #f8f9fa;
+  border: 1px solid #dee2e6;
+  border-radius: 12px;
+  font-size: 0.75em;
+  color: #495057;
+  margin-left: 8px;
+}
+
+/* ===== RANK CARD STYLES ===== */
+.player-card.elite {
+  border-left-color: #ffd700;
+  background: linear-gradient(135deg, #fffbf0 0%, #ffffff 100%);
+  box-shadow: 0 5px 20px rgba(255, 215, 0, 0.2);
+}
+
+.player-card.expert {
+  border-left-color: #c0c0c0;
+  background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%);
+  box-shadow: 0 5px 15px rgba(192, 192, 192, 0.2);
+}
+
+.player-card.advanced {
+  border-left-color: #cd7f32;
+  background: linear-gradient(135deg, #fff8f0 0%, #ffffff 100%);
+  box-shadow: 0 5px 15px rgba(205, 127, 50, 0.2);
+}
+
+.player-card.intermediate {
+  border-left-color: #28a745;
+  background: linear-gradient(135deg, #f0fff4 0%, #ffffff 100%);
+  box-shadow: 0 5px 15px rgba(40, 167, 69, 0.2);
+}
+
+.player-card.beginner {
+  border-left-color: #6c757d;
+  background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%);
+  box-shadow: 0 5px 15px rgba(108, 117, 125, 0.2);
+}
+
+/* ===== BADGES ===== */
+.liga-badge {
+  display: inline-block;
+  padding: 2px 8px;
+  border-radius: 12px;
+  font-size: 0.7em;
+  font-weight: bold;
+  text-transform: uppercase;
+  background: #1e3c72;
+  color: white;
+}
+
+/* ===== MATCH CARDS ===== */
+.match-player {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.player-avatar {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background: #1e3c72;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-weight: bold;
+  font-size: 0.8em;
+}
+
+.match-score {
+  font-weight: bold;
+  font-size: 1.2em;
+  color: #1e3c72;
+}
+
+.match-status {
+  padding: 4px 8px;
+  border-radius: 4px;
+  font-size: 0.8em;
+  font-weight: bold;
+}
+
+.status-finished {
+  background: #28a745;
+  color: white;
+}
+
+.status-waiting {
+  background: #ffc107;
+  color: #333;
+}
+
+.status-playing {
+  background: #17a2b8;
+  color: white;
+}
+
+/* ===== CLICKABLE PLAYER NAMES ===== */
+.player-name-clickable {
+  cursor: pointer;
+  transition: color 0.3s ease;
+  position: relative;
+}
+
+.player-name-clickable:hover {
+  color: #1e3c72;
+  text-decoration: underline;
+}
+
+.player-name-clickable.has-ranking {
+  font-weight: bold;
+}
+
+/* ===== TOOLTIP ===== */
+.player-tooltip {
+  position: absolute;
+  background: rgba(0, 0, 0, 0.9);
+  color: white;
+  padding: 12px;
+  border-radius: 8px;
+  font-size: 0.85em;
+  z-index: 1000;
+  max-width: 250px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.player-tooltip.show {
+  opacity: 1;
+}
+
+.player-tooltip .tooltip-header {
+  font-weight: bold;
+  margin-bottom: 8px;
+  color: #ffd700;
+}
+
+.player-tooltip .tooltip-stats {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 6px;
+  font-size: 0.8em;
+}
+
+.player-tooltip .tooltip-stat {
+  display: flex;
+  justify-content: space-between;
+}
+
+.player-tooltip .tooltip-stat .label {
+  color: #ccc;
+}
+
+.player-tooltip .tooltip-stat .value {
+  color: #fff;
+  font-weight: bold;
+}
+
+/* ===== MODAL ===== */
+.player-modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.7);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 2000;
+  opacity: 0;
+  visibility: hidden;
+  transition: all 0.3s ease;
+}
+
+.player-modal.show {
+  opacity: 1;
+  visibility: visible;
+}
+
+.modal-content {
+  background: white;
+  border-radius: 15px;
+  padding: 30px;
+  max-width: 500px;
+  width: 90%;
+  max-height: 80vh;
+  overflow-y: auto;
+  position: relative;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+}
+
+.modal-close {
+  position: absolute;
+  top: 15px;
+  right: 20px;
+  background: none;
+  border: none;
+  font-size: 24px;
+  cursor: pointer;
+  color: #666;
+  transition: color 0.3s ease;
+}
+
+.modal-close:hover {
+  color: #333;
+}
+
+.modal-header {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  margin-bottom: 20px;
+  padding-bottom: 15px;
+  border-bottom: 2px solid #eee;
+}
+
+.modal-rank {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.modal-rank-badge {
+  padding: 6px 12px;
+  border-radius: 8px;
+  font-size: 0.8em;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.modal-stats {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 15px;
+  margin-bottom: 20px;
+}
+
+.modal-stat-item {
+  background: #f8f9fa;
+  padding: 15px;
+  border-radius: 8px;
+  text-align: center;
+}
+
+.modal-stat-value {
+  font-size: 1.5em;
+  font-weight: bold;
+  color: #1e3c72;
+  margin-bottom: 5px;
+}
+
+.modal-stat-label {
+  font-size: 0.8em;
+  color: #666;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}

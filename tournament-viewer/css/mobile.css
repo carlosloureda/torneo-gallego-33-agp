@@ -1,0 +1,133 @@
+/* ===== MOBILE RESPONSIVE ===== */
+@media (max-width: 768px) {
+  html,
+  body {
+    width: 100vw;
+    min-width: 0;
+    overflow-x: hidden;
+  }
+
+  .container {
+    max-width: 100vw;
+    padding: 0 2vw 2vw 2vw;
+  }
+
+  .header {
+    padding: 12px 6px;
+    margin-bottom: 18px;
+  }
+
+  .header h1 {
+    font-size: 1.3em;
+    word-break: break-word;
+  }
+
+  .header .subtitle {
+    font-size: 1em;
+    margin-bottom: 10px;
+  }
+
+  .stats-grid {
+    grid-template-columns: 1fr;
+    gap: 12px;
+  }
+
+  .stat-card {
+    padding: 14px 0;
+    font-size: 1.1em;
+    margin-bottom: 0;
+  }
+
+  .tabs {
+    flex-direction: row;
+    gap: 2px;
+    padding: 2px;
+  }
+
+  .tab {
+    padding: 12px 0;
+    font-size: 1.1em;
+    min-width: 0;
+    flex: 1 1 0;
+  }
+
+  .tab-content {
+    padding: 8px 0 0 0;
+  }
+
+  .players-grid {
+    grid-template-columns: 1fr !important;
+    gap: 16px;
+  }
+
+  .player-card {
+    padding: 14px 10px;
+    font-size: 1.05em;
+    margin-bottom: 8px;
+    width: 100%;
+    box-shadow: 0 2px 10px rgba(30, 60, 114, 0.08);
+  }
+
+  .player-name {
+    font-size: 1.15em;
+    word-break: break-word;
+  }
+
+  .player-stats {
+    grid-template-columns: 1fr;
+    gap: 7px;
+  }
+
+  .stat-item {
+    padding: 6px 0;
+  }
+
+  .matches-table th,
+  .matches-table td {
+    padding: 7px 4px;
+    font-size: 1em;
+  }
+
+  .modal-content {
+    padding: 10px 4px;
+  }
+
+  .player-tooltip {
+    font-size: 1em;
+    max-width: 90vw;
+  }
+
+  .player-modal .modal-content {
+    max-width: 98vw;
+  }
+
+  .players-grid > .player-card,
+  .players-grid > div {
+    width: 100%;
+    margin-bottom: 12px;
+  }
+
+  .summaryTab .players-grid {
+    gap: 12px;
+  }
+
+  .stat-label,
+  .stat-value {
+    font-size: 1em;
+  }
+
+  .filters {
+    flex-direction: column;
+    gap: 8px;
+  }
+
+  .filter-select,
+  .search-box {
+    font-size: 1.1em;
+    padding: 12px 8px;
+  }
+
+  .loading {
+    font-size: 1.1em;
+  }
+}

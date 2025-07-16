@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>XXXIII Campeonato Gallego 3ª Categoría - Vista Extendida</title>
+    <link rel="stylesheet" href="css/main.css" />
+    <link rel="stylesheet" href="css/components.css" />
+    <link rel="stylesheet" href="css/mobile.css" />
+  </head>
+  <body>
+    <div class="container">
+      <div class="header">
+        <h1>🏆 XXXIII Campeonato Gallego</h1>
+        <div class="subtitle">3ª Categoría - Lalín 2025</div>
+        <div class="subtitle">Vista Extendida con Datos de Rankings</div>
+      </div>
+
+      <div class="stats-grid" id="statsGrid">
+        <!-- Stats will be loaded here -->
+      </div>
+
+      <div class="tabs">
+        <div class="tab active" data-tab="players">👥 Jugadores</div>
+        <div class="tab" data-tab="matches">🎯 Partidas</div>
+        <div class="tab" data-tab="summary">📊 Resumen</div>
+      </div>
+
+      <div class="tab-content active" id="playersTab">
+        <div class="filters">
+          <input
+            type="text"
+            class="search-box"
+            id="playerSearch"
+            placeholder="🔍 Buscar jugador..."
+          />
+          <select class="filter-select" id="ligaFilter">
+            <option value="">Todas las ligas</option>
+          </select>
+          <select class="filter-select" id="statusFilter">
+            <option value="">Todos los estados</option>
+            <option value="clasificado">Solo clasificados</option>
+            <option value="no-clasificado">No clasificados</option>
+          </select>
+          <select class="filter-select" id="rankFilter">
+            <option value="">Todos los rangos</option>
+            <option value="elite">Élite</option>
+            <option value="expert">Experto</option>
+            <option value="advanced">Avanzado</option>
+            <option value="intermediate">Intermedio</option>
+            <option value="beginner">Principiante</option>
+          </select>
+        </div>
+        <div class="players-grid" id="playersGrid">
+          <div class="loading">Cargando jugadores...</div>
+        </div>
+      </div>
+
+      <div class="tab-content" id="matchesTab">
+        <div class="filters">
+          <input
+            type="text"
+            class="search-box"
+            id="matchSearch"
+            placeholder="🔍 Buscar partida..."
+          />
+          <select class="filter-select" id="roundFilter">
+            <option value="">Todas las rondas</option>
+          </select>
+          <select class="filter-select" id="matchStatusFilter">
+            <option value="">Todos los estados</option>
+            <option value="finished">Finalizadas</option>
+            <option value="waiting">En espera</option>
+            <option value="playing">En juego</option>
+          </select>
+        </div>
+        <div id="matchesContainer">
+          <div class="loading">Cargando partidas...</div>
+        </div>
+      </div>
+
+      <div class="tab-content" id="summaryTab">
+        <div id="summaryContainer">
+          <div class="loading">Cargando resumen...</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Tooltip para información rápida -->
+    <div id="playerTooltip" class="player-tooltip"></div>
+
+    <!-- Modal para información detallada -->
+    <div id="playerModal" class="player-modal">
+      <div class="modal-content">
+        <button class="modal-close" id="modalClose">&times;</button>
+        <div id="modalContent"></div>
+      </div>
+    </div>
+
+    <script src="js/utils.js"></script>
+    <script src="js/components.js"></script>
+    <script src="js/filters.js"></script>
+    <script src="js/app.js"></script>
+  </body>
+</html>
