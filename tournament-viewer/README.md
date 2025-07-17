@@ -1,93 +1,175 @@
-# Tournament Viewer - Vista Modular
+# 🏆 Visualizador del Torneo Gallego 3ª Categoría
+
+Visualizador web moderno y responsivo para el XXXIII Campeonato Gallego 3ª Categoría con datos extendidos de rankings AGP y actualización automática en tiempo real.
+
+## ✨ Características
+
+- **📊 Datos Extendidos**: Combina información del torneo con rankings y estadísticas de AGP
+- **🔄 Actualización Automática**: Sistema de actualización automática cada 10 minutos
+- **📱 Responsive Design**: Optimizado para desktop y móvil
+- **🎯 Filtros Avanzados**: Búsqueda y filtrado por liga, estado, rango, etc.
+- **🏅 Sistema de Rankings**: 5 niveles con badges coloridos
+- **💬 Modales Informativos**: Información detallada de jugadores
+- **⚡ Tiempo Real**: Detecta cambios automáticamente y refresca la vista
+
+## 🚀 Instalación y Uso
+
+### Opción 1: Servidor Local (Desarrollo)
+
+```bash
+# Navegar al directorio
+cd tournament-viewer
+
+# Iniciar servidor HTTP
+python -m http.server 8000
+
+# Abrir en navegador
+open http://localhost:8000
+```
+
+### Opción 2: GitHub Pages (Producción)
+
+El proyecto está configurado para desplegarse automáticamente en GitHub Pages.
+
+1. **Configurar GitHub Pages**:
+
+   - Ve a Settings > Pages
+   - Source: Deploy from a branch
+   - Branch: `gh-pages`
+   - Folder: `/ (root)`
+
+2. **Acceder al sitio**:
+   - URL: `https://[tu-usuario].github.io/[repo-name]/tournament-viewer/`
+
+## 🔄 Sistema de Actualización Automática
+
+### Componentes
+
+1. **GitHub Actions** (`.github/workflows/update-tournament.yml`)
+
+   - Actualiza datos cada 10 minutos automáticamente
+   - Se ejecuta también manualmente desde GitHub
+   - Fusiona datos de Cuescore con rankings AGP
+
+2. **Script Python** (`scripts/refresh_tournament.py`)
+
+   - Descarga datos actualizados de Cuescore
+   - Mantiene datos AGP existentes
+   - Crea backups automáticos
+
+3. **Frontend JavaScript** (`js/refresh.js`)
+   - Detecta cambios cada 30 segundos
+   - Refresca la vista automáticamente
+   - Botón manual de actualización
+   - Notificaciones de estado
+
+### Configuración
+
+Editar `scripts/config.py` para personalizar:
+
+```python
+# ID del torneo en Cuescore
+TOURNAMENT_ID = "xxxiii-campeonato-gallego-3a-categoria-lalin-2025"
+
+# Intervalos de actualización
+UPDATE_INTERVAL_MINUTES = 10  # GitHub Actions
+CHECK_INTERVAL_SECONDS = 30   # Frontend
+```
+
+### Actualización Manual
+
+#### Desde GitHub:
+
+1. Ve a Actions > Update Tournament Data
+2. Click en "Run workflow"
+
+#### Desde Terminal:
+
+```bash
+cd scripts
+python refresh_tournament.py
+```
 
 ## 📁 Estructura del Proyecto
 
 ```
 tournament-viewer/
-├── index.html              # Archivo HTML principal
+├── index.html              # Página principal
 ├── css/
-│   ├── main.css           # Estilos generales y layout
-│   ├── components.css     # Estilos de componentes específicos
-│   └── mobile.css         # Estilos responsivos para móviles
+│   ├── main.css           # Estilos principales
+│   ├── components.css     # Componentes y modales
+│   └── mobile.css         # Responsive design
 ├── js/
-│   ├── utils.js           # Funciones utilitarias
-│   ├── components.js      # Componentes de renderizado
-│   ├── filters.js         # Lógica de filtrado
-│   └── app.js             # Aplicación principal
+│   ├── app.js             # Lógica principal
+│   ├── components.js      # Componentes UI
+│   ├── filters.js         # Sistema de filtros
+│   ├── utils.js           # Utilidades
+│   └── refresh.js         # Sistema de actualización
 ├── data/
 │   └── tournament_extended.json  # Datos del torneo
-└── README.md              # Este archivo
+└── README.md
 ```
 
-## 🚀 Cómo usar
+## 🎨 Características de la UI
 
-1. **Servidor local**: Ejecuta un servidor HTTP en la carpeta raíz:
+### Sistema de Rankings
 
-   ```bash
-   cd tournament-viewer
-   python -m http.server 8000
-   ```
+- **🥇 Élite**: Oro (top players)
+- **🥈 Experto**: Plata (high level)
+- **🥉 Avanzado**: Bronce (advanced)
+- **🟢 Intermedio**: Verde (intermediate)
+- **🔵 Principiante**: Azul (beginner)
 
-2. **Abrir en navegador**: Ve a `http://localhost:8000`
+### Filtros Disponibles
 
-## 🎯 Características
+- **🔍 Búsqueda**: Por nombre de jugador
+- **🏆 Liga**: Filtrar por liga específica
+- **📊 Estado**: Clasificado/No clasificado
+- **⭐ Rango**: Por nivel de ranking
+- **🎯 Ronda**: Para partidas
+- **⏱️ Estado**: Finalizada/En espera/En juego
 
-### ✅ Implementadas
+### Responsive Design
 
-- **Estructura modular**: Código separado en archivos específicos
-- **Responsive design**: Optimizado para móviles y desktop
-- **Sistema de rangos**: Élite, Experto, Avanzado, Intermedio, Principiante
-- **Filtros avanzados**: Por liga, estado, rango y búsqueda
-- **Tooltips y modales**: Información detallada de jugadores
-- **Estadísticas**: Vista general y por liga
+- **Desktop**: Grid layouts, tooltips, modales
+- **Mobile**: Layouts optimizados, sin tooltips, modales adaptados
 
-### 📱 Responsive
+## 🔧 Desarrollo
 
-- Diseño adaptativo para móviles
-- Grid layouts que se ajustan automáticamente
-- Tamaños de fuente optimizados
-- Navegación táctil mejorada
+### Agregar Nuevas Funcionalidades
 
-## 🔧 Mantenimiento
+1. **Estilos**: Editar archivos en `css/`
+2. **Lógica**: Modificar archivos en `js/`
+3. **Datos**: Actualizar estructura en `data/`
 
-### Agregar nuevos componentes
+### Testing
 
-1. Crea el componente en `js/components.js`
-2. Agrega estilos en `css/components.css`
-3. Importa en `app.js` si es necesario
+```bash
+# Servidor local para desarrollo
+python -m http.server 8000
 
-### Modificar filtros
+# Verificar actualización automática
+# Los cambios se reflejan automáticamente cada 30 segundos
+```
 
-1. Edita la lógica en `js/filters.js`
-2. Actualiza las opciones en `js/app.js`
+## 📊 Datos y Fuentes
 
-### Cambiar estilos
+- **Cuescore**: Datos del torneo y resultados en tiempo real
+- **AGP**: Rankings y estadísticas de jugadores
+- **Fusión**: Sistema híbrido que mantiene lo mejor de ambas fuentes
 
-- **Generales**: `css/main.css`
-- **Componentes**: `css/components.css`
-- **Móvil**: `css/mobile.css`
+## 🤝 Contribuir
 
-## 📊 Datos
+1. Fork el proyecto
+2. Crear rama para feature (`git checkout -b feature/nueva-funcionalidad`)
+3. Commit cambios (`git commit -am 'Agregar nueva funcionalidad'`)
+4. Push a la rama (`git push origin feature/nueva-funcionalidad`)
+5. Crear Pull Request
 
-El archivo `data/tournament_extended.json` contiene:
+## 📝 Licencia
 
-- Información de jugadores con rankings
-- Datos de partidas del torneo
-- Estadísticas por liga
-- Información de clasificación
+Este proyecto es de uso interno para la Liga de Billar Gallega.
 
-## 🎨 Sistema de Rangos
+---
 
-- **👑 Élite**: 120+ puntos, posición 1-3
-- **🥇 Experto**: 100+ puntos, posición 1-8
-- **🥈 Avanzado**: 80+ puntos, posición 1-15
-- **🥉 Intermedio**: 60+ puntos, posición 1-25
-- **⭐ Principiante**: Resto de jugadores
-
-## 🔄 Próximas mejoras
-
-- [ ] Exportar datos a CSV/Excel
-- [ ] Gráficos estadísticos
-- [ ] Modo oscuro
-- [ ] Búsqueda avanzada
-- [ ] Comparador de jugadores
+**Desarrollado para el XXXIII Campeonato Gallego 3ª Categoría - Lalín 2025** 🏆

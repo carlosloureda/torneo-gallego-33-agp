@@ -400,3 +400,115 @@
   text-transform: uppercase;
   letter-spacing: 1px;
 }
+
+/* ===== REFRESH SYSTEM ===== */
+.refresh-status {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  margin-top: 10px;
+  padding: 10px 15px;
+  background: rgba(30, 60, 114, 0.05);
+  border-radius: 8px;
+  border: 1px solid rgba(30, 60, 114, 0.1);
+}
+
+.refresh-info {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  flex: 1;
+}
+
+.last-update {
+  font-size: 0.85em;
+  color: #666;
+}
+
+.refresh-btn {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 8px 16px;
+  background: #1e3c72;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 0.9em;
+  transition: all 0.3s ease;
+}
+
+.refresh-btn:hover:not(:disabled) {
+  background: #2d5aa0;
+  transform: translateY(-1px);
+}
+
+.refresh-btn:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.refresh-icon {
+  font-size: 1.1em;
+  transition: transform 0.3s ease;
+}
+
+.refresh-icon.spinning {
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.refresh-indicator {
+  font-size: 0.8em;
+  color: #666;
+}
+
+.refresh-indicator.loading {
+  color: #1e3c72;
+  font-weight: bold;
+}
+
+/* ===== NOTIFICATIONS ===== */
+.notification {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  padding: 12px 20px;
+  border-radius: 8px;
+  color: white;
+  font-weight: bold;
+  z-index: 3000;
+  animation: slideIn 0.3s ease;
+  max-width: 300px;
+  word-wrap: break-word;
+}
+
+.notification.success {
+  background: #28a745;
+  border-left: 4px solid #1e7e34;
+}
+
+.notification.error {
+  background: #dc3545;
+  border-left: 4px solid #c82333;
+}
+
+@keyframes slideIn {
+  from {
+    transform: translateX(100%);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}

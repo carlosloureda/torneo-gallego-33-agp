@@ -1,0 +1,53 @@
+name: Update Tournament Data
+on:
+  schedule:
+    - cron: "*/10 * * * *" # Cada 10 minutos
+  workflow_dispatch: # Botón manual en GitHub
+  push:
+    paths:
+      - "scripts/refresh_tournament.py"
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.9"
+
+      - name: Install dependencies
+        run: |
+          pip install requests
+
+      - name: Update tournament data
+        run: |
+          python scripts/refresh_tournament.py
+        env:
+          CUESCORE_API_KEY: ${{ secrets.CUESCORE_API_KEY }}
+
+      - name: Check for changes
+        id: changes
+        run: |
+          if git diff --quiet tournament-viewer/data/tournament_extended.json; then
+            echo "no_changes=true" >> $GITHUB_OUTPUT
+          else
+            echo "no_changes=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit and push if changes
+        if: steps.changes.outputs.no_changes == 'false'
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add tournament-viewer/data/tournament_extended.json
+          git commit -m "Auto-update tournament data - $(date)"
+          git push
+
+      - name: No changes message
+        if: steps.changes.outputs.no_changes == 'true'
+        run: |
+          echo "No changes detected in tournament data"
