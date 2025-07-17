@@ -92,10 +92,10 @@ def test_direct_api():
     }
     
     urls = [
-        f"https://cuescore.com/api/tournament/{TOURNAMENT_ID}",
-        f"https://cuescore.com/api/tournaments/{TOURNAMENT_ID}",
-        f"https://api.cuescore.com/tournament/{TOURNAMENT_ID}",
-        f"https://api.cuescore.com/tournaments/{TOURNAMENT_ID}"
+        f"https://cuescore.com/api/tournament/?id={TOURNAMENT_ID}",
+        f"https://cuescore.com/api/tournaments/?id={TOURNAMENT_ID}",
+        f"https://api.cuescore.com/tournament/?id={TOURNAMENT_ID}",
+        f"https://api.cuescore.com/tournaments/?id={TOURNAMENT_ID}"
     ]
     
     for url in urls:

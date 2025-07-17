@@ -26,4 +26,12 @@ REQUEST_HEADERS = {
 
 # Configuración de notificaciones
 NOTIFICATION_DURATION_SUCCESS = 3000  # 3 segundos
-NOTIFICATION_DURATION_ERROR = 5000    # 5 segundos 
+NOTIFICATION_DURATION_ERROR = 5000    # 5 segundos
+
+# Configuración de rate limiting
+MIN_UPDATE_INTERVAL_SECONDS = 30  # Mínimo entre actualizaciones manuales
+API_RATE_LIMIT_DELAY = 2  # Segundos de espera entre peticiones a la API
+MAX_RETRIES = 3  # Máximo de reintentos si falla la API
+
+# Configuración del torneo
+# Las fechas del torneo se obtienen automáticamente de la API de Cuescore 

@@ -477,6 +477,50 @@
   font-weight: bold;
 }
 
+.refresh-counter {
+  font-size: 0.75em;
+  color: #dc3545;
+  text-align: center;
+  margin-top: 5px;
+}
+
+/* ===== TOURNAMENT STATUS ===== */
+.tournament-status {
+  margin-top: 10px;
+  padding: 8px 12px;
+  border-radius: 6px;
+  font-size: 0.85em;
+  text-align: center;
+  font-weight: bold;
+}
+
+.tournament-status.active {
+  background: rgba(40, 167, 69, 0.1);
+  border: 1px solid rgba(40, 167, 69, 0.3);
+  color: #28a745;
+}
+
+.tournament-status.finished {
+  background: rgba(108, 117, 125, 0.1);
+  border: 1px solid rgba(108, 117, 125, 0.3);
+  color: #6c757d;
+}
+
+.tournament-status.upcoming {
+  background: rgba(255, 193, 7, 0.1);
+  border: 1px solid rgba(255, 193, 7, 0.3);
+  color: #ffc107;
+}
+
+.tournament-finished,
+.tournament-active,
+.tournament-upcoming {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+}
+
 /* ===== NOTIFICATIONS ===== */
 .notification {
   position: fixed;

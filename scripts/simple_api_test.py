@@ -68,9 +68,9 @@ def test_alternative_urls():
     print("\n🔄 Probando URLs alternativas...")
     
     urls = [
-        f"https://api.cuescore.com/tournaments/{TOURNAMENT_ID}",
-        f"https://cuescore.com/api/tournament/{TOURNAMENT_ID}",
-        f"https://cuescore.com/api/tournaments/{TOURNAMENT_ID}"
+        f"https://api.cuescore.com/tournaments/?id={TOURNAMENT_ID}",
+        f"https://cuescore.com/api/tournament/?id={TOURNAMENT_ID}",
+        f"https://cuescore.com/api/tournaments/?id={TOURNAMENT_ID}"
     ]
     
     headers = {

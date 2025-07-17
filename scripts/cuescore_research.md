@@ -9,8 +9,8 @@
 Cuescore usa endpoints internos en su sitio web que devuelven JSON:
 
 ```
-https://cuescore.com/api/tournament/{ID}
-https://cuescore.com/api/tournaments/{ID}
+https://cuescore.com/api/tournament/?id={ID}
+https://cuescore.com/api/tournaments/?id={ID}
 ```
 
 ### 2. **Estructura de URLs**
@@ -80,10 +80,10 @@ Si la API no funciona, podemos extraer datos directamente de la página HTML.
 ## 📊 URLs a Probar
 
 ```
-https://cuescore.com/api/tournament/63505243
-https://cuescore.com/api/tournaments/63505243
-https://api.cuescore.com/tournament/63505243
-https://api.cuescore.com/tournaments/63505243
+https://cuescore.com/api/tournament/?id=63505243
+https://cuescore.com/api/tournaments/?id=63505243
+https://api.cuescore.com/tournament/?id=63505243
+https://api.cuescore.com/tournaments/?id=63505243
 ```
 
 ## ⚠️ Consideraciones Legales

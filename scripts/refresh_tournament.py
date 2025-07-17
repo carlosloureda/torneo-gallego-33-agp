@@ -7,7 +7,7 @@ Mantiene los datos de AGP y actualiza solo partidas y resultados
 import json
 import requests
 import os
-from datetime import datetime
+from datetime import datetime, timezone, timedelta
 from typing import Dict, Any, List
 
 # Importar configuración
@@ -41,6 +41,11 @@ def fetch_cuescore_data() -> Dict[str, Any]:
         headers = REQUEST_HEADERS
         
         print(f"Descargando datos de: {url}")
+        
+        # Rate limiting: esperar 2 segundos entre peticiones
+        import time
+        time.sleep(2)
+        
         response = requests.get(url, headers=headers, timeout=30)
         response.raise_for_status()
         
@@ -63,12 +68,26 @@ def merge_tournament_data(cuescore_data: Dict[str, Any], existing_data: Dict[str
         print("No hay datos existentes para fusionar")
         return cuescore_data
     
+    # Extraer fechas del torneo desde la API de Cuescore
+    tournament_start = cuescore_data.get("starttime", "")
+    tournament_end = cuescore_data.get("stoptime", "")
+    tournament_display_date = cuescore_data.get("displayDate", "")
+    
+    print(f"Fechas del torneo desde Cuescore:")
+    print(f"  Inicio: {tournament_start}")
+    print(f"  Fin: {tournament_end}")
+    print(f"  Fecha mostrada: {tournament_display_date}")
+    
     # Crear nueva estructura fusionada
     merged_data = {
-        "tournament": cuescore_data.get("tournament", {}),
+        "tournament_info": existing_data.get("tournament_info", {}),
+        "summary": existing_data.get("summary", {}),
         "players": existing_data.get("players", {}),  # Mantener datos AGP
         "matches": cuescore_data.get("matches", []),  # Actualizar partidas
-        "last_updated": datetime.now().isoformat(),
+        "last_updated": datetime.now(timezone(timedelta(hours=1))).isoformat(),
+        "tournament_start_date": tournament_start,
+        "tournament_end_date": tournament_end,
+        "tournament_display_date": tournament_display_date,
         "source": "cuescore_agp_merged"
     }
     
@@ -110,6 +129,33 @@ def save_merged_data(data: Dict[str, Any]):
     except Exception as e:
         print(f"Error al guardar datos: {e}")
 
+def is_tournament_finished(tournament_end_date: str) -> bool:
+    """Verifica si el torneo ha terminado usando la fecha de la API"""
+    try:
+        if not tournament_end_date:
+            print("No hay fecha de finalización disponible")
+            return False
+        
+        # Parsear la fecha de finalización del torneo
+        end_date = datetime.fromisoformat(tournament_end_date.replace('Z', '+00:00'))
+        
+        # Obtener fecha y hora actual en UTC
+        now = datetime.now(timezone.utc)
+        
+        # Convertir la fecha de finalización a UTC si no lo está
+        if end_date.tzinfo is None:
+            # Asumir que está en zona horaria de Madrid (+01:00/+02:00)
+            # Esto es una aproximación, sería mejor obtener la zona horaria real
+            end_date = end_date.replace(tzinfo=timezone(timedelta(hours=1)))
+        
+        finished = now > end_date
+        print(f"Torneo terminado: {finished} (Ahora: {now}, Fin: {end_date})")
+        return finished
+        
+    except Exception as e:
+        print(f"Error al verificar fecha del torneo: {e}")
+        return False
+
 def main():
     """Función principal"""
     print(f"Iniciando actualización del torneo: {datetime.now()}")
@@ -131,6 +177,13 @@ def main():
     
     # Fusionar datos
     merged_data = merge_tournament_data(cuescore_data, existing_data)
+    
+    # Verificar si el torneo ha terminado usando la fecha de la API
+    tournament_end_date = merged_data.get("tournament_end_date", "")
+    if is_tournament_finished(tournament_end_date):
+        print("🏁 El torneo ha terminado según la fecha de la API.")
+        print("📊 Los datos finales se mantienen disponibles para consulta.")
+        # Aún guardamos los datos para tener la información completa
     
     # Guardar datos fusionados
     save_merged_data(merged_data)

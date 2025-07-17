@@ -9,6 +9,10 @@ class TournamentRefresher {
     this.isUpdating = false;
     this.updateInterval = null;
     this.checkInterval = 30000; // 30 segundos
+    this.lastManualUpdate = 0; // Timestamp de última actualización manual
+    this.minUpdateInterval = 30000; // 30 segundos mínimo entre actualizaciones manuales
+    this.tournamentStartDate = null; // Se cargará desde el JSON
+    this.tournamentEndDate = null; // Se cargará desde el JSON
     this.init();
   }
 
@@ -33,9 +37,14 @@ class TournamentRefresher {
           </button>
         </div>
         <div class="refresh-indicator" id="refreshIndicator"></div>
+        <div class="refresh-counter" id="refreshCounter" style="display: none;"></div>
+        <div class="tournament-status" id="tournamentStatus"></div>
       `;
 
       header.appendChild(refreshStatus);
+
+      // Verificar estado del torneo
+      this.checkTournamentStatus();
     }
   }
 
@@ -52,7 +61,8 @@ class TournamentRefresher {
       this.checkForUpdates();
     }, this.checkInterval);
 
-    // Verificación inicial
+    // Verificación inicial y carga del timestamp
+    this.initializeTimestamp();
     this.checkForUpdates();
   }
 
@@ -82,6 +92,21 @@ class TournamentRefresher {
   async manualRefresh() {
     if (this.isUpdating) return;
 
+    // Protección contra spam de clics
+    const now = Date.now();
+    const timeSinceLastUpdate = now - this.lastManualUpdate;
+
+    if (timeSinceLastUpdate < this.minUpdateInterval) {
+      const remainingTime = Math.ceil(
+        (this.minUpdateInterval - timeSinceLastUpdate) / 1000
+      );
+      this.showError(
+        `Espera ${remainingTime} segundos antes de actualizar de nuevo`
+      );
+      return;
+    }
+
+    this.lastManualUpdate = now;
     this.showLoadingState();
     await this.refreshData();
     this.hideLoadingState();
@@ -194,11 +219,38 @@ class TournamentRefresher {
     }
   }
 
+  async initializeTimestamp() {
+    try {
+      const response = await fetch("data/tournament_extended.json", {
+        cache: "no-cache",
+      });
+
+      if (response.ok) {
+        const data = await response.json();
+        this.updateLastRefresh(data.last_updated);
+      }
+    } catch (error) {
+      console.log("Error al cargar timestamp inicial:", error);
+    }
+  }
+
   updateLastRefresh(timestamp) {
     const lastUpdate = document.getElementById("lastUpdate");
     if (lastUpdate && timestamp) {
       const date = new Date(timestamp);
-      lastUpdate.textContent = date.toLocaleString("es-ES");
+      // Formato español: DD/MM/YYYY, HH:MM:SS
+      const options = {
+        year: "numeric",
+        month: "2-digit",
+        day: "2-digit",
+        hour: "2-digit",
+        minute: "2-digit",
+        second: "2-digit",
+        timeZone: "Europe/Madrid",
+      };
+      lastUpdate.textContent = date.toLocaleString("es-ES", options);
+    } else if (lastUpdate) {
+      lastUpdate.textContent = "Nunca";
     }
   }
 
@@ -230,6 +282,128 @@ class TournamentRefresher {
         notification.parentNode.removeChild(notification);
       }
     }, 5000);
+  }
+
+  async checkTournamentStatus() {
+    const tournamentStatus = document.getElementById("tournamentStatus");
+    const refreshBtn = document.getElementById("refreshBtn");
+
+    if (!tournamentStatus) return;
+
+    // Cargar fechas del torneo desde el JSON
+    if (!this.tournamentStartDate || !this.tournamentEndDate) {
+      try {
+        const response = await fetch("data/tournament_extended.json", {
+          cache: "no-cache",
+        });
+        if (response.ok) {
+          const data = await response.json();
+          // Usar fechas del torneo desde la API de Cuescore
+          if (data.tournament_start_date) {
+            this.tournamentStartDate = new Date(data.tournament_start_date);
+            console.log(
+              "Fecha de inicio del torneo:",
+              data.tournament_start_date
+            );
+          }
+          if (data.tournament_end_date) {
+            this.tournamentEndDate = new Date(data.tournament_end_date);
+            console.log(
+              "Fecha de finalización del torneo:",
+              data.tournament_end_date
+            );
+          }
+
+          if (!this.tournamentStartDate || !this.tournamentEndDate) {
+            console.log("No hay fechas disponibles en los datos");
+            return;
+          }
+        }
+      } catch (error) {
+        console.log("Error al cargar configuración del torneo:", error);
+        return;
+      }
+    }
+
+    if (!this.tournamentStartDate || !this.tournamentEndDate) return;
+
+    const now = new Date();
+    const timeUntilStart = this.tournamentStartDate - now;
+    const timeUntilEnd = this.tournamentEndDate - now;
+
+    if (timeUntilEnd <= 0) {
+      // Torneo finalizado
+      tournamentStatus.innerHTML = `
+        <div class="tournament-finished">
+          🏁 <strong>Torneo Finalizado</strong> - Los datos se mantienen para consulta
+        </div>
+      `;
+      tournamentStatus.className = "tournament-status finished";
+
+      // Deshabilitar botón de actualización
+      if (refreshBtn) {
+        refreshBtn.disabled = true;
+        refreshBtn.title =
+          "El torneo ha finalizado. No se pueden actualizar más datos.";
+        refreshBtn.innerHTML =
+          '<span class="refresh-icon">🏁</span> Finalizado';
+      }
+
+      // Detener verificaciones automáticas
+      if (this.updateInterval) {
+        clearInterval(this.updateInterval);
+      }
+    } else if (timeUntilStart > 0) {
+      // Torneo aún no ha empezado
+      const daysUntilStart = Math.floor(timeUntilStart / (1000 * 60 * 60 * 24));
+      const hoursUntilStart = Math.floor(
+        (timeUntilStart % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60)
+      );
+
+      if (daysUntilStart > 0) {
+        tournamentStatus.innerHTML = `
+          <div class="tournament-upcoming">
+            📅 <strong>Torneo Próximo</strong> - Empieza en ${daysUntilStart} día${
+          daysUntilStart > 1 ? "s" : ""
+        }
+          </div>
+        `;
+      } else {
+        tournamentStatus.innerHTML = `
+          <div class="tournament-upcoming">
+            📅 <strong>Torneo Próximo</strong> - Empieza en ${hoursUntilStart} hora${
+          hoursUntilStart > 1 ? "s" : ""
+        }
+          </div>
+        `;
+      }
+      tournamentStatus.className = "tournament-status upcoming";
+    } else {
+      // Torneo en curso
+      const daysLeft = Math.floor(timeUntilEnd / (1000 * 60 * 60 * 24));
+      const hoursLeft = Math.floor(
+        (timeUntilEnd % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60)
+      );
+
+      if (daysLeft > 0) {
+        tournamentStatus.innerHTML = `
+          <div class="tournament-active">
+            🏆 <strong>Torneo en Curso</strong> - ${daysLeft} día${
+          daysLeft > 1 ? "s" : ""
+        } restante${daysLeft > 1 ? "s" : ""}
+          </div>
+        `;
+      } else {
+        tournamentStatus.innerHTML = `
+          <div class="tournament-active">
+            🏆 <strong>Torneo en Curso</strong> - ${hoursLeft} hora${
+          hoursLeft > 1 ? "s" : ""
+        } restante${hoursLeft > 1 ? "s" : ""}
+          </div>
+        `;
+      }
+      tournamentStatus.className = "tournament-status active";
+    }
   }
 
   destroy() {

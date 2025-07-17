@@ -28,6 +28,7 @@ jobs:
           python scripts/refresh_tournament.py
         env:
           CUESCORE_API_KEY: ${{ secrets.CUESCORE_API_KEY }}
+        timeout-minutes: 5
 
       - name: Check for changes
         id: changes
