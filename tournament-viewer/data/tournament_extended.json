@@ -2685,7 +2685,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -2729,7 +2729,7 @@
         "represents": []
       },
       "scoreA": 2,
-      "scoreB": 2,
+      "scoreB": 3,
       "raceTo": 4,
       "discipline": "8-Ball",
       "disciplineId": 2,
@@ -2785,7 +2785,7 @@
         "lagWinsB": 0
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [
         {
           "note": "frame start",
@@ -2858,6 +2858,22 @@
         {
           "note": "A breaking",
           "time": "2025-07-19T07:41:48.694Z"
+        },
+        {
+          "note": "B frame win",
+          "time": "2025-07-19T07:50:19.065Z"
+        },
+        {
+          "note": "frame end",
+          "time": "2025-07-19T07:50:19.065Z"
+        },
+        {
+          "note": "frame start",
+          "time": "2025-07-19T07:50:19.065Z"
+        },
+        {
+          "note": "B breaking",
+          "time": "2025-07-19T07:50:19.065Z"
         }
       ],
       "matchType": 0,
@@ -2923,7 +2939,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -2988,7 +3004,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -3053,7 +3069,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -3118,7 +3134,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -3183,7 +3199,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -3248,7 +3264,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -3313,7 +3329,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -3378,7 +3394,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -3443,7 +3459,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -3508,7 +3524,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -3573,7 +3589,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -3638,7 +3654,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -3703,7 +3719,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -3768,7 +3784,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -3833,7 +3849,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -3877,7 +3893,7 @@
         "represents": []
       },
       "scoreA": 2,
-      "scoreB": 2,
+      "scoreB": 3,
       "raceTo": 4,
       "discipline": "8-Ball",
       "disciplineId": 2,
@@ -3933,7 +3949,7 @@
         "lagWinsB": 1
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [
         {
           "note": "frame start",
@@ -4006,6 +4022,22 @@
         {
           "note": "B breaking",
           "time": "2025-07-19T07:39:12.034Z"
+        },
+        {
+          "note": "B frame win",
+          "time": "2025-07-19T07:47:05.608Z"
+        },
+        {
+          "note": "frame end",
+          "time": "2025-07-19T07:47:05.608Z"
+        },
+        {
+          "note": "frame start",
+          "time": "2025-07-19T07:47:05.608Z"
+        },
+        {
+          "note": "A breaking",
+          "time": "2025-07-19T07:47:05.608Z"
         }
       ],
       "matchType": 0,
@@ -4071,7 +4103,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -4136,7 +4168,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -4201,7 +4233,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -4266,7 +4298,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -4331,7 +4363,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -4396,7 +4428,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -4461,7 +4493,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -4526,7 +4558,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -4591,7 +4623,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -4656,7 +4688,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -4721,7 +4753,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -4786,7 +4818,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -4886,7 +4918,7 @@
         "lagWinsB": 0
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [
         {
           "note": "frame start",
@@ -5052,7 +5084,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -5117,7 +5149,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -5160,8 +5192,8 @@
         },
         "represents": []
       },
-      "scoreA": 3,
-      "scoreB": 1,
+      "scoreA": 4,
+      "scoreB": 2,
       "raceTo": 4,
       "discipline": "8-Ball",
       "disciplineId": 2,
@@ -5203,10 +5235,10 @@
       },
       "tournamentId": 63505243,
       "challengeId": 0,
-      "starttime": "2025-07-19T08:36:53",
-      "stoptime": "",
-      "matchstatus": "playing",
-      "matchstatusCode": 1,
+      "starttime": "2025-07-19T08:36:00",
+      "stoptime": "2025-07-19T09:53:00",
+      "matchstatus": "finished",
+      "matchstatusCode": 2,
       "bestOfSets": 0,
       "useInnings": false,
       "frames": [],
@@ -5214,10 +5246,11 @@
         "runoutsA": 0,
         "runoutsB": 0,
         "lagWinsA": 1,
-        "lagWinsB": 0
+        "lagWinsB": 0,
+        "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [
         {
           "note": "frame start",
@@ -5290,6 +5323,38 @@
         {
           "note": "A breaking",
           "time": "2025-07-19T07:43:20.934Z"
+        },
+        {
+          "note": "B frame win",
+          "time": "2025-07-19T07:46:25.051Z"
+        },
+        {
+          "note": "frame end",
+          "time": "2025-07-19T07:46:25.051Z"
+        },
+        {
+          "note": "frame start",
+          "time": "2025-07-19T07:46:25.051Z"
+        },
+        {
+          "note": "B breaking",
+          "time": "2025-07-19T07:46:25.051Z"
+        },
+        {
+          "note": "A frame win",
+          "time": "2025-07-19T07:52:45.275Z"
+        },
+        {
+          "note": "frame end",
+          "time": "2025-07-19T07:52:45.275Z"
+        },
+        {
+          "note": "A frame win",
+          "time": "2025-07-19T07:52:54.491Z"
+        },
+        {
+          "note": "frame end",
+          "time": "2025-07-19T07:52:54.491Z"
         }
       ],
       "matchType": 0,
@@ -5355,7 +5420,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -5420,7 +5485,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -5485,7 +5550,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -5550,7 +5615,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -5615,7 +5680,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -5680,7 +5745,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -5745,7 +5810,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -5810,7 +5875,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -5875,7 +5940,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -5940,7 +6005,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -6005,7 +6070,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -6070,7 +6135,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -6114,7 +6179,7 @@
         "represents": []
       },
       "scoreA": 2,
-      "scoreB": 2,
+      "scoreB": 3,
       "raceTo": 4,
       "discipline": "8-Ball",
       "disciplineId": 2,
@@ -6170,7 +6235,7 @@
         "lagWinsB": 0
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [
         {
           "note": "frame start",
@@ -6243,6 +6308,22 @@
         {
           "note": "A breaking",
           "time": "2025-07-19T07:38:38.781Z"
+        },
+        {
+          "note": "B frame win",
+          "time": "2025-07-19T07:51:33.268Z"
+        },
+        {
+          "note": "frame end",
+          "time": "2025-07-19T07:51:33.268Z"
+        },
+        {
+          "note": "frame start",
+          "time": "2025-07-19T07:51:33.268Z"
+        },
+        {
+          "note": "B breaking",
+          "time": "2025-07-19T07:51:33.268Z"
         }
       ],
       "matchType": 0,
@@ -6308,7 +6389,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -6373,7 +6454,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -6438,7 +6519,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -6503,7 +6584,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -6568,7 +6649,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -6633,7 +6714,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -6698,7 +6779,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -6763,7 +6844,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -6828,7 +6909,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -6893,7 +6974,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -6958,7 +7039,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -7023,7 +7104,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -7088,7 +7169,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -7153,7 +7234,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -7218,7 +7299,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -7261,7 +7342,7 @@
         },
         "represents": []
       },
-      "scoreA": 3,
+      "scoreA": 4,
       "scoreB": 3,
       "raceTo": 4,
       "discipline": "8-Ball",
@@ -7305,9 +7386,9 @@
       "tournamentId": 63505243,
       "challengeId": 0,
       "starttime": "2025-07-19T08:36:56",
-      "stoptime": "",
-      "matchstatus": "playing",
-      "matchstatusCode": 1,
+      "stoptime": "2025-07-19T09:47:19",
+      "matchstatus": "finished",
+      "matchstatusCode": 2,
       "bestOfSets": 0,
       "useInnings": false,
       "frames": [],
@@ -7318,7 +7399,7 @@
         "lagWinsB": 1
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [
         {
           "note": "frame start",
@@ -7423,6 +7504,18 @@
         {
           "note": "B breaking",
           "time": "2025-07-19T07:38:52.441Z"
+        },
+        {
+          "note": "A frame win",
+          "time": "2025-07-19T07:47:15.335Z"
+        },
+        {
+          "note": "frame end",
+          "time": "2025-07-19T07:47:15.335Z"
+        },
+        {
+          "note": "match end",
+          "time": "2025-07-19T07:47:17.441Z"
         }
       ],
       "matchType": 0,
@@ -7488,7 +7581,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -7553,7 +7646,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -7652,7 +7745,7 @@
         }
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [
         {
           "note": "frame start",
@@ -7794,7 +7887,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -7859,7 +7952,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -7924,7 +8017,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -7989,7 +8082,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -8054,7 +8147,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -8119,7 +8212,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -8184,7 +8277,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -8249,7 +8342,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -8314,7 +8407,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -8379,7 +8472,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -8444,7 +8537,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -8509,7 +8602,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -8574,7 +8667,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -8639,7 +8732,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -8704,7 +8797,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -8804,7 +8897,7 @@
         "lagWinsB": 1
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [
         {
           "note": "frame start",
@@ -8970,7 +9063,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -9035,7 +9128,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -9100,7 +9193,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -9165,7 +9258,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -9230,7 +9323,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -9295,7 +9388,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -9360,7 +9453,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -9425,7 +9518,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -9490,7 +9583,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -9555,7 +9648,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -9620,7 +9713,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -9685,7 +9778,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -9728,8 +9821,8 @@
         },
         "represents": []
       },
-      "scoreA": 1,
-      "scoreB": 2,
+      "scoreA": 2,
+      "scoreB": 3,
       "raceTo": 4,
       "discipline": "8-Ball",
       "disciplineId": 2,
@@ -9740,7 +9833,7 @@
       "inningsPlayerB": 0,
       "highBreaksA": "",
       "highBreaksB": "",
-      "runoutsA": 0,
+      "runoutsA": 1,
       "runoutsB": 0,
       "lagWinner": "A",
       "table": {
@@ -9779,13 +9872,13 @@
       "useInnings": false,
       "frames": [],
       "properties": {
-        "runoutsA": 0,
+        "runoutsA": 1,
         "runoutsB": 0,
         "lagWinsA": 1,
         "lagWinsB": 0
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [
         {
           "note": "frame start",
@@ -9842,6 +9935,38 @@
         {
           "note": "B breaking",
           "time": "2025-07-19T07:34:20.407Z"
+        },
+        {
+          "note": "B frame win",
+          "time": "2025-07-19T07:48:58.622Z"
+        },
+        {
+          "note": "frame end",
+          "time": "2025-07-19T07:48:58.622Z"
+        },
+        {
+          "note": "frame start",
+          "time": "2025-07-19T07:48:58.622Z"
+        },
+        {
+          "note": "A breaking",
+          "time": "2025-07-19T07:48:58.622Z"
+        },
+        {
+          "note": "A frame win runout",
+          "time": "2025-07-19T07:52:45.070Z"
+        },
+        {
+          "note": "frame end",
+          "time": "2025-07-19T07:52:45.070Z"
+        },
+        {
+          "note": "frame start",
+          "time": "2025-07-19T07:52:45.070Z"
+        },
+        {
+          "note": "B breaking",
+          "time": "2025-07-19T07:52:45.070Z"
         }
       ],
       "matchType": 0,
@@ -9907,7 +10032,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -9972,7 +10097,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -10016,7 +10141,7 @@
         "represents": []
       },
       "scoreA": 1,
-      "scoreB": 3,
+      "scoreB": 4,
       "raceTo": 4,
       "discipline": "8-Ball",
       "disciplineId": 2,
@@ -10059,9 +10184,9 @@
       "tournamentId": 63505243,
       "challengeId": 0,
       "starttime": "2025-07-19T08:36:59",
-      "stoptime": "",
-      "matchstatus": "playing",
-      "matchstatusCode": 1,
+      "stoptime": "2025-07-19T09:51:18",
+      "matchstatus": "finished",
+      "matchstatusCode": 2,
       "bestOfSets": 0,
       "useInnings": false,
       "frames": [],
@@ -10072,7 +10197,7 @@
         "lagWinsB": 0
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [
         {
           "note": "frame start",
@@ -10145,6 +10270,18 @@
         {
           "note": "A breaking",
           "time": "2025-07-19T07:37:44.298Z"
+        },
+        {
+          "note": "B frame win",
+          "time": "2025-07-19T07:51:14.527Z"
+        },
+        {
+          "note": "frame end",
+          "time": "2025-07-19T07:51:14.527Z"
+        },
+        {
+          "note": "match end",
+          "time": "2025-07-19T07:51:16.191Z"
         }
       ],
       "matchType": 0,
@@ -10210,7 +10347,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -10275,7 +10412,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -10340,7 +10477,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -10405,7 +10542,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -10470,7 +10607,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -10535,7 +10672,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -10600,7 +10737,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -10665,7 +10802,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -10730,7 +10867,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -10795,7 +10932,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -10860,7 +10997,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -10925,7 +11062,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -10968,7 +11105,7 @@
         },
         "represents": []
       },
-      "scoreA": 1,
+      "scoreA": 3,
       "scoreB": 1,
       "raceTo": 4,
       "discipline": "8-Ball",
@@ -11025,7 +11162,7 @@
         "lagWinsB": 1
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [
         {
           "note": "frame start",
@@ -11066,6 +11203,38 @@
         {
           "note": "B breaking",
           "time": "2025-07-19T07:34:12.106Z"
+        },
+        {
+          "note": "A frame win",
+          "time": "2025-07-19T07:47:02.963Z"
+        },
+        {
+          "note": "frame end",
+          "time": "2025-07-19T07:47:02.963Z"
+        },
+        {
+          "note": "frame start",
+          "time": "2025-07-19T07:47:02.963Z"
+        },
+        {
+          "note": "A breaking",
+          "time": "2025-07-19T07:47:02.963Z"
+        },
+        {
+          "note": "A frame win",
+          "time": "2025-07-19T07:53:24.967Z"
+        },
+        {
+          "note": "frame end",
+          "time": "2025-07-19T07:53:24.967Z"
+        },
+        {
+          "note": "frame start",
+          "time": "2025-07-19T07:53:24.967Z"
+        },
+        {
+          "note": "B breaking",
+          "time": "2025-07-19T07:53:24.967Z"
         }
       ],
       "matchType": 0,
@@ -11131,7 +11300,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -11196,7 +11365,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -11261,7 +11430,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -11326,7 +11495,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -11391,7 +11560,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -11456,7 +11625,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -11521,7 +11690,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -11586,7 +11755,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -11651,7 +11820,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -11716,7 +11885,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -11781,7 +11950,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -11846,7 +12015,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -11911,7 +12080,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -11976,7 +12145,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -12041,7 +12210,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -12141,7 +12310,7 @@
         "lagWinsB": 1
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [
         {
           "note": "frame start",
@@ -12275,7 +12444,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -12342,7 +12511,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -12443,7 +12612,7 @@
         "lagWinsB": 0
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [
         {
           "note": "frame start",
@@ -12571,7 +12740,7 @@
         },
         "represents": []
       },
-      "scoreA": 2,
+      "scoreA": 3,
       "scoreB": 2,
       "raceTo": 4,
       "discipline": "8-Ball",
@@ -12629,7 +12798,7 @@
         "lagWinsB": 1
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [
         {
           "note": "frame start",
@@ -12702,6 +12871,22 @@
         {
           "note": "B breaking",
           "time": "2025-07-19T07:42:45.053Z"
+        },
+        {
+          "note": "A frame win",
+          "time": "2025-07-19T07:52:15.899Z"
+        },
+        {
+          "note": "frame end",
+          "time": "2025-07-19T07:52:15.899Z"
+        },
+        {
+          "note": "frame start",
+          "time": "2025-07-19T07:52:15.899Z"
+        },
+        {
+          "note": "A breaking",
+          "time": "2025-07-19T07:52:15.899Z"
         }
       ],
       "matchType": 0,
@@ -12803,7 +12988,7 @@
         "lagWinsB": 0
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [
         {
           "note": "frame start",
@@ -12977,7 +13162,7 @@
         "lagWinsB": 1
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [
         {
           "note": "frame start",
@@ -13182,7 +13367,7 @@
         "lagWinsB": 0
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [
         {
           "note": "frame start",
@@ -13295,7 +13480,7 @@
         "represents": []
       },
       "scoreA": 2,
-      "scoreB": 2,
+      "scoreB": 3,
       "raceTo": 4,
       "discipline": "8-Ball",
       "disciplineId": 2,
@@ -13352,7 +13537,7 @@
         "lagWinsB": 0
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [
         {
           "note": "frame start",
@@ -13425,6 +13610,22 @@
         {
           "note": "A breaking",
           "time": "2025-07-19T07:43:41.234Z"
+        },
+        {
+          "note": "B frame win",
+          "time": "2025-07-19T07:53:30.046Z"
+        },
+        {
+          "note": "frame end",
+          "time": "2025-07-19T07:53:30.046Z"
+        },
+        {
+          "note": "frame start",
+          "time": "2025-07-19T07:53:30.046Z"
+        },
+        {
+          "note": "B breaking",
+          "time": "2025-07-19T07:53:30.046Z"
         }
       ],
       "matchType": 0,
@@ -13469,7 +13670,7 @@
         "represents": []
       },
       "scoreA": 2,
-      "scoreB": 1,
+      "scoreB": 2,
       "raceTo": 4,
       "discipline": "8-Ball",
       "disciplineId": 2,
@@ -13526,7 +13727,7 @@
         "lagWinsB": 1
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [
         {
           "note": "frame start",
@@ -13583,6 +13784,22 @@
         {
           "note": "A breaking",
           "time": "2025-07-19T07:39:14.903Z"
+        },
+        {
+          "note": "B frame win",
+          "time": "2025-07-19T07:50:14.953Z"
+        },
+        {
+          "note": "frame end",
+          "time": "2025-07-19T07:50:14.953Z"
+        },
+        {
+          "note": "frame start",
+          "time": "2025-07-19T07:50:14.953Z"
+        },
+        {
+          "note": "B breaking",
+          "time": "2025-07-19T07:50:14.953Z"
         }
       ],
       "matchType": 0,
@@ -13650,7 +13867,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -13694,7 +13911,7 @@
         "represents": []
       },
       "scoreA": 3,
-      "scoreB": 3,
+      "scoreB": 4,
       "raceTo": 4,
       "discipline": "8-Ball",
       "disciplineId": 2,
@@ -13737,9 +13954,9 @@
       "tournamentId": 63505243,
       "challengeId": 0,
       "starttime": "2025-07-19T08:38:01",
-      "stoptime": "",
-      "matchstatus": "playing",
-      "matchstatusCode": 1,
+      "stoptime": "2025-07-19T09:49:43",
+      "matchstatus": "finished",
+      "matchstatusCode": 2,
       "bestOfSets": 0,
       "useInnings": false,
       "frames": [],
@@ -13751,7 +13968,7 @@
         "lagWinsB": 0
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [
         {
           "note": "frame start",
@@ -13856,6 +14073,18 @@
         {
           "note": "A breaking",
           "time": "2025-07-19T07:43:54.247Z"
+        },
+        {
+          "note": "B frame win",
+          "time": "2025-07-19T07:49:40.075Z"
+        },
+        {
+          "note": "frame end",
+          "time": "2025-07-19T07:49:40.075Z"
+        },
+        {
+          "note": "match end",
+          "time": "2025-07-19T07:49:41.740Z"
         }
       ],
       "matchType": 0,
@@ -13957,7 +14186,7 @@
         "lagWinsB": 1
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [
         {
           "note": "frame start",
@@ -14127,7 +14356,7 @@
         "lagWinsB": 0
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [
         {
           "note": "frame start",
@@ -14301,7 +14530,7 @@
       "highBreaksB": "",
       "runoutsA": 0,
       "runoutsB": 0,
-      "lagWinner": "",
+      "lagWinner": "B",
       "table": {
         "tableId": 63160633,
         "name": "25",
@@ -14338,11 +14567,24 @@
       "useInnings": false,
       "frames": [],
       "properties": {
-        "penalty": []
+        "penalty": [],
+        "runoutsA": 0,
+        "runoutsB": 0,
+        "lagWinsA": 0,
+        "lagWinsB": 1
       },
       "sets": [],
-      "curVersion": 444,
-      "notes": [],
+      "curVersion": 472,
+      "notes": [
+        {
+          "note": "frame start",
+          "time": "2025-07-19T07:46:17.387Z"
+        },
+        {
+          "note": "B breaking",
+          "time": "2025-07-19T07:46:17.387Z"
+        }
+      ],
       "matchType": 0,
       "videoLink": "",
       "comment": "",
@@ -14438,7 +14680,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -14535,7 +14777,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -14632,7 +14874,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -14661,13 +14903,18 @@
         "represents": []
       },
       "playerB": {
-        "playerId": 0,
-        "name": "Winner of #34",
-        "firstname": "",
-        "lastname": "",
-        "url": "",
-        "image": "",
-        "country": [],
+        "playerId": 31063915,
+        "name": "Leonardo Estigarribia Torres",
+        "firstname": "Leonardo",
+        "lastname": "Estigarribia Torres",
+        "url": "https://cuescore.com/player/Leonardo+Estigarribia+Torres/31063915",
+        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+        "country": {
+          "name": "Spain",
+          "alpha3": "ESP",
+          "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+          "continent": "Europe"
+        },
         "represents": []
       },
       "scoreA": 0,
@@ -14699,7 +14946,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -14756,7 +15003,7 @@
       "highBreaksB": "",
       "runoutsA": 0,
       "runoutsB": 0,
-      "lagWinner": "",
+      "lagWinner": "B",
       "table": {
         "tableId": 63160636,
         "name": "26",
@@ -14793,11 +15040,24 @@
       "useInnings": false,
       "frames": [],
       "properties": {
-        "penalty": []
+        "penalty": [],
+        "runoutsA": 0,
+        "runoutsB": 0,
+        "lagWinsA": 0,
+        "lagWinsB": 1
       },
       "sets": [],
-      "curVersion": 444,
-      "notes": [],
+      "curVersion": 472,
+      "notes": [
+        {
+          "note": "frame start",
+          "time": "2025-07-19T07:49:30.107Z"
+        },
+        {
+          "note": "B breaking",
+          "time": "2025-07-19T07:49:30.107Z"
+        }
+      ],
       "matchType": 0,
       "videoLink": "",
       "comment": "",
@@ -14853,7 +15113,7 @@
       "highBreaksB": "",
       "runoutsA": 0,
       "runoutsB": 0,
-      "lagWinner": "",
+      "lagWinner": "B",
       "table": {
         "tableId": 63160648,
         "name": "30",
@@ -14890,11 +15150,24 @@
       "useInnings": false,
       "frames": [],
       "properties": {
-        "penalty": []
+        "penalty": [],
+        "runoutsA": 0,
+        "runoutsB": 0,
+        "lagWinsA": 0,
+        "lagWinsB": 1
       },
       "sets": [],
-      "curVersion": 444,
-      "notes": [],
+      "curVersion": 472,
+      "notes": [
+        {
+          "note": "frame start",
+          "time": "2025-07-19T07:51:38.248Z"
+        },
+        {
+          "note": "B breaking",
+          "time": "2025-07-19T07:51:38.248Z"
+        }
+      ],
       "matchType": 0,
       "videoLink": "",
       "comment": "",
@@ -14990,7 +15263,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -15047,7 +15320,7 @@
       "highBreaksB": "",
       "runoutsA": 0,
       "runoutsB": 0,
-      "lagWinner": "",
+      "lagWinner": "A",
       "table": {
         "tableId": 63160675,
         "name": "39",
@@ -15084,11 +15357,24 @@
       "useInnings": false,
       "frames": [],
       "properties": {
-        "penalty": []
+        "penalty": [],
+        "runoutsA": 0,
+        "runoutsB": 0,
+        "lagWinsA": 1,
+        "lagWinsB": 0
       },
       "sets": [],
-      "curVersion": 444,
-      "notes": [],
+      "curVersion": 472,
+      "notes": [
+        {
+          "note": "frame start",
+          "time": "2025-07-19T07:52:52.049Z"
+        },
+        {
+          "note": "A breaking",
+          "time": "2025-07-19T07:52:52.049Z"
+        }
+      ],
       "matchType": 0,
       "videoLink": "",
       "comment": "",
@@ -15144,7 +15430,7 @@
       "highBreaksB": "",
       "runoutsA": 0,
       "runoutsB": 0,
-      "lagWinner": "",
+      "lagWinner": "B",
       "table": {
         "tableId": 63160660,
         "name": "34",
@@ -15181,11 +15467,24 @@
       "useInnings": false,
       "frames": [],
       "properties": {
-        "penalty": []
+        "penalty": [],
+        "runoutsA": 0,
+        "runoutsB": 0,
+        "lagWinsA": 0,
+        "lagWinsB": 1
       },
       "sets": [],
-      "curVersion": 444,
-      "notes": [],
+      "curVersion": 472,
+      "notes": [
+        {
+          "note": "frame start",
+          "time": "2025-07-19T07:51:11.235Z"
+        },
+        {
+          "note": "B breaking",
+          "time": "2025-07-19T07:51:11.235Z"
+        }
+      ],
       "matchType": 0,
       "videoLink": "",
       "comment": "",
@@ -15242,13 +15541,38 @@
       "runoutsA": 0,
       "runoutsB": 0,
       "lagWinner": "",
-      "table": [],
+      "table": {
+        "tableId": 63160630,
+        "name": "24",
+        "manufacturer": "Valley",
+        "model": "Cougar",
+        "branch": "American pool",
+        "branchId": 1,
+        "size": 7,
+        "cloth": "",
+        "pockets": "",
+        "slate": "",
+        "description": "",
+        "venue": {
+          "venueId": 63160390,
+          "name": "Lalín Arena",
+          "url": "https://cuescore.com/venue/Lal%C3%ADn+Arena/63160390",
+          "owner": {
+            "organizationId": 7089486,
+            "stub": "AGP",
+            "name": "Asociación Gallega De Billar Pool",
+            "url": "https://cuescore.com/AGP",
+            "logo": "//img.cuescore.com/image/d/2/d7290c4d02563c4317e8785eee15d616.png",
+            "profileColor": ""
+          }
+        }
+      },
       "tournamentId": 63505243,
       "challengeId": 0,
-      "starttime": "2025-07-19T10:00:00",
+      "starttime": "2025-07-19T09:48:46",
       "stoptime": "",
-      "matchstatus": "waiting",
-      "matchstatusCode": 0,
+      "matchstatus": "playing",
+      "matchstatusCode": 1,
       "bestOfSets": 0,
       "useInnings": false,
       "frames": [],
@@ -15256,7 +15580,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -15323,7 +15647,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -15381,13 +15705,38 @@
       "runoutsA": 0,
       "runoutsB": 0,
       "lagWinner": "",
-      "table": [],
+      "table": {
+        "tableId": 63160672,
+        "name": "38",
+        "manufacturer": "Valley",
+        "model": "Cougar",
+        "branch": "American pool",
+        "branchId": 1,
+        "size": 7,
+        "cloth": "",
+        "pockets": "",
+        "slate": "",
+        "description": "",
+        "venue": {
+          "venueId": 63160390,
+          "name": "Lalín Arena",
+          "url": "https://cuescore.com/venue/Lal%C3%ADn+Arena/63160390",
+          "owner": {
+            "organizationId": 7089486,
+            "stub": "AGP",
+            "name": "Asociación Gallega De Billar Pool",
+            "url": "https://cuescore.com/AGP",
+            "logo": "//img.cuescore.com/image/d/2/d7290c4d02563c4317e8785eee15d616.png",
+            "profileColor": ""
+          }
+        }
+      },
       "tournamentId": 63505243,
       "challengeId": 0,
-      "starttime": "2025-07-19T10:00:00",
+      "starttime": "2025-07-19T09:50:16",
       "stoptime": "",
-      "matchstatus": "waiting",
-      "matchstatusCode": 0,
+      "matchstatus": "playing",
+      "matchstatusCode": 1,
       "bestOfSets": 0,
       "useInnings": false,
       "frames": [],
@@ -15395,7 +15744,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -15453,13 +15802,38 @@
       "runoutsA": 0,
       "runoutsB": 0,
       "lagWinner": "",
-      "table": [],
+      "table": {
+        "tableId": 63160642,
+        "name": "28",
+        "manufacturer": "Valley",
+        "model": "Cougar",
+        "branch": "American pool",
+        "branchId": 1,
+        "size": 7,
+        "cloth": "",
+        "pockets": "",
+        "slate": "",
+        "description": "",
+        "venue": {
+          "venueId": 63160390,
+          "name": "Lalín Arena",
+          "url": "https://cuescore.com/venue/Lal%C3%ADn+Arena/63160390",
+          "owner": {
+            "organizationId": 7089486,
+            "stub": "AGP",
+            "name": "Asociación Gallega De Billar Pool",
+            "url": "https://cuescore.com/AGP",
+            "logo": "//img.cuescore.com/image/d/2/d7290c4d02563c4317e8785eee15d616.png",
+            "profileColor": ""
+          }
+        }
+      },
       "tournamentId": 63505243,
       "challengeId": 0,
-      "starttime": "2025-07-19T10:00:00",
+      "starttime": "2025-07-19T09:52:06",
       "stoptime": "",
-      "matchstatus": "waiting",
-      "matchstatusCode": 0,
+      "matchstatus": "playing",
+      "matchstatusCode": 1,
       "bestOfSets": 0,
       "useInnings": false,
       "frames": [],
@@ -15467,7 +15841,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -15539,7 +15913,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -15611,7 +15985,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -15683,7 +16057,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -15755,7 +16129,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -15827,7 +16201,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -15841,13 +16215,18 @@
       "roundName": "Winner round 1",
       "round": 2,
       "playerA": {
-        "playerId": 0,
-        "name": "Winner of #63",
-        "firstname": "",
-        "lastname": "",
-        "url": "",
-        "image": "",
-        "country": [],
+        "playerId": 45137707,
+        "name": "Aakash Tufchi",
+        "firstname": "Aakash",
+        "lastname": "Tufchi",
+        "url": "https://cuescore.com/player/Aakash+Tufchi/45137707",
+        "image": "https://img.cuescore.com/image/7/4/712c9f01d56e67f24033e6520f5b01f1.png",
+        "country": {
+          "name": "India",
+          "alpha3": "IND",
+          "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/in.png",
+          "continent": "Asia"
+        },
         "represents": []
       },
       "playerB": {
@@ -15894,7 +16273,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -15966,7 +16345,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -16038,7 +16417,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -16110,7 +16489,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -16182,7 +16561,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -16254,7 +16633,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -16326,7 +16705,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -16398,7 +16777,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -16470,7 +16849,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -16542,7 +16921,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -16614,7 +16993,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -16686,7 +17065,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -16758,7 +17137,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -16830,7 +17209,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -16902,7 +17281,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -16974,7 +17353,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -17041,7 +17420,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -17070,13 +17449,18 @@
         "represents": []
       },
       "playerB": {
-        "playerId": 0,
-        "name": "Winner of #98",
-        "firstname": "",
-        "lastname": "",
-        "url": "",
-        "image": "",
-        "country": [],
+        "playerId": 24767740,
+        "name": "Juan Edilio Caba Almonte",
+        "firstname": "Juan Edilio",
+        "lastname": "Caba Almonte",
+        "url": "https://cuescore.com/player/Juan+Edilio+Caba+Almonte/24767740",
+        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+        "country": {
+          "name": "Spain",
+          "alpha3": "ESP",
+          "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+          "continent": "Europe"
+        },
         "represents": []
       },
       "scoreA": 0,
@@ -17108,7 +17492,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -17180,7 +17564,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -17252,7 +17636,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -17324,7 +17708,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -17396,7 +17780,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -17468,7 +17852,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -17540,7 +17924,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -17607,7 +17991,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -17679,7 +18063,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -17751,7 +18135,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -17823,7 +18207,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -17895,7 +18279,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -17967,7 +18351,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -18039,7 +18423,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -18111,7 +18495,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -18183,7 +18567,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -18245,7 +18629,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -18307,7 +18691,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -18369,7 +18753,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -18431,7 +18815,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -18493,7 +18877,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -18555,7 +18939,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -18617,7 +19001,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -18679,7 +19063,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -18741,7 +19125,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -18803,7 +19187,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -18865,7 +19249,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -18927,7 +19311,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -18989,7 +19373,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -19051,7 +19435,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -19113,7 +19497,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -19180,7 +19564,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -19204,13 +19588,18 @@
         "represents": []
       },
       "playerB": {
-        "playerId": 0,
-        "name": "Loser of #34",
-        "firstname": "",
-        "lastname": "",
-        "url": "",
-        "image": "",
-        "country": [],
+        "playerId": 45137881,
+        "name": "Jorge José Souto Pérez",
+        "firstname": "Jorge José",
+        "lastname": "Souto Pérez",
+        "url": "https://cuescore.com/player/Jorge+Jos%C3%A9+Souto+P%C3%A9rez/45137881",
+        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+        "country": {
+          "name": "Spain",
+          "alpha3": "ESP",
+          "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+          "continent": "Europe"
+        },
         "represents": []
       },
       "scoreA": 0,
@@ -19242,7 +19631,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -19304,7 +19693,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -19366,7 +19755,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -19428,7 +19817,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -19490,7 +19879,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -19552,7 +19941,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -19614,7 +20003,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -19676,7 +20065,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -19738,7 +20127,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -19800,7 +20189,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -19862,7 +20251,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -19924,7 +20313,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -19986,7 +20375,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -20048,7 +20437,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -20110,7 +20499,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -20124,13 +20513,18 @@
       "roundName": "Loser round 1",
       "round": -1,
       "playerA": {
-        "playerId": 0,
-        "name": "Loser of #63",
-        "firstname": "",
-        "lastname": "",
-        "url": "",
-        "image": "",
-        "country": [],
+        "playerId": 31112029,
+        "name": "Diego Prado Salgueiro (Kacho)",
+        "firstname": "Diego",
+        "lastname": "Prado Salgueiro (Kacho)",
+        "url": "https://cuescore.com/player/Diego+Prado+Salgueiro+%28Kacho%29/31112029",
+        "image": "https://img.cuescore.com/image/6/4/6a6846e4b2edac4ce139d31565c88630.png",
+        "country": {
+          "name": "Spain",
+          "alpha3": "ESP",
+          "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+          "continent": "Europe"
+        },
         "represents": []
       },
       "playerB": {
@@ -20172,7 +20566,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -20234,7 +20628,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -20296,7 +20690,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -20358,7 +20752,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -20420,7 +20814,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -20482,7 +20876,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -20544,7 +20938,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -20606,7 +21000,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -20668,7 +21062,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -20735,7 +21129,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -20797,7 +21191,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -20859,7 +21253,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -20921,7 +21315,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -20983,7 +21377,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -21045,7 +21439,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -21107,7 +21501,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -21169,7 +21563,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -21193,13 +21587,18 @@
         "represents": []
       },
       "playerB": {
-        "playerId": 0,
-        "name": "Loser of #98",
-        "firstname": "",
-        "lastname": "",
-        "url": "",
-        "image": "",
-        "country": [],
+        "playerId": 44653774,
+        "name": "Adrián Fuentes Castro",
+        "firstname": "Adrián",
+        "lastname": "Fuentes Castro",
+        "url": "https://cuescore.com/player/Adri%C3%A1n+Fuentes+Castro/44653774",
+        "image": "https://img.cuescore.com/image/6/4/65b040579bb8f4841036b71962d5d93e.png",
+        "country": {
+          "name": "Isle of Man",
+          "alpha3": "IMN",
+          "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/im.png",
+          "continent": "Europe"
+        },
         "represents": []
       },
       "scoreA": 0,
@@ -21231,7 +21630,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -21293,7 +21692,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -21355,7 +21754,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -21417,7 +21816,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -21479,7 +21878,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -21541,7 +21940,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -21603,7 +22002,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -21665,7 +22064,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -21727,7 +22126,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -21789,7 +22188,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -21851,7 +22250,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -21913,7 +22312,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -21975,7 +22374,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -22037,7 +22436,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -22099,7 +22498,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -22166,7 +22565,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -22228,7 +22627,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -22290,7 +22689,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -22352,7 +22751,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -22414,7 +22813,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -22476,7 +22875,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -22538,7 +22937,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -22600,7 +22999,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -22662,7 +23061,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -22724,7 +23123,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -22786,7 +23185,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -22848,7 +23247,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -22910,7 +23309,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -22972,7 +23371,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -23034,7 +23433,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -23096,7 +23495,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -23163,7 +23562,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -23177,13 +23576,18 @@
       "roundName": "Loser round 2",
       "round": -2,
       "playerA": {
-        "playerId": 0,
-        "name": "Winner of #209",
-        "firstname": "",
-        "lastname": "",
-        "url": "",
-        "image": "",
-        "country": [],
+        "playerId": 45137881,
+        "name": "Jorge José Souto Pérez",
+        "firstname": "Jorge José",
+        "lastname": "Souto Pérez",
+        "url": "https://cuescore.com/player/Jorge+Jos%C3%A9+Souto+P%C3%A9rez/45137881",
+        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+        "country": {
+          "name": "Spain",
+          "alpha3": "ESP",
+          "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+          "continent": "Europe"
+        },
         "represents": []
       },
       "playerB": {
@@ -23225,7 +23629,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -23287,7 +23691,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -23349,7 +23753,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -23411,7 +23815,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -23473,7 +23877,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -23535,7 +23939,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -23597,7 +24001,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -23659,7 +24063,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -23721,7 +24125,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -23783,7 +24187,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -23845,7 +24249,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -23907,7 +24311,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -23969,7 +24373,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -24031,7 +24435,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -24093,7 +24497,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -24107,13 +24511,18 @@
       "roundName": "Loser round 2",
       "round": -2,
       "playerA": {
-        "playerId": 0,
-        "name": "Winner of #224",
-        "firstname": "",
-        "lastname": "",
-        "url": "",
-        "image": "",
-        "country": [],
+        "playerId": 31112029,
+        "name": "Diego Prado Salgueiro (Kacho)",
+        "firstname": "Diego",
+        "lastname": "Prado Salgueiro (Kacho)",
+        "url": "https://cuescore.com/player/Diego+Prado+Salgueiro+%28Kacho%29/31112029",
+        "image": "https://img.cuescore.com/image/6/4/6a6846e4b2edac4ce139d31565c88630.png",
+        "country": {
+          "name": "Spain",
+          "alpha3": "ESP",
+          "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+          "continent": "Europe"
+        },
         "represents": []
       },
       "playerB": {
@@ -24155,7 +24564,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -24217,7 +24626,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -24279,7 +24688,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -24341,7 +24750,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -24403,7 +24812,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -24465,7 +24874,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -24527,7 +24936,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -24589,7 +24998,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -24651,7 +25060,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -24718,7 +25127,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -24780,7 +25189,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -24842,7 +25251,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -24904,7 +25313,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -24966,7 +25375,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -25028,7 +25437,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -25090,7 +25499,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -25152,7 +25561,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -25166,13 +25575,18 @@
       "roundName": "Loser round 2",
       "round": -2,
       "playerA": {
-        "playerId": 0,
-        "name": "Winner of #241",
-        "firstname": "",
-        "lastname": "",
-        "url": "",
-        "image": "",
-        "country": [],
+        "playerId": 44653774,
+        "name": "Adrián Fuentes Castro",
+        "firstname": "Adrián",
+        "lastname": "Fuentes Castro",
+        "url": "https://cuescore.com/player/Adri%C3%A1n+Fuentes+Castro/44653774",
+        "image": "https://img.cuescore.com/image/6/4/65b040579bb8f4841036b71962d5d93e.png",
+        "country": {
+          "name": "Isle of Man",
+          "alpha3": "IMN",
+          "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/im.png",
+          "continent": "Europe"
+        },
         "represents": []
       },
       "playerB": {
@@ -25214,7 +25628,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -25276,7 +25690,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -25338,7 +25752,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -25400,7 +25814,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -25467,7 +25881,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -25534,7 +25948,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -25558,13 +25972,18 @@
         "represents": []
       },
       "playerB": {
-        "playerId": 0,
-        "name": "Loser of #138",
-        "firstname": "",
-        "lastname": "",
-        "url": "",
-        "image": "",
-        "country": [],
+        "playerId": 10135060,
+        "name": "Diego Pérez Alonso",
+        "firstname": "Diego",
+        "lastname": "Pérez Alonso",
+        "url": "https://cuescore.com/player/Diego+P%C3%A9rez+Alonso/10135060",
+        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+        "country": {
+          "name": "Spain",
+          "alpha3": "ESP",
+          "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+          "continent": "Europe"
+        },
         "represents": []
       },
       "scoreA": 0,
@@ -25596,7 +26015,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -25658,7 +26077,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -25720,7 +26139,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -25782,7 +26201,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -25849,7 +26268,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -25916,7 +26335,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -25978,7 +26397,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -26040,7 +26459,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -26107,7 +26526,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -26174,7 +26593,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -26241,7 +26660,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -26301,7 +26720,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -26373,7 +26792,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -26433,7 +26852,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -26457,13 +26876,18 @@
         "represents": []
       },
       "playerB": {
-        "playerId": 0,
-        "name": "Winner of #138",
-        "firstname": "",
-        "lastname": "",
-        "url": "",
-        "image": "",
-        "country": [],
+        "playerId": 63523315,
+        "name": "Lucas Rodrigo Fernández Fernández",
+        "firstname": "Lucas Rodrigo",
+        "lastname": "Fernández Fernández",
+        "url": "https://cuescore.com/player/Lucas+Rodrigo+Fern%C3%A1ndez+Fern%C3%A1ndez/63523315",
+        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+        "country": {
+          "name": "Spain",
+          "alpha3": "ESP",
+          "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+          "continent": "Europe"
+        },
         "represents": []
       },
       "scoreA": 0,
@@ -26491,9 +26915,11 @@
       "bestOfSets": 0,
       "useInnings": false,
       "frames": [],
-      "properties": [],
+      "properties": {
+        "penalty": []
+      },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -26565,7 +26991,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -26625,7 +27051,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -26685,7 +27111,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -26745,7 +27171,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -26805,7 +27231,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -26865,7 +27291,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -26925,7 +27351,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -26985,7 +27411,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -27045,7 +27471,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -27105,7 +27531,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -27165,7 +27591,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -27225,7 +27651,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -27285,7 +27711,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -27345,7 +27771,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -27405,7 +27831,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -27465,7 +27891,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -27525,7 +27951,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -27585,7 +28011,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -27645,7 +28071,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -27705,7 +28131,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -27765,7 +28191,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -27825,7 +28251,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -27885,7 +28311,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -27945,7 +28371,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -28005,7 +28431,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -28065,7 +28491,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -28125,7 +28551,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -28187,7 +28613,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -28249,7 +28675,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -28311,7 +28737,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -28373,7 +28799,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -28435,7 +28861,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -28497,7 +28923,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -28559,7 +28985,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -28621,7 +29047,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -28683,7 +29109,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -28745,7 +29171,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -28807,7 +29233,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -28869,7 +29295,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -28931,7 +29357,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -28993,7 +29419,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -29055,7 +29481,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -29117,7 +29543,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -29179,7 +29605,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -29241,7 +29667,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -29303,7 +29729,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -29365,7 +29791,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -29427,7 +29853,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -29489,7 +29915,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -29551,7 +29977,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -29613,7 +30039,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -29675,7 +30101,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -29737,7 +30163,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -29809,7 +30235,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -29823,13 +30249,18 @@
       "roundName": "Loser round 3",
       "round": -3,
       "playerA": {
-        "playerId": 0,
-        "name": "Winner of #311",
-        "firstname": "",
-        "lastname": "",
-        "url": "",
-        "image": "",
-        "country": [],
+        "playerId": 10135060,
+        "name": "Diego Pérez Alonso",
+        "firstname": "Diego",
+        "lastname": "Pérez Alonso",
+        "url": "https://cuescore.com/player/Diego+P%C3%A9rez+Alonso/10135060",
+        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+        "country": {
+          "name": "Spain",
+          "alpha3": "ESP",
+          "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+          "continent": "Europe"
+        },
         "represents": []
       },
       "playerB": {
@@ -29871,7 +30302,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -29933,7 +30364,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -30005,7 +30436,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -30067,7 +30498,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -30134,7 +30565,7 @@
         "penalty": []
       },
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -30194,7 +30625,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -30254,7 +30685,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -30314,7 +30745,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -30374,7 +30805,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -30434,7 +30865,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -30494,7 +30925,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -30554,7 +30985,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -30614,7 +31045,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -30674,7 +31105,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -30734,7 +31165,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -30794,7 +31225,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -30854,7 +31285,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -30914,7 +31345,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -30974,7 +31405,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -31034,7 +31465,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -31094,7 +31525,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -31154,7 +31585,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -31214,7 +31645,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -31274,7 +31705,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -31334,7 +31765,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -31394,7 +31825,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -31454,7 +31885,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -31514,7 +31945,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -31574,7 +32005,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -31634,7 +32065,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -31694,7 +32125,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -31754,7 +32185,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -31814,7 +32245,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -31874,7 +32305,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -31934,7 +32365,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -31994,7 +32425,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -32054,7 +32485,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -32114,7 +32545,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -32174,7 +32605,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -32234,7 +32665,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -32294,7 +32725,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -32354,7 +32785,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -32414,7 +32845,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -32474,7 +32905,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -32534,7 +32965,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -32594,7 +33025,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -32654,7 +33085,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -32714,7 +33145,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -32774,7 +33205,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -32834,7 +33265,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -32894,7 +33325,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -32954,7 +33385,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -33014,7 +33445,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -33074,7 +33505,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -33134,7 +33565,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -33194,7 +33625,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -33254,7 +33685,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -33314,7 +33745,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -33374,7 +33805,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -33434,7 +33865,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -33494,7 +33925,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -33554,7 +33985,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -33614,7 +34045,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -33674,7 +34105,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -33734,7 +34165,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -33794,7 +34225,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -33854,7 +34285,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -33914,7 +34345,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -33974,7 +34405,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -34034,7 +34465,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -34094,7 +34525,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -34154,7 +34585,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -34214,7 +34645,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -34274,7 +34705,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -34334,7 +34765,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -34394,7 +34825,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -34454,7 +34885,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -34514,7 +34945,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -34574,7 +35005,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -34634,7 +35065,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -34694,7 +35125,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -34754,7 +35185,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -34814,7 +35245,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -34874,7 +35305,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -34934,7 +35365,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -34994,7 +35425,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -35054,7 +35485,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -35114,7 +35545,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -35174,7 +35605,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -35234,7 +35665,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -35294,7 +35725,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -35354,7 +35785,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -35414,7 +35845,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -35474,7 +35905,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -35534,7 +35965,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -35594,7 +36025,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -35654,7 +36085,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -35714,7 +36145,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -35774,7 +36205,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -35834,7 +36265,7 @@
       "frames": [],
       "properties": [],
       "sets": [],
-      "curVersion": 444,
+      "curVersion": 472,
       "notes": [],
       "matchType": 0,
       "videoLink": "",
@@ -35843,7 +36274,7 @@
       "loserNext": ""
     }
   ],
-  "last_updated": "2025-07-19T08:44:57.095544+01:00",
+  "last_updated": "2025-07-19T08:53:31.923115+01:00",
   "tournament_start_date": "2025-07-19T08:45:00+02:00",
   "tournament_end_date": "2025-07-20T23:59:00+02:00",
   "tournament_display_date": "July 19 - July 20, 2025",
