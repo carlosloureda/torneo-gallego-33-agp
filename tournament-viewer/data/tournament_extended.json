@@ -4359,10 +4359,10 @@
         "url": "https://cuescore.com/player/Francisco+Javier+Garc%C3%ADa+baamonde/31111180",
         "image": "https://img.cuescore.com/image/1/4/13250acde9371a7aceabfbf6452a5cea.png",
         "country": {
-          "name": "Spain",
-          "alpha3": "ESP",
-          "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-          "continent": "Europe"
+          "name": "Equatorial Guinea",
+          "alpha3": "GNQ",
+          "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/gq.png",
+          "continent": "Africa"
         },
         "represents": []
       },
@@ -14686,10 +14686,10 @@
         "url": "https://cuescore.com/player/Francisco+Javier+Garc%C3%ADa+baamonde/31111180",
         "image": "https://img.cuescore.com/image/1/4/13250acde9371a7aceabfbf6452a5cea.png",
         "country": {
-          "name": "Spain",
-          "alpha3": "ESP",
-          "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-          "continent": "Europe"
+          "name": "Equatorial Guinea",
+          "alpha3": "GNQ",
+          "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/gq.png",
+          "continent": "Africa"
         },
         "represents": []
       },
@@ -35326,10 +35326,10 @@
         "url": "https://cuescore.com/player/Francisco+Javier+Garc%C3%ADa+baamonde/31111180",
         "image": "https://img.cuescore.com/image/1/4/13250acde9371a7aceabfbf6452a5cea.png",
         "country": {
-          "name": "Spain",
-          "alpha3": "ESP",
-          "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-          "continent": "Europe"
+          "name": "Equatorial Guinea",
+          "alpha3": "GNQ",
+          "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/gq.png",
+          "continent": "Africa"
         },
         "represents": []
       },
@@ -53956,10 +53956,10 @@
         "url": "https://cuescore.com/player/Francisco+Javier+Garc%C3%ADa+baamonde/31111180",
         "image": "https://img.cuescore.com/image/1/4/13250acde9371a7aceabfbf6452a5cea.png",
         "country": {
-          "name": "Spain",
-          "alpha3": "ESP",
-          "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-          "continent": "Europe"
+          "name": "Equatorial Guinea",
+          "alpha3": "GNQ",
+          "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/gq.png",
+          "continent": "Africa"
         },
         "represents": []
       },
@@ -65218,7 +65218,7 @@
       "loserNext": ""
     }
   ],
-  "last_updated": "2025-07-20T16:17:32.993608+01:00",
+  "last_updated": "2025-07-20T16:35:29.813450+01:00",
   "tournament_start_date": "2025-07-19T08:45:00+02:00",
   "tournament_end_date": "2025-07-20T23:59:00+02:00",
   "tournament_display_date": "July 19 - July 20, 2025",
