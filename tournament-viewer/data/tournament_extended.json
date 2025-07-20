@@ -3242,10 +3242,10 @@
       "round": 1,
       "playerA": {
         "playerId": 19532128,
-        "name": "Jonathan Vélez",
+        "name": "Jonathan Corchero Vélez",
         "firstname": "Jonathan",
-        "lastname": "Vélez",
-        "url": "https://cuescore.com/player/Jonathan+V%C3%A9lez/19532128",
+        "lastname": "Corchero Vélez",
+        "url": "https://cuescore.com/player/Jonathan+Corchero+V%C3%A9lez/19532128",
         "image": "https://img.cuescore.com/image/2/4/21b6f16d58bfbb7b34fa73187b2f622d.png",
         "country": {
           "name": "Spain",
@@ -13156,10 +13156,10 @@
       },
       "playerB": {
         "playerId": 19532128,
-        "name": "Jonathan Vélez",
+        "name": "Jonathan Corchero Vélez",
         "firstname": "Jonathan",
-        "lastname": "Vélez",
-        "url": "https://cuescore.com/player/Jonathan+V%C3%A9lez/19532128",
+        "lastname": "Corchero Vélez",
+        "url": "https://cuescore.com/player/Jonathan+Corchero+V%C3%A9lez/19532128",
         "image": "https://img.cuescore.com/image/2/4/21b6f16d58bfbb7b34fa73187b2f622d.png",
         "country": {
           "name": "Spain",
@@ -34544,10 +34544,10 @@
       },
       "playerB": {
         "playerId": 19532128,
-        "name": "Jonathan Vélez",
+        "name": "Jonathan Corchero Vélez",
         "firstname": "Jonathan",
-        "lastname": "Vélez",
-        "url": "https://cuescore.com/player/Jonathan+V%C3%A9lez/19532128",
+        "lastname": "Corchero Vélez",
+        "url": "https://cuescore.com/player/Jonathan+Corchero+V%C3%A9lez/19532128",
         "image": "https://img.cuescore.com/image/2/4/21b6f16d58bfbb7b34fa73187b2f622d.png",
         "country": {
           "name": "Spain",
@@ -53174,10 +53174,10 @@
       "round": 4,
       "playerA": {
         "playerId": 19532128,
-        "name": "Jonathan Vélez",
+        "name": "Jonathan Corchero Vélez",
         "firstname": "Jonathan",
-        "lastname": "Vélez",
-        "url": "https://cuescore.com/player/Jonathan+V%C3%A9lez/19532128",
+        "lastname": "Corchero Vélez",
+        "url": "https://cuescore.com/player/Jonathan+Corchero+V%C3%A9lez/19532128",
         "image": "https://img.cuescore.com/image/2/4/21b6f16d58bfbb7b34fa73187b2f622d.png",
         "country": {
           "name": "Spain",
@@ -59203,10 +59203,10 @@
       },
       "playerB": {
         "playerId": 19532128,
-        "name": "Jonathan Vélez",
+        "name": "Jonathan Corchero Vélez",
         "firstname": "Jonathan",
-        "lastname": "Vélez",
-        "url": "https://cuescore.com/player/Jonathan+V%C3%A9lez/19532128",
+        "lastname": "Corchero Vélez",
+        "url": "https://cuescore.com/player/Jonathan+Corchero+V%C3%A9lez/19532128",
         "image": "https://img.cuescore.com/image/2/4/21b6f16d58bfbb7b34fa73187b2f622d.png",
         "country": {
           "name": "Spain",
@@ -62436,10 +62436,10 @@
       "round": 6,
       "playerA": {
         "playerId": 19532128,
-        "name": "Jonathan Vélez",
+        "name": "Jonathan Corchero Vélez",
         "firstname": "Jonathan",
-        "lastname": "Vélez",
-        "url": "https://cuescore.com/player/Jonathan+V%C3%A9lez/19532128",
+        "lastname": "Corchero Vélez",
+        "url": "https://cuescore.com/player/Jonathan+Corchero+V%C3%A9lez/19532128",
         "image": "https://img.cuescore.com/image/2/4/21b6f16d58bfbb7b34fa73187b2f622d.png",
         "country": {
           "name": "Spain",
@@ -65348,7 +65348,7 @@
       "loserNext": ""
     }
   ],
-  "last_updated": "2025-07-20T19:48:27.863033+01:00",
+  "last_updated": "2025-07-20T19:59:13.259162+01:00",
   "tournament_start_date": "2025-07-19T08:45:00+02:00",
   "tournament_end_date": "2025-07-20T23:59:00+02:00",
   "tournament_display_date": "July 19 - July 20, 2025",
