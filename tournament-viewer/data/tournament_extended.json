@@ -5799,16 +5799,16 @@
       "roundName": "Round 1",
       "round": 1,
       "playerA": {
-        "playerId": 63523570,
-        "name": "Martín Bello Rama",
-        "firstname": "Martín",
+        "playerId": 63914188,
+        "name": "Martin Bello Rama",
+        "firstname": "Martin",
         "lastname": "Bello Rama",
-        "url": "https://cuescore.com/player/Mart%C3%ADn+Bello+Rama/63523570",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+        "url": "https://cuescore.com/player/Martin+Bello+Rama/63914188",
+        "image": "https://img.cuescore.com/image/2/4/29a291eae63718b8cd4add48fb3e2db8.png",
         "country": {
-          "name": "Spain",
-          "alpha3": "ESP",
-          "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+          "name": "Germany",
+          "alpha3": "DEU",
+          "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/de.png",
           "continent": "Europe"
         },
         "represents": []
@@ -16404,16 +16404,16 @@
       "roundName": "Winner round 1",
       "round": 2,
       "playerA": {
-        "playerId": 63523570,
-        "name": "Martín Bello Rama",
-        "firstname": "Martín",
+        "playerId": 63914188,
+        "name": "Martin Bello Rama",
+        "firstname": "Martin",
         "lastname": "Bello Rama",
-        "url": "https://cuescore.com/player/Mart%C3%ADn+Bello+Rama/63523570",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+        "url": "https://cuescore.com/player/Martin+Bello+Rama/63914188",
+        "image": "https://img.cuescore.com/image/2/4/29a291eae63718b8cd4add48fb3e2db8.png",
         "country": {
-          "name": "Spain",
-          "alpha3": "ESP",
-          "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+          "name": "Germany",
+          "alpha3": "DEU",
+          "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/de.png",
           "continent": "Europe"
         },
         "represents": []
@@ -36187,16 +36187,16 @@
       "roundName": "Winners qualification",
       "round": 3,
       "playerA": {
-        "playerId": 63523570,
-        "name": "Martín Bello Rama",
-        "firstname": "Martín",
+        "playerId": 63914188,
+        "name": "Martin Bello Rama",
+        "firstname": "Martin",
         "lastname": "Bello Rama",
-        "url": "https://cuescore.com/player/Mart%C3%ADn+Bello+Rama/63523570",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+        "url": "https://cuescore.com/player/Martin+Bello+Rama/63914188",
+        "image": "https://img.cuescore.com/image/2/4/29a291eae63718b8cd4add48fb3e2db8.png",
         "country": {
-          "name": "Spain",
-          "alpha3": "ESP",
-          "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+          "name": "Germany",
+          "alpha3": "DEU",
+          "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/de.png",
           "continent": "Europe"
         },
         "represents": []
@@ -47687,16 +47687,16 @@
         "represents": []
       },
       "playerB": {
-        "playerId": 63523570,
-        "name": "Martín Bello Rama",
-        "firstname": "Martín",
+        "playerId": 63914188,
+        "name": "Martin Bello Rama",
+        "firstname": "Martin",
         "lastname": "Bello Rama",
-        "url": "https://cuescore.com/player/Mart%C3%ADn+Bello+Rama/63523570",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+        "url": "https://cuescore.com/player/Martin+Bello+Rama/63914188",
+        "image": "https://img.cuescore.com/image/2/4/29a291eae63718b8cd4add48fb3e2db8.png",
         "country": {
-          "name": "Spain",
-          "alpha3": "ESP",
-          "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+          "name": "Germany",
+          "alpha3": "DEU",
+          "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/de.png",
           "continent": "Europe"
         },
         "represents": []
@@ -65348,7 +65348,7 @@
       "loserNext": ""
     }
   ],
-  "last_updated": "2025-07-21T08:23:21.095203+01:00",
+  "last_updated": "2025-07-21T08:47:29.984422+01:00",
   "tournament_start_date": "2025-07-19T08:45:00+02:00",
   "tournament_end_date": "2025-07-20T23:59:00+02:00",
   "tournament_display_date": "July 19 - July 20, 2025",
