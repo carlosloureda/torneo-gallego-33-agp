@@ -5210,10 +5210,10 @@
         "url": "https://cuescore.com/player/Leonardo+Estigarribia+Torres/31063915",
         "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
         "country": {
-          "name": "Spain",
-          "alpha3": "ESP",
-          "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-          "continent": "Europe"
+          "name": "Paraguay",
+          "alpha3": "PRY",
+          "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/py.png",
+          "continent": "South America"
         },
         "represents": []
       },
@@ -15691,10 +15691,10 @@
         "url": "https://cuescore.com/player/Leonardo+Estigarribia+Torres/31063915",
         "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
         "country": {
-          "name": "Spain",
-          "alpha3": "ESP",
-          "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-          "continent": "Europe"
+          "name": "Paraguay",
+          "alpha3": "PRY",
+          "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/py.png",
+          "continent": "South America"
         },
         "represents": []
       },
@@ -35917,10 +35917,10 @@
         "url": "https://cuescore.com/player/Leonardo+Estigarribia+Torres/31063915",
         "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
         "country": {
-          "name": "Spain",
-          "alpha3": "ESP",
-          "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-          "continent": "Europe"
+          "name": "Paraguay",
+          "alpha3": "PRY",
+          "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/py.png",
+          "continent": "South America"
         },
         "represents": []
       },
@@ -48082,10 +48082,10 @@
         "url": "https://cuescore.com/player/Leonardo+Estigarribia+Torres/31063915",
         "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
         "country": {
-          "name": "Spain",
-          "alpha3": "ESP",
-          "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-          "continent": "Europe"
+          "name": "Paraguay",
+          "alpha3": "PRY",
+          "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/py.png",
+          "continent": "South America"
         },
         "represents": []
       },
@@ -65348,7 +65348,7 @@
       "loserNext": ""
     }
   ],
-  "last_updated": "2025-10-17T16:53:35.001015+01:00",
+  "last_updated": "2025-10-17T17:17:32.811951+01:00",
   "tournament_start_date": "2025-07-19T08:45:00+02:00",
   "tournament_end_date": "2025-07-20T23:59:00+02:00",
   "tournament_display_date": "July 19 - July 20, 2025",
