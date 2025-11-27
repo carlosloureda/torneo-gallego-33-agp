@@ -6411,12 +6411,12 @@
       "roundName": "Round 1",
       "round": 1,
       "playerA": {
-        "playerId": 63522634,
-        "name": "Óscar López Rivera",
-        "firstname": "Óscar",
-        "lastname": "López Rivera",
-        "url": "https://cuescore.com/player/%C3%93scar+L%C3%B3pez+Rivera/63522634",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+        "playerId": 63757210,
+        "name": "Oscar Lopez Rivera",
+        "firstname": "Oscar",
+        "lastname": "Lopez Rivera",
+        "url": "https://cuescore.com/player/Oscar+Lopez+Rivera/63757210",
+        "image": "https://img.cuescore.com/image/5/4/56f7ebc76cc2d8fc17be3f1bb81e32d1.png?t=1764234995",
         "country": {
           "name": "Spain",
           "alpha3": "ESP",
@@ -17012,12 +17012,12 @@
         "represents": []
       },
       "playerB": {
-        "playerId": 63522634,
-        "name": "Óscar López Rivera",
-        "firstname": "Óscar",
-        "lastname": "López Rivera",
-        "url": "https://cuescore.com/player/%C3%93scar+L%C3%B3pez+Rivera/63522634",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+        "playerId": 63757210,
+        "name": "Oscar Lopez Rivera",
+        "firstname": "Oscar",
+        "lastname": "Lopez Rivera",
+        "url": "https://cuescore.com/player/Oscar+Lopez+Rivera/63757210",
+        "image": "https://img.cuescore.com/image/5/4/56f7ebc76cc2d8fc17be3f1bb81e32d1.png?t=1764234995",
         "country": {
           "name": "Spain",
           "alpha3": "ESP",
@@ -36500,12 +36500,12 @@
         "represents": []
       },
       "playerB": {
-        "playerId": 63522634,
-        "name": "Óscar López Rivera",
-        "firstname": "Óscar",
-        "lastname": "López Rivera",
-        "url": "https://cuescore.com/player/%C3%93scar+L%C3%B3pez+Rivera/63522634",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+        "playerId": 63757210,
+        "name": "Oscar Lopez Rivera",
+        "firstname": "Oscar",
+        "lastname": "Lopez Rivera",
+        "url": "https://cuescore.com/player/Oscar+Lopez+Rivera/63757210",
+        "image": "https://img.cuescore.com/image/5/4/56f7ebc76cc2d8fc17be3f1bb81e32d1.png?t=1764234995",
         "country": {
           "name": "Spain",
           "alpha3": "ESP",
@@ -47621,12 +47621,12 @@
         "represents": []
       },
       "playerB": {
-        "playerId": 63522634,
-        "name": "Óscar López Rivera",
-        "firstname": "Óscar",
-        "lastname": "López Rivera",
-        "url": "https://cuescore.com/player/%C3%93scar+L%C3%B3pez+Rivera/63522634",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+        "playerId": 63757210,
+        "name": "Oscar Lopez Rivera",
+        "firstname": "Oscar",
+        "lastname": "Lopez Rivera",
+        "url": "https://cuescore.com/player/Oscar+Lopez+Rivera/63757210",
+        "image": "https://img.cuescore.com/image/5/4/56f7ebc76cc2d8fc17be3f1bb81e32d1.png?t=1764234995",
         "country": {
           "name": "Spain",
           "alpha3": "ESP",
@@ -65590,7 +65590,7 @@
       "loserNext": ""
     }
   ],
-  "last_updated": "2025-11-27T09:59:36.482051+01:00",
+  "last_updated": "2025-11-27T10:28:42.425837+01:00",
   "tournament_start_date": "2025-07-19T08:45:00+02:00",
   "tournament_end_date": "2025-07-20T23:59:00+02:00",
   "tournament_display_date": "July 19 - July 20, 2025",
