@@ -6621,10 +6621,10 @@
       "round": 1,
       "playerA": {
         "playerId": 63706780,
-        "name": "Pablo Fernández Martínez",
+        "name": "Pablo Fernandez Martinez",
         "firstname": "Pablo",
-        "lastname": "Fernández Martínez",
-        "url": "https://cuescore.com/player/Pablo+Fern%C3%A1ndez+Mart%C3%ADnez/63706780",
+        "lastname": "Fernandez Martinez",
+        "url": "https://cuescore.com/player/Pablo+Fernandez+Martinez/63706780",
         "image": "https://img.cuescore.com/image/e/4/ec4b300c7b4d096d2a8f10401e185f73.png?t=1752264720",
         "country": {
           "name": "Spain",
@@ -28265,10 +28265,10 @@
       "round": -1,
       "playerA": {
         "playerId": 63706780,
-        "name": "Pablo Fernández Martínez",
+        "name": "Pablo Fernandez Martinez",
         "firstname": "Pablo",
-        "lastname": "Fernández Martínez",
-        "url": "https://cuescore.com/player/Pablo+Fern%C3%A1ndez+Mart%C3%ADnez/63706780",
+        "lastname": "Fernandez Martinez",
+        "url": "https://cuescore.com/player/Pablo+Fernandez+Martinez/63706780",
         "image": "https://img.cuescore.com/image/e/4/ec4b300c7b4d096d2a8f10401e185f73.png?t=1752264720",
         "country": {
           "name": "Spain",
@@ -33531,10 +33531,10 @@
       "round": -2,
       "playerA": {
         "playerId": 63706780,
-        "name": "Pablo Fernández Martínez",
+        "name": "Pablo Fernandez Martinez",
         "firstname": "Pablo",
-        "lastname": "Fernández Martínez",
-        "url": "https://cuescore.com/player/Pablo+Fern%C3%A1ndez+Mart%C3%ADnez/63706780",
+        "lastname": "Fernandez Martinez",
+        "url": "https://cuescore.com/player/Pablo+Fernandez+Martinez/63706780",
         "image": "https://img.cuescore.com/image/e/4/ec4b300c7b4d096d2a8f10401e185f73.png?t=1752264720",
         "country": {
           "name": "Spain",
@@ -70627,7 +70627,7 @@
       "loserNext": ""
     }
   ],
-  "last_updated": "2026-06-30T10:57:06.426755+01:00",
+  "last_updated": "2026-06-30T13:07:50.457571+01:00",
   "tournament_start_date": "2025-07-19T06:45:00Z",
   "tournament_end_date": "2025-07-20T21:59:00Z",
   "tournament_display_date": "July 19 - July 20, 2025",
