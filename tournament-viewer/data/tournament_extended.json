@@ -11108,9 +11108,9 @@
         "url": "https://cuescore.com/player/Adri%C3%A1n+Fuentes+Castro/44653774",
         "image": "https://img.cuescore.com/image/6/4/65b040579bb8f4841036b71962d5d93e.png?t=1720356063",
         "country": {
-          "name": "Isle of Man",
-          "alpha3": "IMN",
-          "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/im.png",
+          "name": "Scotland",
+          "alpha3": "SCT",
+          "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/gb-sct.png",
           "continent": "Europe"
         },
         "livesIn": {
@@ -30080,9 +30080,9 @@
         "url": "https://cuescore.com/player/Adri%C3%A1n+Fuentes+Castro/44653774",
         "image": "https://img.cuescore.com/image/6/4/65b040579bb8f4841036b71962d5d93e.png?t=1720356063",
         "country": {
-          "name": "Isle of Man",
-          "alpha3": "IMN",
-          "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/im.png",
+          "name": "Scotland",
+          "alpha3": "SCT",
+          "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/gb-sct.png",
           "continent": "Europe"
         },
         "livesIn": {
@@ -35909,9 +35909,9 @@
         "url": "https://cuescore.com/player/Adri%C3%A1n+Fuentes+Castro/44653774",
         "image": "https://img.cuescore.com/image/6/4/65b040579bb8f4841036b71962d5d93e.png?t=1720356063",
         "country": {
-          "name": "Isle of Man",
-          "alpha3": "IMN",
-          "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/im.png",
+          "name": "Scotland",
+          "alpha3": "SCT",
+          "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/gb-sct.png",
           "continent": "Europe"
         },
         "livesIn": {
@@ -70627,7 +70627,7 @@
       "loserNext": ""
     }
   ],
-  "last_updated": "2026-07-01T11:27:43.608758+01:00",
+  "last_updated": "2026-07-01T14:16:22.088219+01:00",
   "tournament_start_date": "2025-07-19T06:45:00Z",
   "tournament_end_date": "2025-07-20T21:59:00Z",
   "tournament_display_date": "July 19 - July 20, 2025",
