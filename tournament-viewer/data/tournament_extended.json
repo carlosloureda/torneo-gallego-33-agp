@@ -5231,12 +5231,12 @@
         "represents": []
       },
       "playerB": {
-        "playerId": 63523354,
-        "name": "Carlos David Loureda Parrado",
-        "firstname": "Carlos David",
-        "lastname": "Loureda Parrado",
-        "url": "https://cuescore.com/player/Carlos+David+Loureda+Parrado/63523354",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+        "playerId": 1552433,
+        "name": "Carlos Loureda",
+        "firstname": "Carlos",
+        "lastname": "Loureda",
+        "url": "https://cuescore.com/player/Carlos+Loureda/1552433",
+        "image": "https://img.cuescore.com/image/6/4/68416590c68641d520f979a6425fe22b.png?t=1783423409",
         "country": {
           "name": "Spain",
           "alpha3": "ESP",
@@ -5245,8 +5245,8 @@
         },
         "livesIn": {
           "city": "",
-          "country": "Spain",
-          "countryImage": "/img/flags/png-country-4x2-none/res-28x21/es.png"
+          "country": null,
+          "countryImage": null
         },
         "represents": []
       },
@@ -5883,15 +5883,15 @@
         "url": "https://cuescore.com/player/Carlos+Bouza+Casti%C3%B1eira/45347224",
         "image": "https://img.cuescore.com/image/9/4/9298301034f31fbbb894fc599731b1b4.png?t=1752596379",
         "country": {
-          "name": "Spain",
-          "alpha3": "ESP",
-          "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+          "name": "Wales",
+          "alpha3": "WLS",
+          "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/gb-wls.png",
           "continent": "Europe"
         },
         "livesIn": {
           "city": "",
-          "country": "Isle of Man",
-          "countryImage": "/img/flags/png-country-4x2-none/res-28x21/im.png"
+          "country": "Spain",
+          "countryImage": "/img/flags/png-country-4x2-none/res-28x21/es.png"
         },
         "represents": []
       },
@@ -17165,12 +17165,12 @@
       "roundCode": "winnerRound1",
       "round": 2,
       "playerA": {
-        "playerId": 63523354,
-        "name": "Carlos David Loureda Parrado",
-        "firstname": "Carlos David",
-        "lastname": "Loureda Parrado",
-        "url": "https://cuescore.com/player/Carlos+David+Loureda+Parrado/63523354",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+        "playerId": 1552433,
+        "name": "Carlos Loureda",
+        "firstname": "Carlos",
+        "lastname": "Loureda",
+        "url": "https://cuescore.com/player/Carlos+Loureda/1552433",
+        "image": "https://img.cuescore.com/image/6/4/68416590c68641d520f979a6425fe22b.png?t=1783423409",
         "country": {
           "name": "Spain",
           "alpha3": "ESP",
@@ -17179,8 +17179,8 @@
         },
         "livesIn": {
           "city": "",
-          "country": "Spain",
-          "countryImage": "/img/flags/png-country-4x2-none/res-28x21/es.png"
+          "country": null,
+          "countryImage": null
         },
         "represents": []
       },
@@ -17553,15 +17553,15 @@
         "url": "https://cuescore.com/player/Carlos+Bouza+Casti%C3%B1eira/45347224",
         "image": "https://img.cuescore.com/image/9/4/9298301034f31fbbb894fc599731b1b4.png?t=1752596379",
         "country": {
-          "name": "Spain",
-          "alpha3": "ESP",
-          "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+          "name": "Wales",
+          "alpha3": "WLS",
+          "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/gb-wls.png",
           "continent": "Europe"
         },
         "livesIn": {
           "city": "",
-          "country": "Isle of Man",
-          "countryImage": "/img/flags/png-country-4x2-none/res-28x21/im.png"
+          "country": "Spain",
+          "countryImage": "/img/flags/png-country-4x2-none/res-28x21/es.png"
         },
         "represents": []
       },
@@ -36530,12 +36530,12 @@
         "represents": []
       },
       "playerB": {
-        "playerId": 63523354,
-        "name": "Carlos David Loureda Parrado",
-        "firstname": "Carlos David",
-        "lastname": "Loureda Parrado",
-        "url": "https://cuescore.com/player/Carlos+David+Loureda+Parrado/63523354",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+        "playerId": 1552433,
+        "name": "Carlos Loureda",
+        "firstname": "Carlos",
+        "lastname": "Loureda",
+        "url": "https://cuescore.com/player/Carlos+Loureda/1552433",
+        "image": "https://img.cuescore.com/image/6/4/68416590c68641d520f979a6425fe22b.png?t=1783423409",
         "country": {
           "name": "Spain",
           "alpha3": "ESP",
@@ -36544,8 +36544,8 @@
         },
         "livesIn": {
           "city": "",
-          "country": "Spain",
-          "countryImage": "/img/flags/png-country-4x2-none/res-28x21/es.png"
+          "country": null,
+          "countryImage": null
         },
         "represents": []
       },
@@ -39922,15 +39922,15 @@
         "url": "https://cuescore.com/player/Carlos+Bouza+Casti%C3%B1eira/45347224",
         "image": "https://img.cuescore.com/image/9/4/9298301034f31fbbb894fc599731b1b4.png?t=1752596379",
         "country": {
-          "name": "Spain",
-          "alpha3": "ESP",
-          "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+          "name": "Wales",
+          "alpha3": "WLS",
+          "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/gb-wls.png",
           "continent": "Europe"
         },
         "livesIn": {
           "city": "",
-          "country": "Isle of Man",
-          "countryImage": "/img/flags/png-country-4x2-none/res-28x21/im.png"
+          "country": "Spain",
+          "countryImage": "/img/flags/png-country-4x2-none/res-28x21/es.png"
         },
         "represents": []
       },
@@ -49772,12 +49772,12 @@
       "roundCode": "loserRound3",
       "round": -3,
       "playerA": {
-        "playerId": 63523354,
-        "name": "Carlos David Loureda Parrado",
-        "firstname": "Carlos David",
-        "lastname": "Loureda Parrado",
-        "url": "https://cuescore.com/player/Carlos+David+Loureda+Parrado/63523354",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+        "playerId": 1552433,
+        "name": "Carlos Loureda",
+        "firstname": "Carlos",
+        "lastname": "Loureda",
+        "url": "https://cuescore.com/player/Carlos+Loureda/1552433",
+        "image": "https://img.cuescore.com/image/6/4/68416590c68641d520f979a6425fe22b.png?t=1783423409",
         "country": {
           "name": "Spain",
           "alpha3": "ESP",
@@ -49786,8 +49786,8 @@
         },
         "livesIn": {
           "city": "",
-          "country": "Spain",
-          "countryImage": "/img/flags/png-country-4x2-none/res-28x21/es.png"
+          "country": null,
+          "countryImage": null
         },
         "represents": []
       },
@@ -59975,15 +59975,15 @@
         "url": "https://cuescore.com/player/Carlos+Bouza+Casti%C3%B1eira/45347224",
         "image": "https://img.cuescore.com/image/9/4/9298301034f31fbbb894fc599731b1b4.png?t=1752596379",
         "country": {
-          "name": "Spain",
-          "alpha3": "ESP",
-          "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+          "name": "Wales",
+          "alpha3": "WLS",
+          "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/gb-wls.png",
           "continent": "Europe"
         },
         "livesIn": {
           "city": "",
-          "country": "Isle of Man",
-          "countryImage": "/img/flags/png-country-4x2-none/res-28x21/im.png"
+          "country": "Spain",
+          "countryImage": "/img/flags/png-country-4x2-none/res-28x21/es.png"
         },
         "represents": []
       },
@@ -65819,15 +65819,15 @@
         "url": "https://cuescore.com/player/Carlos+Bouza+Casti%C3%B1eira/45347224",
         "image": "https://img.cuescore.com/image/9/4/9298301034f31fbbb894fc599731b1b4.png?t=1752596379",
         "country": {
-          "name": "Spain",
-          "alpha3": "ESP",
-          "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
+          "name": "Wales",
+          "alpha3": "WLS",
+          "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/gb-wls.png",
           "continent": "Europe"
         },
         "livesIn": {
           "city": "",
-          "country": "Isle of Man",
-          "countryImage": "/img/flags/png-country-4x2-none/res-28x21/im.png"
+          "country": "Spain",
+          "countryImage": "/img/flags/png-country-4x2-none/res-28x21/es.png"
         },
         "represents": []
       },
@@ -71585,7 +71585,7 @@
       "loserNext": ""
     }
   ],
-  "last_updated": "2026-07-07T11:56:06.010070+01:00",
+  "last_updated": "2026-07-07T14:15:53.636655+01:00",
   "tournament_start_date": "2025-07-19T06:45:00Z",
   "tournament_end_date": "2025-07-20T21:59:00Z",
   "tournament_display_date": "July 19 - July 20, 2025",
