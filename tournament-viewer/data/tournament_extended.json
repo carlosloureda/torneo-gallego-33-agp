@@ -12918,15 +12918,15 @@
         "url": "https://cuescore.com/player/Ux%C3%ADo+Germade+Mart%C3%ADnez/31063795",
         "image": "https://img.cuescore.com/image/2/4/2c6c639058cae2ddb3290f8af8cbe039.png?t=1782123724",
         "country": {
-          "name": "Spain",
-          "alpha3": "ESP",
-          "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-          "continent": "Europe"
+          "name": "New Zealand",
+          "alpha3": "NZL",
+          "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/nz.png",
+          "continent": "Oceania"
         },
         "livesIn": {
           "city": "",
-          "country": "Spain",
-          "countryImage": "/img/flags/png-country-4x2-none/res-28x21/es.png"
+          "country": "New Zealand",
+          "countryImage": "/img/flags/png-country-4x2-none/res-28x21/nz.png"
         },
         "represents": []
       },
@@ -25605,15 +25605,15 @@
         "url": "https://cuescore.com/player/Ux%C3%ADo+Germade+Mart%C3%ADnez/31063795",
         "image": "https://img.cuescore.com/image/2/4/2c6c639058cae2ddb3290f8af8cbe039.png?t=1782123724",
         "country": {
-          "name": "Spain",
-          "alpha3": "ESP",
-          "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-          "continent": "Europe"
+          "name": "New Zealand",
+          "alpha3": "NZL",
+          "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/nz.png",
+          "continent": "Oceania"
         },
         "livesIn": {
           "city": "",
-          "country": "Spain",
-          "countryImage": "/img/flags/png-country-4x2-none/res-28x21/es.png"
+          "country": "New Zealand",
+          "countryImage": "/img/flags/png-country-4x2-none/res-28x21/nz.png"
         },
         "represents": []
       },
@@ -44139,15 +44139,15 @@
         "url": "https://cuescore.com/player/Ux%C3%ADo+Germade+Mart%C3%ADnez/31063795",
         "image": "https://img.cuescore.com/image/2/4/2c6c639058cae2ddb3290f8af8cbe039.png?t=1782123724",
         "country": {
-          "name": "Spain",
-          "alpha3": "ESP",
-          "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-          "continent": "Europe"
+          "name": "New Zealand",
+          "alpha3": "NZL",
+          "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/nz.png",
+          "continent": "Oceania"
         },
         "livesIn": {
           "city": "",
-          "country": "Spain",
-          "countryImage": "/img/flags/png-country-4x2-none/res-28x21/es.png"
+          "country": "New Zealand",
+          "countryImage": "/img/flags/png-country-4x2-none/res-28x21/nz.png"
         },
         "represents": []
       },
@@ -55653,15 +55653,15 @@
         "url": "https://cuescore.com/player/Ux%C3%ADo+Germade+Mart%C3%ADnez/31063795",
         "image": "https://img.cuescore.com/image/2/4/2c6c639058cae2ddb3290f8af8cbe039.png?t=1782123724",
         "country": {
-          "name": "Spain",
-          "alpha3": "ESP",
-          "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
-          "continent": "Europe"
+          "name": "New Zealand",
+          "alpha3": "NZL",
+          "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/nz.png",
+          "continent": "Oceania"
         },
         "livesIn": {
           "city": "",
-          "country": "Spain",
-          "countryImage": "/img/flags/png-country-4x2-none/res-28x21/es.png"
+          "country": "New Zealand",
+          "countryImage": "/img/flags/png-country-4x2-none/res-28x21/nz.png"
         },
         "represents": []
       },
@@ -71585,7 +71585,7 @@
       "loserNext": ""
     }
   ],
-  "last_updated": "2026-07-08T05:27:24.685775+01:00",
+  "last_updated": "2026-07-08T08:03:18.850638+01:00",
   "tournament_start_date": "2025-07-19T06:45:00Z",
   "tournament_end_date": "2025-07-20T21:59:00Z",
   "tournament_display_date": "July 19 - July 20, 2025",
