@@ -4388,7 +4388,7 @@
           "continent": "Europe"
         },
         "livesIn": {
-          "city": "",
+          "city": "Ourense",
           "country": "Spain",
           "countryImage": "/img/flags/png-country-4x2-none/res-28x21/es.png"
         },
@@ -15916,7 +15916,7 @@
           "continent": "Europe"
         },
         "livesIn": {
-          "city": "",
+          "city": "Ourense",
           "country": "Spain",
           "countryImage": "/img/flags/png-country-4x2-none/res-28x21/es.png"
         },
@@ -39092,7 +39092,7 @@
           "continent": "Europe"
         },
         "livesIn": {
-          "city": "",
+          "city": "Ourense",
           "country": "Spain",
           "countryImage": "/img/flags/png-country-4x2-none/res-28x21/es.png"
         },
@@ -53863,7 +53863,7 @@
           "continent": "Europe"
         },
         "livesIn": {
-          "city": "",
+          "city": "Ourense",
           "country": "Spain",
           "countryImage": "/img/flags/png-country-4x2-none/res-28x21/es.png"
         },
@@ -71585,7 +71585,7 @@
       "loserNext": ""
     }
   ],
-  "last_updated": "2026-07-09T09:40:20.951706+01:00",
+  "last_updated": "2026-07-09T12:33:15.853867+01:00",
   "tournament_start_date": "2025-07-19T06:45:00Z",
   "tournament_end_date": "2025-07-20T21:59:00Z",
   "tournament_display_date": "July 19 - July 20, 2025",
