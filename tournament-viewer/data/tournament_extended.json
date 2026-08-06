@@ -7780,12 +7780,12 @@
       "roundCode": "round1",
       "round": 1,
       "playerA": {
-        "playerId": 63523351,
-        "name": "Angel Alfredo González Becerra",
+        "playerId": 63854770,
+        "name": "Angel Alfredo Gonzalez Becerra",
         "firstname": "Angel Alfredo",
-        "lastname": "González Becerra",
-        "url": "https://cuescore.com/player/Angel+Alfredo+Gonz%C3%A1lez+Becerra/63523351",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+        "lastname": "Gonzalez Becerra",
+        "url": "https://cuescore.com/player/Angel+Alfredo+Gonzalez+Becerra/63854770",
+        "image": "https://img.cuescore.com/image/9/4/956ecc48777f5c7840a2fbdd222fe22e.png?t=1786003445",
         "country": {
           "name": "Spain",
           "alpha3": "ESP",
@@ -7793,7 +7793,7 @@
           "continent": "Europe"
         },
         "livesIn": {
-          "city": "",
+          "city": "Lugo",
           "country": "Spain",
           "countryImage": "/img/flags/png-country-4x2-none/res-28x21/es.png"
         },
@@ -20017,12 +20017,12 @@
       "roundCode": "winnerRound1",
       "round": 2,
       "playerA": {
-        "playerId": 63523351,
-        "name": "Angel Alfredo González Becerra",
+        "playerId": 63854770,
+        "name": "Angel Alfredo Gonzalez Becerra",
         "firstname": "Angel Alfredo",
-        "lastname": "González Becerra",
-        "url": "https://cuescore.com/player/Angel+Alfredo+Gonz%C3%A1lez+Becerra/63523351",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+        "lastname": "Gonzalez Becerra",
+        "url": "https://cuescore.com/player/Angel+Alfredo+Gonzalez+Becerra/63854770",
+        "image": "https://img.cuescore.com/image/9/4/956ecc48777f5c7840a2fbdd222fe22e.png?t=1786003445",
         "country": {
           "name": "Spain",
           "alpha3": "ESP",
@@ -20030,7 +20030,7 @@
           "continent": "Europe"
         },
         "livesIn": {
-          "city": "",
+          "city": "Lugo",
           "country": "Spain",
           "countryImage": "/img/flags/png-country-4x2-none/res-28x21/es.png"
         },
@@ -35270,12 +35270,12 @@
         "represents": []
       },
       "playerB": {
-        "playerId": 63523351,
-        "name": "Angel Alfredo González Becerra",
+        "playerId": 63854770,
+        "name": "Angel Alfredo Gonzalez Becerra",
         "firstname": "Angel Alfredo",
-        "lastname": "González Becerra",
-        "url": "https://cuescore.com/player/Angel+Alfredo+Gonz%C3%A1lez+Becerra/63523351",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+        "lastname": "Gonzalez Becerra",
+        "url": "https://cuescore.com/player/Angel+Alfredo+Gonzalez+Becerra/63854770",
+        "image": "https://img.cuescore.com/image/9/4/956ecc48777f5c7840a2fbdd222fe22e.png?t=1786003445",
         "country": {
           "name": "Spain",
           "alpha3": "ESP",
@@ -35283,7 +35283,7 @@
           "continent": "Europe"
         },
         "livesIn": {
-          "city": "",
+          "city": "Lugo",
           "country": "Spain",
           "countryImage": "/img/flags/png-country-4x2-none/res-28x21/es.png"
         },
@@ -48261,12 +48261,12 @@
       "roundCode": "loserRound3",
       "round": -3,
       "playerA": {
-        "playerId": 63523351,
-        "name": "Angel Alfredo González Becerra",
+        "playerId": 63854770,
+        "name": "Angel Alfredo Gonzalez Becerra",
         "firstname": "Angel Alfredo",
-        "lastname": "González Becerra",
-        "url": "https://cuescore.com/player/Angel+Alfredo+Gonz%C3%A1lez+Becerra/63523351",
-        "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
+        "lastname": "Gonzalez Becerra",
+        "url": "https://cuescore.com/player/Angel+Alfredo+Gonzalez+Becerra/63854770",
+        "image": "https://img.cuescore.com/image/9/4/956ecc48777f5c7840a2fbdd222fe22e.png?t=1786003445",
         "country": {
           "name": "Spain",
           "alpha3": "ESP",
@@ -48274,7 +48274,7 @@
           "continent": "Europe"
         },
         "livesIn": {
-          "city": "",
+          "city": "Lugo",
           "country": "Spain",
           "countryImage": "/img/flags/png-country-4x2-none/res-28x21/es.png"
         },
@@ -71585,7 +71585,7 @@
       "loserNext": ""
     }
   ],
-  "last_updated": "2026-08-06T08:05:34.306363+01:00",
+  "last_updated": "2026-08-06T10:46:54.214407+01:00",
   "tournament_start_date": "2025-07-19T06:45:00Z",
   "tournament_end_date": "2025-07-20T21:59:00Z",
   "tournament_display_date": "July 19 - July 20, 2025",
