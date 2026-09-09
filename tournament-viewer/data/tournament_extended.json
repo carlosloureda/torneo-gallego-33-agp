@@ -9095,17 +9095,17 @@
       "round": 1,
       "playerA": {
         "playerId": 52885861,
-        "name": "Mario Lourido Menaya",
-        "firstname": "Mario",
-        "lastname": "Lourido Menaya",
-        "url": "https://cuescore.com/player/Mario+Lourido+Menaya/52885861",
+        "name": "Nomen Nescio",
+        "firstname": "Nomen",
+        "lastname": "Nescio",
+        "url": "https://cuescore.com/player/Nomen+Nescio/52885861",
         "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "badge": "claimed",
-        "badgeDesc": "Verified user",
+        "badge": "unverified",
+        "badgeDesc": "Unverified account",
         "country": {
-          "name": "Scotland",
-          "alpha3": "SCT",
-          "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/gb-sct.png",
+          "name": "Spain",
+          "alpha3": "ESP",
+          "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
           "continent": "Europe"
         },
         "livesIn": {
@@ -21917,17 +21917,17 @@
       },
       "playerB": {
         "playerId": 52885861,
-        "name": "Mario Lourido Menaya",
-        "firstname": "Mario",
-        "lastname": "Lourido Menaya",
-        "url": "https://cuescore.com/player/Mario+Lourido+Menaya/52885861",
+        "name": "Nomen Nescio",
+        "firstname": "Nomen",
+        "lastname": "Nescio",
+        "url": "https://cuescore.com/player/Nomen+Nescio/52885861",
         "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "badge": "claimed",
-        "badgeDesc": "Verified user",
+        "badge": "unverified",
+        "badgeDesc": "Unverified account",
         "country": {
-          "name": "Scotland",
-          "alpha3": "SCT",
-          "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/gb-sct.png",
+          "name": "Spain",
+          "alpha3": "ESP",
+          "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
           "continent": "Europe"
         },
         "livesIn": {
@@ -44172,17 +44172,17 @@
       },
       "playerB": {
         "playerId": 52885861,
-        "name": "Mario Lourido Menaya",
-        "firstname": "Mario",
-        "lastname": "Lourido Menaya",
-        "url": "https://cuescore.com/player/Mario+Lourido+Menaya/52885861",
+        "name": "Nomen Nescio",
+        "firstname": "Nomen",
+        "lastname": "Nescio",
+        "url": "https://cuescore.com/player/Nomen+Nescio/52885861",
         "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "badge": "claimed",
-        "badgeDesc": "Verified user",
+        "badge": "unverified",
+        "badgeDesc": "Unverified account",
         "country": {
-          "name": "Scotland",
-          "alpha3": "SCT",
-          "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/gb-sct.png",
+          "name": "Spain",
+          "alpha3": "ESP",
+          "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
           "continent": "Europe"
         },
         "livesIn": {
@@ -65928,17 +65928,17 @@
       "round": 4,
       "playerA": {
         "playerId": 52885861,
-        "name": "Mario Lourido Menaya",
-        "firstname": "Mario",
-        "lastname": "Lourido Menaya",
-        "url": "https://cuescore.com/player/Mario+Lourido+Menaya/52885861",
+        "name": "Nomen Nescio",
+        "firstname": "Nomen",
+        "lastname": "Nescio",
+        "url": "https://cuescore.com/player/Nomen+Nescio/52885861",
         "image": "https://img.cuescore.com/image/8/4/862c792ba8eb7f97e626fbe6cbcc59f6.png",
-        "badge": "claimed",
-        "badgeDesc": "Verified user",
+        "badge": "unverified",
+        "badgeDesc": "Unverified account",
         "country": {
-          "name": "Scotland",
-          "alpha3": "SCT",
-          "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/gb-sct.png",
+          "name": "Spain",
+          "alpha3": "ESP",
+          "image": "https://cuescore.com/img/flags/png-country-4x2-none/res-640x480/es.png",
           "continent": "Europe"
         },
         "livesIn": {
@@ -76647,7 +76647,7 @@
       "loserNext": ""
     }
   ],
-  "last_updated": "2026-09-09T10:41:11.310308+01:00",
+  "last_updated": "2026-09-09T14:56:50.260758+01:00",
   "tournament_start_date": "2025-07-19T06:45:00Z",
   "tournament_end_date": "2025-07-20T21:59:00Z",
   "tournament_display_date": "July 19 - July 20, 2025",
